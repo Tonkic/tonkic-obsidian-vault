@@ -23,6 +23,7 @@ $\phi(x) = w_b b(x) + w_s \,\text{spline}(x)$
 $b(x) = \text{silu}(x) = \frac{x}{1 + e^{-x}}$
 - spline初始化为几乎是0
 - 实现除法：先log，用减法，再exp回来
+- silu是[[sigmoid]]函数的一个变体
 
 
 
