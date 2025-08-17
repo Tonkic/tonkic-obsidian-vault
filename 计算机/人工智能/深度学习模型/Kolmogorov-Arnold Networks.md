@@ -21,6 +21,8 @@ aliases:
 ### Residual activation functions残差激活函数
 $\phi(x) = w_b b(x) + w_s \,\text{spline}(x)$
 $b(x) = \text{silu}(x) = \frac{x}{1 + e^{-x}}$
+- spline初始化为几乎是0
+- 
 
 
 
