@@ -18,4 +18,6 @@ aliases:
 - 如果固定两层会比较病态pathological，如果是三层可以学习到各种特征，比如exp函数，sin/cos函数，幂函数三种分三层
 - 可以将不同的$B_(x)$固定，真正学习的只是前面的参数$C_i$
 
+### Residual activation functions残差激活函数
+
 
