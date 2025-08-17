@@ -19,5 +19,8 @@ aliases:
 - 可以将不同的$B_(x)$固定，真正学习的只是前面的参数$C_i$
 
 ### Residual activation functions残差激活函数
+$\phi(x) = w_b b(x) + w_s \,\text{spline}(x)$
+$b(x) = \text{silu}(x) = \frac{x}{1 + e^{-x}}$
+
 
 
