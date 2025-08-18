@@ -1,7 +1,7 @@
 ### 概念
 Experts：专家网络，是[[前馈神经网络|FFN]]
 Router：路由/门控网络，控制选择哪个专家的“开关”，由FFNN+Softmax组成
-![[Pasted image 20250808184305.png]]
+![[../../../pic/Pasted image 20250808184305.png]]
 
 ### 分类
 Dense MoE：每次路由的时候，所有的专家都有可能被选中
