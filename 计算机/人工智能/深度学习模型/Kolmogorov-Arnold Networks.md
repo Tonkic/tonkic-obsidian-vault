@@ -24,6 +24,9 @@ $b(x) = \text{silu}(x) = \frac{x}{1 + e^{-x}}$
 - spline初始化为几乎是0
 - 实现除法：先log，用减法，再exp回来
 - silu是[[sigmoid]]函数的一个变体
+- B-spline表示为$B_{i,k}$，其中k表示k阶贝塞尔函数
+#### 贝塞尔函数
+![[Pasted image 20250818225045.png]]
 
 
 
