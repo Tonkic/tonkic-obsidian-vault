@@ -1,4 +1,4 @@
-Google AI 在2018年提出的一种基于[[Transformer]] 架构的双向预训练语言处理模型
+Google AI 在2018年提出的一种基于[Transformer](Transformer.md) 架构的双向预训练语言处理模型
 
 BERT 的输入是文本序列的向量模式，包括词向量、文本向量和位置向量
 词向量 一个词对于什么意思的字典

@@ -1,7 +1,7 @@
 ### 概念
-Experts：专家网络，是[[前馈神经网络|FFN]]
+Experts：专家网络，是[FFN](../深度学习模型/前馈神经网络.md)
 Router：路由/门控网络，控制选择哪个专家的“开关”，由FFNN+Softmax组成
-![[../../../pic/Pasted image 20250808184305.png]]
+![../../../pic/Pasted image 20250808184305.png](../../../pic/Pasted%20image%2020250808184305.png)
 
 ### 分类
 Dense MoE：每次路由的时候，所有的专家都有可能被选中
@@ -12,7 +12,7 @@ Sparse MoE：路由的时候，使用topK的专家，最后将几个专家聚合
 #### 方法
 keep topK：当某个专家选择过多的时候，加入高斯噪声降低他的得分
 Auxiliary Loss/Balancing Loss：
-![[Pasted image 20250808200349.png]]
+![Pasted image 20250808200349.png](../../../pic/Pasted%20image%2020250808200349.png)
 - $\alpha_1$：超参数，称为专家级平衡因子（expert-level balance factor），用于调整平衡损失在总损失中的权重。
 - $N'$：路由专家的总数，$N'$ = $mN - K_s$​（其中m是每个FFN专家被划分为m个更小的专家、N是专家的总数、$K_s$是共享专家的数量）。
 - $f_i$：专家i的频率（frequency），表示专家i被选择的频率。
