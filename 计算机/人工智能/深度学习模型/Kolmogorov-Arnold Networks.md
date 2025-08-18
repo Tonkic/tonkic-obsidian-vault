@@ -27,6 +27,3 @@ $b(x) = \text{silu}(x) = \frac{x}{1 + e^{-x}}$
 - B-spline表示为$B_{i,k}$，其中k表示k阶贝塞尔函数
 #### 贝塞尔函数
 ![[Pasted image 20250818225045.png]]
-
-
-
