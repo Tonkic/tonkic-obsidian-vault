@@ -20,10 +20,12 @@ aliases:
 
 ### Residual activation functions残差激活函数
 $\phi(x) = w_b b(x) + w_s \,\text{spline}(x)$
+
 $b(x) = \text{silu}(x) = \frac{x}{1 + e^{-x}}$
 - spline初始化为几乎是0
 - 实现除法：先log，用减法，再exp回来
 - silu是[sigmoid](../名词解释/sigmoid.md)函数的一个变体
 - B-spline表示为$B_{i,k}$，其中k表示k阶贝塞尔函数
+![](../../../pic/Pasted%20image%2020250818233448.png)
 #### 贝塞尔函数
 ![Pasted image 20250818225045.png](../../../pic/Pasted%20image%2020250818225045.png)
