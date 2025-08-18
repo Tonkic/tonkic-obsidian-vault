@@ -8,7 +8,7 @@ aliases:
   - L2距离
   - Linf距离
 ---
-![[../../../pic/Pasted image 20250223222224.png]]
+![../../../pic/Pasted image 20250223222224.png](../../../pic/Pasted%20image%2020250223222224.png)
 
 
 ## 均方误差(MSE)和均方根误差(RMSE)和平均绝对误差(MAE)
