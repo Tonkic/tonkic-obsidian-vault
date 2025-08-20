@@ -20,7 +20,17 @@ aliases:
 
 ### B-spline
 B-spline表示为$B_{i,k}$，其中k表示k阶贝塞尔函数
-![](../../../pic/Pasted%20image%2020250818233448.png)
+
+$$
+B_{i,k} = \begin{cases} 
+\begin{cases} 
+1, & t_i < t < t_{i+1} \\
+0, & \text{else}
+\end{cases}, & k=1 \\
+\frac{t - t_i}{t_{i+k-1} - t_i} B_{i,k-1}(t) + \frac{t_{i+k} - t}{t_{i+k} - t_{i+1}} B_{i+1,k-1}(t), & k \geq 2
+\end{cases}
+$$
+
 递归的，$B_{i,k}$需要$B_{i,k-1}$和$B_{i-1,k-1}$
 ### Residual activation functions残差激活函数
 加入b(x)作为残差
