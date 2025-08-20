@@ -32,7 +32,7 @@ B_{i,k} = \begin{cases}
 $$
 
 递归的，$B_{i,k}$需要$B_{i,k-1}$和$B_{i-1,k-1}$
-由于实际用的时候前面还有一个$C_i$，令B=1就是直接使用上一层的C
+由于实际用的时候前面还有一个$C_i$，令B=1就是单单使用$C_i$
 ### Residual activation functions残差激活函数
 加入b(x)作为残差
 $\phi(x) = w_b b(x) + w_s \,\text{spline}(x)$
