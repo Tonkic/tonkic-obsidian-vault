@@ -32,7 +32,7 @@ B_{i,k} = \begin{cases}
 $$
 
 递归的，$B_{i,k}$需要$B_{i,k-1}$和$B_{i-1,k-1}$
-由于实际用的时候前面还有一个$C_i$，令B=1就是单单使用$C_i$
+由于实际用的时候前面还有一个$C_i$，令B=1就是单单使用$C_i$，前面的系数表示t在区间$(t_i,t_{i+k-1})$中到左端点的距离和整段距离的比值
 ### Residual activation functions残差激活函数
 加入b(x)作为残差
 $\phi(x) = w_b b(x) + w_s \,\text{spline}(x)$
