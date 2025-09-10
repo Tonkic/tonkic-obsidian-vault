@@ -8,3 +8,5 @@ Best model at step 9600:
 Epoch 10000: saving model to runs/experiment/0-4/10000.pt ...
 
 'train' took 221.611588 s
+### 数据集位置
+- ref文件下
