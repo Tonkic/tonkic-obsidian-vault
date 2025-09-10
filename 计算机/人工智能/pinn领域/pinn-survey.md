@@ -9,3 +9,4 @@ Finite Difference Method 有限差分法
 - 该方法在离散度的选择方面提供了极大的自由，在函数 _u_ 的一个梯度较大的区域中，也可以使用较小的单元，如下所示![](../../../pic/Pasted%20image%2020250909233304.png)
 - 
 ### Multi-Objective Loss Balancing for Physics-Informed Deep Learning
+2025 年 5 月 1 日 190引用
