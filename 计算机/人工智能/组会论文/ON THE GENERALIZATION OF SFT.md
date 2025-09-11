@@ -15,4 +15,8 @@ ON THE GENERALIZATION OF SFT: A REINFORCEMENT LEARNING PERSPECTIVE WITH REWARD R
 **Q: 为什么这个方法这么简单却很有效？** A: 因为它直接针对了SFT的理论根源问题。通过数学分析揭示了SFT梯度中隐含的病态奖励结构，然后用最直接的方式修正了这个问题，所以虽然简单但非常有效。
 
 SFT相比RL存在泛化能力不行的问题
-importance weight是专家分布闭上模型分布
+importance weight是专家分布比上模型分布
+#### 优点
+- 更快的收敛
+- 更好的早期表现
+- 更高的学习效率
