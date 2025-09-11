@@ -47,5 +47,6 @@ A5: GHOST 是第一个在 One-Shot 场景下解决联邦图学习泛化和遗忘
 #### Ldiv（Divergence）
 特征向量视为维度上的概率分布，计算 逐节点的 KL(真实‖伪)并取均值
 #### Lfgw（Fused Gromov-Wasserstein）
-
+“节点 ↔ 节点”的软对应上同时考虑两类差异：若两个节点在原图中是邻居、在伪图对应的节点也应该是邻居；否则会被惩罚。
 #### Topology-Consistency Criterion
+GHOST 用来解决灾难性遗忘的方法。它通过衡量“参数对拓扑一致性的贡献”，找出关键参数
