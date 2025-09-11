@@ -27,3 +27,9 @@ A4: GHOST 在七个真实数据集上的节点分类任务中，几乎所有指�
 **Q5: 论文的最终结论是什么？**  
 A5: GHOST 是第一个在 One-Shot 场景下解决联邦图学习泛化和遗忘问题的框架。它通过代理模型提炼知识，并通过拓扑感知的机制保留关键信息，在保证通信高效的同时，还能取得优异的性能
 
+#### 去中心化
+不用上传数据，保护数据隐私
+#### Federated Graph Learning
+大图分小图
+#### One-shot Federated Learning
+#### Catastrophic Forgetting
