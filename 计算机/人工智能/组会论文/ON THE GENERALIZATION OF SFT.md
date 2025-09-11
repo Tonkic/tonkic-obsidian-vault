@@ -13,3 +13,6 @@ ON THE GENERALIZATION OF SFT: A REINFORCEMENT LEARNING PERSPECTIVE WITH REWARD R
 **Q: DFT和Focal Loss有什么关系？** A: 两者设计理念相反。Focal Loss是-(1-p)^γ log(p)，降低易分类样本的权重；而DFT是-p log(p)，降低难分类样本的权重。作者认为在LLM时代，欠拟合问题不如过拟合严重。
 **Q: 这个方法有什么局限性？** A: 目前的实验主要集中在数学推理任务和7B以下的模型。作者承认还需要在更多任务领域、更大模型以及多模态任务上验证方法的通用性。
 **Q: 为什么这个方法这么简单却很有效？** A: 因为它直接针对了SFT的理论根源问题。通过数学分析揭示了SFT梯度中隐含的病态奖励结构，然后用最直接的方式修正了这个问题，所以虽然简单但非常有效。
+
+SFT相比RL存在泛化能力不行的问题
+importance weight是专家分布闭上模型分布
