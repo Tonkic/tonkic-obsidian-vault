@@ -42,3 +42,10 @@ A5: GHOST 是第一个在 One-Shot 场景下解决联邦图学习泛化和遗忘
 - 节点集 V（例如用户、论文、商品等实体）
 - 边集 E（例如用户之间的好友关系、论文引用关系、商品共购关系）
 - 节点特征 X（例如论文的词袋向量、商品的属性特征）
+#### Ldisp（Dispersion）
+每个节点真实特征 $x_i$ 与代理生成特征 $\hat{x}_i$的平均余弦相似度的负号变形
+#### Ldiv（Divergence）
+特征向量视为维度上的概率分布，计算 逐节点的 KL(真实‖伪)并取均值
+#### Lfgw（Fused Gromov-Wasserstein）
+
+#### Topology-Consistency Criterion
