@@ -6,6 +6,7 @@ $$
 $$
 
 导数（简化形式）：
+- 该性质在反向传播中有用
 
 $$
 \sigma'(x) = \sigma(x) \cdot \big(1 - \sigma(x)\big)
