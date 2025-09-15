@@ -1,472 +1,655 @@
-##### Artificial Intelligence
-- 简称: AI
-- 出版社: Elsevier
-- 等级: A
-- 地址: [dblp.uni-trier.de/db/journals/ai/](http://dblp.uni-trier.de/db/journals/ai/)
 
-##### IEEE Transactions on Pattern Analysis and Machine Intelligence
-- 简称: TPAMI
-- 出版社: IEEE
-- 等级: A
-- 地址: [dblp.uni-trier.de/db/journals/pami/](http://dblp.uni-trier.de/db/journals/pami/)
-
-##### International Journal of Computer Vision
-- 简称: IJCV
-- 出版社: Springer
-- 等级: A
-- 地址: [dblp.uni-trier.de/db/journals/ijcv/](http://dblp.uni-trier.de/db/journals/ijcv/)
-
-##### Journal of Machine Learning Research
-- 简称: JMLR
-- 出版社: MIT Press
-- 等级: A
-- 地址: [dblp.uni-trier.de/db/journals/jmlr/](http://dblp.uni-trier.de/db/journals/jmlr/)
-
-##### ACM Transactions on Applied Perception
-- 简称: TAP
-- 出版社: ACM
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/tap/](http://dblp.uni-trier.de/db/journals/tap/)
-
-##### Autonomous Agents and Multi-Agent Systems
-- 简称: AAMAS
-- 出版社: Springer
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/aamas/](http://dblp.uni-trier.de/db/journals/aamas/)
-
-##### Computational Linguistics
-- 简称: Computational Linguistics
-- 出版社: MIT Press
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/coling/](http://dblp.uni-trier.de/db/journals/coling/)
-
-##### Computer Vision and Image Understanding
-- 简称: CVIU
-- 出版社: Elsevier
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/cviu/](http://dblp.uni-trier.de/db/journals/cviu/)
-
-##### Data & Knowledge Engineering
-- 简称: DKE
-- 出版社: Elsevier
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/dke/index.html](http://dblp.uni-trier.de/db/journals/dke/index.html)
-
-##### Evolutionary Computation
-- 简称: Evolutionary Computation
-- 出版社: MIT Press
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/ec/](http://dblp.uni-trier.de/db/journals/ec/)
-
-##### IEEE Transactions on Affective Computing
-- 简称: TAC
-- 出版社: IEEE
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/taffco/](http://dblp.uni-trier.de/db/journals/taffco/)
-
-##### IEEE/ACM Transactions on Audio, Speech and Language Processing
-- 简称: TASLP
-- 出版社: IEEE
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/taslp/](http://dblp.uni-trier.de/db/journals/taslp/)
-
-##### IEEE Transactions on Cybernetics
-- 简称: IEEE Transactions on Cybernetics
-- 出版社: IEEE
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/tcyb/](http://dblp.uni-trier.de/db/journals/tcyb/)
-
-##### IEEE Transactions on Evolutionary Computation
-- 简称: TEC
-- 出版社: IEEE
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/tec/](http://dblp.uni-trier.de/db/journals/tec/)
-
-##### IEEE Transactions on Fuzzy Systems
-- 简称: TFS
-- 出版社: IEEE
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/tfs/](http://dblp.uni-trier.de/db/journals/tfs/)
-
-##### IEEE Transactions on Neural Networks and Learning Systems
-- 简称: TNNLS
-- 出版社: IEEE
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/tnn/](http://dblp.uni-trier.de/db/journals/tnn/)
-
-##### International Journal of Approximate Reasoning
-- 简称: IJAR
-- 出版社: Elsevier
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/ijar/](http://dblp.uni-trier.de/db/journals/ijar/)
-
-##### Journal of Artificial Intelligence Research
-- 简称: JAIR
-- 出版社: AAAI
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/jair/index.html](http://dblp.uni-trier.de/db/journals/jair/index.html)
-
-##### Journal of Automated Reasoning
-- 简称: Journal of Automated Reasoning
-- 出版社: Springer
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/jar/](http://dblp.uni-trier.de/db/journals/jar/)
-
-##### Journal of Speech, Language, and Hearing Research
-- 简称: JSLHR
-- 出版社: American Speech-Language Hearing Association
-- 等级: B
-- 地址: [jslhr.pubs.asha.org/](http://jslhr.pubs.asha.org/)
-
-##### Machine Learning
-- 简称: Machine Learning
-- 出版社: Springer
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/ml/](http://dblp.uni-trier.de/db/journals/ml/)
-
-##### Neural Computation
-- 简称: Neural Computation
-- 出版社: MIT Press
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/neco/](http://dblp.uni-trier.de/db/journals/neco/)
-
-##### Neural Networks
-- 简称: Neural Networks
-- 出版社: Elsevier
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/nn/](http://dblp.uni-trier.de/db/journals/nn/)
-
-##### Pattern Recognition
-- 简称: PR
-- 出版社: Elsevier
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/par/](http://dblp.uni-trier.de/db/conf/par/)
-
-##### Transactions of the Association for Computational Linguistics
-- 简称: TACL
-- 出版社: The Association for Computational Linguistics
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/journals/tacl/index.html](https://dblp.org/db/journals/tacl/index.html)
-
-##### ACM Transactions on Asian and Low-Resource Language Information Processing
-- 简称: TALLIP
-- 出版社: ACM
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/talip/](http://dblp.uni-trier.de/db/journals/talip/)
-
-##### Applied Intelligence
-- 简称: Applied Intelligence
-- 出版社: Springer
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/apin/](http://dblp.uni-trier.de/db/journals/apin/)
-
-##### Artificial Intelligence in Medicine
-- 简称: AIM
-- 出版社: Elsevier
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/artmed/](http://dblp.uni-trier.de/db/journals/artmed/)
-
-##### Artificial Life
-- 简称: Artificial Life
-- 出版社: MIT Press
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/alife/](http://dblp.uni-trier.de/db/journals/alife/)
-
-##### Computational Intelligence
-- 简称: Computational Intelligence
-- 出版社: Wiley
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/ci/](http://dblp.uni-trier.de/db/journals/ci/)
-
-##### Computer Speech & Language
-- 简称: Computer Speech & Language
-- 出版社: Elsevier
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/csl/](http://dblp.uni-trier.de/db/journals/csl/)
-
-##### Connection Science
-- 简称: Connection Science
-- 出版社: Taylor & Francis
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/connection/](http://dblp.uni-trier.de/db/journals/connection/)
-
-##### Decision Support Systems
-- 简称: DSS
-- 出版社: Elsevier
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/dss/](http://dblp.uni-trier.de/db/journals/dss/)
-
-##### Engineering Applications of Artificial Intelligence
-- 简称: EAAI
-- 出版社: Elsevier
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/eaai/](http://dblp.uni-trier.de/db/journals/eaai/)
-
-##### Expert Systems
-- 简称: Expert Systems
-- 出版社: Blackwell / Wiley
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/es/](http://dblp.uni-trier.de/db/journals/es/)
-
-##### Expert Systems with Applications
-- 简称: ESWA
-- 出版社: Elsevier
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/eswa/](http://dblp.uni-trier.de/db/journals/eswa/)
-
-##### Fuzzy Sets and Systems
-- 简称: FSS
-- 出版社: Elsevier
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/fss/](http://dblp.uni-trier.de/db/journals/fss/)
-
-##### IEEE Transactions on Games
-- 简称: TG
-- 出版社: IEEE
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/tciaig/](http://dblp.uni-trier.de/db/journals/tciaig/)
-
-##### IET Computer Vision
-- 简称: IET-CVI
-- 出版社: IET
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/journals/iet-cvi/index.html](https://dblp.org/db/journals/iet-cvi/index.html)
-##### AAAI Conference on Artificial Intelligence
-- 简称: AAAI
-- 出版社: AAAI
-- 等级: A
-- 地址: [dblp.uni-trier.de/db/conf/aaai/](http://dblp.uni-trier.de/db/conf/aaai/)
-
-##### Conference on Neural Information Processing Systems
-- 简称: NeurIPS
-- 出版社: MIT Press
-- 等级: A
-- 地址: [dblp.uni-trier.de/db/conf/nips/](http://dblp.uni-trier.de/db/conf/nips/)
-
-##### Annual Meeting of the Association for Computational Linguistics
-- 简称: ACL
-- 出版社: ACL
-- 等级: A
-- 地址: [dblp.uni-trier.de/db/conf/acl/](http://dblp.uni-trier.de/db/conf/acl/)
-
-##### IEEE/CVF Computer Vision and Pattern Recognition Conference
-- 简称: CVPR
-- 出版社: IEEE
-- 等级: A
-- 地址: [dblp.uni-trier.de/db/conf/cvpr/](http://dblp.uni-trier.de/db/conf/cvpr/)
-
-##### International Conference on Computer Vision
-- 简称: ICCV
-- 出版社: IEEE
-- 等级: A
-- 地址: [dblp.uni-trier.de/db/conf/iccv/](http://dblp.uni-trier.de/db/conf/iccv/)
-
-##### International Conference on Machine Learning
-- 简称: ICML
-- 出版社: ACM
-- 等级: A
-- 地址: [dblp.uni-trier.de/db/conf/icml/](http://dblp.uni-trier.de/db/conf/icml/)
-
-##### International Joint Conference on Artificial Intelligence
-- 简称: IJCAI
-- 出版社: Morgan Kaufmann
-- 等级: A
-- 地址: [dblp.uni-trier.de/db/conf/ijcai/](http://dblp.uni-trier.de/db/conf/ijcai/)
-
-##### Annual Conference on Computational Learning Theory
-- 简称: COLT
-- 出版社: Springer
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/colt/](http://dblp.uni-trier.de/db/conf/colt/)
-
-##### Conference on Empirical Methods in Natural Language Processing
-- 简称: EMNLP
-- 出版社: ACL
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/emnlp/](http://dblp.uni-trier.de/db/conf/emnlp/)
-
-##### European Conference on Artificial Intelligence
-- 简称: ECAI
-- 出版社: IOS Press
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/ecai/](http://dblp.uni-trier.de/db/conf/ecai/)
-
-##### European Conference on Computer Vision
-- 简称: ECCV
-- 出版社: Springer
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/eccv/](http://dblp.uni-trier.de/db/conf/eccv/)
-
-##### IEEE International Conference on Robotics and Automation
-- 简称: ICRA
-- 出版社: IEEE
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/icra/](http://dblp.uni-trier.de/db/conf/icra/)
-
-##### International Conference on Automated Planning and Scheduling
-- 简称: ICAPS
-- 出版社: AAAI
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/aips/](http://dblp.uni-trier.de/db/conf/aips/)
-
-##### International Conference on Case-Based Reasoning
-- 简称: ICCBR
-- 出版社: Springer
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/iccbr/](http://dblp.uni-trier.de/db/conf/iccbr/)
-
-##### International Conference on Computational Linguistics
-- 简称: COLING
-- 出版社: ACM
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/coling/](http://dblp.uni-trier.de/db/conf/coling/)
-
-##### International Conference on Principles of Knowledge Representation and Reasoning
-- 简称: KR
-- 出版社: Morgan Kaufmann
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/kr/](http://dblp.uni-trier.de/db/conf/kr/)
-
-##### Conference on Uncertainty in Artificial Intelligence
-- 简称: UAI
-- 出版社: AUAI
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/uai/](http://dblp.uni-trier.de/db/conf/uai/)
-
-##### International Joint Conference on Autonomous Agents and Multi-agent Systems
-- 简称: AAMAS
-- 出版社: Springer
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/atal/index.html](http://dblp.uni-trier.de/db/conf/atal/index.html)
-
-##### Parallel Problem Solving from Nature
-- 简称: PPSN
-- 出版社: Springer
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/ppsn/](http://dblp.uni-trier.de/db/conf/ppsn/)
-
-##### North American Chapter of the Association for Computational Linguistics
-- 简称: NAACL
-- 出版社: Association for Computational Linguistics
-- 等级: B
-- 地址: [dblp.uni-trier.de/db/conf/naacl/](http://dblp.uni-trier.de/db/conf/naacl/)
-
-##### International Conference on Artificial Intelligence and Statistics
-- 简称: AISTATS
-- 出版社: JMLR
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/aistats/](http://dblp.uni-trier.de/db/conf/aistats/)
-
-##### Asian Conference on Computer Vision
-- 简称: ACCV
-- 出版社: Springer
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/accv/](http://dblp.uni-trier.de/db/conf/accv/)
-
-##### Asian Conference on Machine Learning
-- 简称: ACML
-- 出版社: JMLR
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/acml/](http://dblp.uni-trier.de/db/conf/acml/)
-
-##### British Machine Vision Conference
-- 简称: BMVC
-- 出版社: British Machine Vision Association
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/bmvc/](http://dblp.uni-trier.de/db/conf/bmvc/)
-
-##### Conference on Natural Language Processing and Chinese Computing
-- 简称: NLPCC
-- 出版社: Springer
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/nlpcc/](https://dblp.uni-trier.de/db/conf/nlpcc/)
-
-##### Conference on Computational Natural Language Learning
-- 简称: CoNLL
-- 出版社: Association for Computational Linguistics
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/conll](http://dblp.uni-trier.de/db/conf/conll)
-
-##### Genetic and Evolutionary Computation Conference
-- 简称: GECCO
-- 出版社: ACM
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/gecco/](http://dblp.uni-trier.de/db/conf/gecco/)
-
-##### IEEE International Conference on Tools with Artificial Intelligence
-- 简称: ICTAI
-- 出版社: IEEE
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/ictai/](http://dblp.uni-trier.de/db/conf/ictai/)
-
-##### IEEE/RSJ International Conference on Intelligent Robots and Systems
-- 简称: IROS
-- 出版社: IEEE
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/iros/](http://dblp.uni-trier.de/db/conf/iros/)
-
-##### International Conference on Algorithmic Learning Theory
-- 简称: ALT
-- 出版社: Springer
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/alt/](http://dblp.uni-trier.de/db/conf/alt/)
-
-##### International Conference on Artificial Neural Networks
-- 简称: ICANN
-- 出版社: Springer
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/icann/](http://dblp.uni-trier.de/db/conf/icann/)
-
-##### IEEE International Conference on Automatic Face and Gesture Recognition
-- 简称: FG
-- 出版社: IEEE
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/fgr/](http://dblp.uni-trier.de/db/conf/fgr/)
-
-##### International Conference on Document Analysis and Recognition
-- 简称: ICDAR
-- 出版社: IEEE
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/icdar/](http://dblp.uni-trier.de/db/conf/icdar/)
-
-##### International Conference on Inductive Logic Programming
-- 简称: ILP
-- 出版社: Springer
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/ilp/](http://dblp.uni-trier.de/db/conf/ilp/)
-
-##### International Conference on Knowledge Science, Engineering and Management
-- 简称: KSEM
-- 出版社: Springer
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/ksem/](http://dblp.uni-trier.de/db/conf/ksem/)
-
-##### International Conference on Neural Information Processing
-- 简称: ICONIP
-- 出版社: Springer
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/iconip/](http://dblp.uni-trier.de/db/conf/iconip/)
-
-##### International Conference on Pattern Recognition
-- 简称: ICPR
-- 出版社: IEEE
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/icpr/](http://dblp.uni-trier.de/db/conf/icpr/)
-
-##### International Joint Conference on Biometrics
-- 简称: IJCB
-- 出版社: IEEE
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/icb/](http://dblp.uni-trier.de/db/conf/icb/)
-
-##### International Joint Conference on Neural Networks
-- 简称: IJCNN
-- 出版社: IEEE
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/ijcnn/](http://dblp.uni-trier.de/db/conf/ijcnn/)
-
-##### Pacific Rim International Conference on Artificial Intelligence
-- 简称: PRICAI
-- 出版社: Springer
-- 等级: C
-- 地址: [dblp.uni-trier.de/db/conf/pricai/](http://dblp.uni-trier.de/db/conf/pricai/)
+| 序号  | 会议简称            | 会议全称                                                                                                                                                                                                 | 分类  | 类型  | 专业领域                 |
+| --- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | -------------------- |
+| 1   | PPoPP           | [ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming](http://dblp.uni-trier.de/db/conf/ppopp/)                                                                                    | A   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 2   | FAST            | [USENIX Conference on File and Storage Technologies](http://dblp.uni-trier.de/db/conf/fast/)                                                                                                         | A   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 3   | DAC             | [Design Automation Conference](https://dblp.uni-trier.de/db/conf/dac/)                                                                                                                               | A   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 4   | HPCA            | [IEEE International Symposium on High Performance Computer Architecture](http://dblp.uni-trier.de/db/conf/cnhpca/)                                                                                   | A   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 5   | MICRO           | [IEEE/ACM International Symposium on Microarchitecture](https://dblp.uni-trier.de/db/conf/micro/index.html)                                                                                          | A   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 6   | SC              | [International Conference for High Performance Computing, Networking, Storage, and Analysis](http://dblp.uni-trier.de/db/conf/sc/)                                                                   | A   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 7   | ASPLOS          | [International Conference on Architectural Support for Programming Languages and Operating Systems](http://dblp.uni-trier.de/db/conf/asplos/)                                                        | A   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 8   | ISCA            | [International Symposium on Computer Architecture](http://dblp.uni-trier.de/db/conf/isca/)                                                                                                           | A   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 9   | USENIX ATC      | [USENIX Annual Technical Conference](http://dblp.uni-trier.de/db/conf/usenix/index.html)                                                                                                             | A   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 10  | EuroSys         | [European Conference on Computer Systems](http://dblp.uni-trier.de/db/conf/eurosys/)                                                                                                                 | A   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 1   | SOCC            | [ACM Symposium on Cloud Computing](http://dblp.uni-trier.de/db/conf/cloud/)                                                                                                                          | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 2   | SPAA            | [ACM Symposium on Parallelism in Algorithms and Architectures](http://dblp.uni-trier.de/db/conf/spaa/)                                                                                               | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 3   | PODC            | [ACM Symposium on Principles of Distributed Computing](http://dblp.uni-trier.de/db/conf/podc/)                                                                                                       | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 4   | FPGA            | [ACM/SIGDA International Symposium on Field-Programmable Gate Arrays](http://dblp.uni-trier.de/db/conf/fpga/)                                                                                        | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 5   | CGO             | [The International Symposium on Code Generation and Optimization](http://dblp.uni-trier.de/db/conf/cgo/)                                                                                             | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 6   | DATE            | [Design, Automation & Test in Europe](http://dblp.uni-trier.de/db/conf/date/)                                                                                                                        | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 7   | HOT CHIPS       | [Hot Chips: A Symposium on High Performance Chips](https://dblp.org/db/conf/hotchips/index.html)                                                                                                     | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 8   | CLUSTER         | [IEEE International Conference on Cluster Computing](https://dblp.uni-trier.de/db/conf/cluster/)                                                                                                     | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 9   | ICCD            | [International Conference on Computer Design](http://dblp.uni-trier.de/db/conf/iccd/)                                                                                                                | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 10  | ICCAD           | [International Conference on Computer-Aided Design](http://dblp.uni-trier.de/db/conf/iccad/)                                                                                                         | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 11  | ICDCS           | [IEEE International Conference on Distributed Computing Systems](http://dblp.uni-trier.de/db/conf/icdcs/)                                                                                            | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 12  | CODES+ISSS      | [International Conference on Hardware/Software Co-design and System Synthesis](https://dblp.uni-trier.de/db/conf/codesisss/index.html)                                                               | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 13  | HiPEAC          | [International Conference on High Performance and Embedded Architectures and Compilers](http://dblp.uni-trier.de/db/conf/hipeac/)                                                                    | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 14  | SIGMETRICS      | [International Conference on Measurement and Modeling of Computer Systems](http://dblp.uni-trier.de/db/conf/sigmetrics/)                                                                             | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 15  | PACT            | [International Conference on Parallel Architectures and Compilation Techniques](http://dblp.uni-trier.de/db/conf/IEEEpact/)                                                                          | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 16  | ICPP            | [International Conference on Parallel Processing](http://dblp.uni-trier.de/db/conf/icpp/)                                                                                                            | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 17  | ICS             | [International Conference on Supercomputing](http://dblp.uni-trier.de/db/conf/ics/)                                                                                                                  | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 18  | VEE             | [International Conference on Virtual Execution Environments](http://dblp.uni-trier.de/db/conf/vee/)                                                                                                  | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 19  | IPDPS           | [IEEE International Parallel & Distributed Processing Symposium](http://dblp.uni-trier.de/db/conf/ipps/)                                                                                             | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 20  | Performance     | [International Symposium on Computer Performance, Modeling, Measurements and Evaluation](http://dblp.uni-trier.de/db/conf/performance/)                                                              | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 21  | HPDC            | [The International ACM Symposium on High-Performance Parallel and Distributed Computing](http://dblp.uni-trier.de/db/conf/hpdc/)                                                                     | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 22  | ITC             | [International Test Conference](http://dblp.uni-trier.de/db/conf/itc/)                                                                                                                               | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 23  | LISA            | [Large Installation system Administration Conference](http://dblp.uni-trier.de/db/conf/lisa/)                                                                                                        | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 24  | MSST            | [Mass Storage Systems and Technologies](http://dblp.uni-trier.de/db/conf/mss/)                                                                                                                       | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 25  | RTAS            | [IEEE Real-Time and Embedded Technology and ApplicationsSymposium](http://dblp.uni-trier.de/db/conf/rtas/)                                                                                           | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 26  | Euro-Par        | [European Conference on Parallel and Distributed Computing](http://dblp.uni-trier.de/db/conf/europar/)                                                                                               | B   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 1   | CF              | [ACM International Conference on Computing Frontiers](http://dblp.uni-trier.de/db/conf/cf)                                                                                                           | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 2   | SYSTOR          | [ACM International Systems and Storage Conference](http://dblp.uni-trier.de/db/conf/systor/index.html)                                                                                               | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 3   | NOCS            | [ACM/IEEE International Symposium on Networks-on-Chip](http://dblp.uni-trier.de/db/conf/nocs)                                                                                                        | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 4   | ASAP            | [IEEE International Conference on Application-Specific Systems, Architectures, and Processors](http://dblp.uni-trier.de/db/conf/asap)                                                                | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 5   | ASP-DAC         | [Asia and South Pacific Design Automation Conference](http://dblp.uni-trier.de/db/conf/aspdac)                                                                                                       | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 6   | ETS             | [IEEE European Test Symposium](http://dblp.uni-trier.de/db/conf/ets/)                                                                                                                                | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 7   | FPL             | [International Conference on Field-Programmable Logic and Applications](http://dblp.uni-trier.de/db/conf/fpl/)                                                                                       | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 8   | FCCM            | [IEEE Symposium on Field-Programmable Custom Computing Machines](http://dblp.uni-trier.de/db/conf/fccm/)                                                                                             | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 9   | GLSVLSI         | [Great Lakes Symposium on VLSI](http://dblp.uni-trier.de/db/conf/glvlsi/)                                                                                                                            | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 10  | ATS             | [IEEE Asian Test Symposium](http://dblp.uni-trier.de/db/conf/ats/)                                                                                                                                   | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 11  | HPCC            | [IEEE International Conference on High Performance Computing and Communications](http://dblp.uni-trier.de/db/conf/hpcc/)                                                                             | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 12  | HiPC            | [IEEE International Conference on High Performance Computing, Data and Analytics](http://dblp.uni-trier.de/db/conf/hipc/index.html)                                                                  | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 13  | MASCOTS         | [International Symposium on Modeling, Analysis, andSimulation of Computer and Telecommunication Systems](http://dblp.uni-trier.de/db/conf/mascots/)                                                  | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 14  | ISPA            | [IEEE International Symposium on Parallel and Distributed Processing with Applications](http://dblp.uni-trier.de/db/conf/ispa/)                                                                      | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 15  | CCGRID          | [IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing](http://dblp.uni-trier.de/db/conf/ccgrid/)                                                                                    | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 16  | NPC             | [IFIP International Conference on Network and Parallel Computing](http://dblp.uni-trier.de/db/conf/npc/)                                                                                             | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 17  | ICA3PP          | [International Conference on Algorithms and Architectures for Parallel Processing](http://dblp.uni-trier.de/db/conf/ica3pp/)                                                                         | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 18  | CASES           | [International Conference on Compilers, Architectures, and Synthesis for Embedded Systems](http://dblp.uni-trier.de/db/conf/cases/index.html)                                                        | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 19  | FPT             | [International Conference on Field-Programmable Technology](http://dblp.uni-trier.de/db/conf/fpt/)                                                                                                   | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 20  | ICPADS          | [International Conference on Parallel and Distributed Systems](http://dblp.uni-trier.de/db/conf/icpads/)                                                                                             | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 21  | ISCAS           | [IEEE International Symposium on Circuits and Systems](http://dblp.uni-trier.de/db/conf/iscas/)                                                                                                      | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 22  | ISLPED          | [International Symposium on Low Power Electronics and Design](http://dblp.uni-trier.de/db/conf/islped/)                                                                                              | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 23  | ISPD            | [International Symposium on Physical Design](http://dblp.uni-trier.de/db/conf/ispd/)                                                                                                                 | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 24  | HOTI            | [IEEE Symposium on High-Performance Interconnects](http://dblp.uni-trier.de/db/conf/hoti/)                                                                                                           | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 25  | VTS             | [IEEE VLSI Test Symposium](http://dblp.uni-trier.de/db/conf/vts/)                                                                                                                                    | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 26  | ITC-Asia        | [International Test Conference in Asia](https://dblp.org/db/conf/itc-asia/index.html)                                                                                                                | C   | 会议  | 计算机体系结构/并行与分布计算/存储系统 |
+| 1   | SIGCOMM         | [ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication](http://dblp.uni-trier.de/db/conf/sigcomm/index.html)                           | A   | 会议  | 计算机网络                |
+| 2   | MobiCom         | [ACM International Conference on Mobile Computing and Networking](http://dblp.uni-trier.de/db/conf/mobicom/)                                                                                         | A   | 会议  | 计算机网络                |
+| 3   | INFOCOM         | [IEEE International Conference on Computer Communications](http://dblp.uni-trier.de/db/conf/infocom/)                                                                                                | A   | 会议  | 计算机网络                |
+| 4   | NSDI            | [Symposium on Network System Design and Implementation](http://dblp.uni-trier.de/db/conf/nsdi/)                                                                                                      | A   | 会议  | 计算机网络                |
+| 1   | SenSys          | [ACM Conference on Embedded Networked Sensor Systems](http://dblp.uni-trier.de/db/conf/sensys/)                                                                                                      | B   | 会议  | 计算机网络                |
+| 2   | CoNEXT          | [ACM International Conference on emerging Networking EXperiments and Technologies](http://dblp.uni-trier.de/db/conf/conext/)                                                                         | B   | 会议  | 计算机网络                |
+| 3   | SECON           | [IEEE International Conference on Sensing, Communication, and Networking](http://dblp.uni-trier.de/db/conf/secon/)                                                                                   | B   | 会议  | 计算机网络                |
+| 4   | IPSN            | [International Conference on Information Processing in Sensor Networks](http://dblp.uni-trier.de/db/conf/ipsn/)                                                                                      | B   | 会议  | 计算机网络                |
+| 5   | MobiSys         | [ACM International Conference on Mobile Systems, Applications, and Services](http://dblp.uni-trier.de/db/conf/mobisys/)                                                                              | B   | 会议  | 计算机网络                |
+| 6   | ICNP            | [IEEE International Conference on Network Protocols](http://dblp.uni-trier.de/db/conf/icnp/)                                                                                                         | B   | 会议  | 计算机网络                |
+| 7   | MobiHoc         | [International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing](http://dblp.uni-trier.de/db/conf/mobihoc/)                                | B   | 会议  | 计算机网络                |
+| 8   | NOSSDAV         | [International Workshop on Network and Operating System Support for Digital Audio and Video](http://dblp.uni-trier.de/db/conf/nossdav/)                                                              | B   | 会议  | 计算机网络                |
+| 9   | IWQoS           | [IEEE/ACM International Workshop on Quality of Service](http://dblp.uni-trier.de/db/conf/iwqos/)                                                                                                     | B   | 会议  | 计算机网络                |
+| 10  | IMC             | [ACM Internet Measurement Conference](http://dblp.uni-trier.de/db/conf/imc/)                                                                                                                         | B   | 会议  | 计算机网络                |
+| 1   | ANCS            | [ACM/IEEE Symposium on Architectures for Networking and Communication Systems](http://dblp.uni-trier.de/db/conf/ancs/)                                                                               | C   | 会议  | 计算机网络                |
+| 2   | APNOMS          | [Asia-Pacific Network Operations and Management Symposium](http://dblp.uni-trier.de/db/conf/apnoms/)                                                                                                 | C   | 会议  | 计算机网络                |
+| 3   | FORTE           | [International Conference on Formal Techniques for Distributed Objects, Components, and Systems](http://dblp.uni-trier.de/db/conf/forte/)                                                            | C   | 会议  | 计算机网络                |
+| 4   | LCN             | [IEEE Conference on Local Computer Networks](http://dblp.uni-trier.de/db/conf/lcn/)                                                                                                                  | C   | 会议  | 计算机网络                |
+| 5   | GLOBECOM        | [IEEE Global Communications Conference](http://dblp.uni-trier.de/db/conf/globecom/)                                                                                                                  | C   | 会议  | 计算机网络                |
+| 6   | ICC             | [IEEE International Conference on Communications](http://dblp.uni-trier.de/db/conf/icc/)                                                                                                             | C   | 会议  | 计算机网络                |
+| 7   | ICCCN           | [IEEE International Conference on Computer Communications and Networks](http://dblp.uni-trier.de/db/conf/icccn/)                                                                                     | C   | 会议  | 计算机网络                |
+| 8   | MASS            | [IEEE International Conference on Mobile Ad-hoc and Sensor Systems](http://dblp.uni-trier.de/db/conf/mass/index.html)                                                                                | C   | 会议  | 计算机网络                |
+| 9   | P2P             | [IEEE International Conference on P2P Computing](http://dblp.uni-trier.de/db/conf/p2p/)                                                                                                              | C   | 会议  | 计算机网络                |
+| 10  | IPCCC           | [IEEE International Performance Computing and Communications Conference](http://dblp.uni-trier.de/db/conf/ipccc/)                                                                                    | C   | 会议  | 计算机网络                |
+| 11  | WoWMoM          | [IEEE International Symposium on a World of Wireless Mobile and Multimedia Networks](http://dblp.uni-trier.de/db/conf/wowmom/)                                                                       | C   | 会议  | 计算机网络                |
+| 12  | ISCC            | [IEEE Symposium on Computers and Communications](http://dblp.uni-trier.de/db/conf/iscc/)                                                                                                             | C   | 会议  | 计算机网络                |
+| 13  | WCNC            | [IEEE Wireless Communications and Networking Conference](http://dblp.uni-trier.de/db/conf/wcnc/)                                                                                                     | C   | 会议  | 计算机网络                |
+| 14  | Networking      | [IFIP International Conferences on Networking](http://dblp.uni-trier.de/db/conf/networking/index.html)                                                                                               | C   | 会议  | 计算机网络                |
+| 15  | IM              | [IFIP/IEEE International Symposium on Integrated NetworkManagement](http://dblp.uni-trier.de/db/conf/im/index.html)                                                                                  | C   | 会议  | 计算机网络                |
+| 16  | MSN             | [International Conference on Mobility, Sensing and Networking](https://dblp.uni-trier.de/db/conf/msn/)                                                                                               | C   | 会议  | 计算机网络                |
+| 17  | MSWiM           | [International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems](http://dblp.uni-trier.de/db/conf/mswim/)                                                              | C   | 会议  | 计算机网络                |
+| 18  | WASA            | [The International Conference on Wireless Artificial Intelligent Computing Systems and Applications](http://dblp.uni-trier.de/db/conf/wasa/)                                                         | C   | 会议  | 计算机网络                |
+| 19  | HotNets         | [ACM The Workshop on Hot Topics in Networks](http://dblp.uni-trier.de/db/conf/hotnets/)                                                                                                              | C   | 会议  | 计算机网络                |
+| 20  | APNet           | [Asia-Pacific Workshop on Networking](https://dblp.org/db/conf/apnet/index.html)                                                                                                                     | C   | 会议  | 计算机网络                |
+| 1   | CCS             | [ACM Conference on Computer and Communications Security](http://dblp.uni-trier.de/db/conf/ccs/)                                                                                                      | A   | 会议  | 网络与信息安全              |
+| 2   | EUROCRYPT       | [International Conference on the Theory and Applications of Cryptographic Techniques](http://dblp.uni-trier.de/db/conf/eurocrypt/)                                                                   | A   | 会议  | 网络与信息安全              |
+| 3   | S&P             | [IEEE Symposium on Security and Privacy](http://dblp.uni-trier.de/db/conf/sp/)                                                                                                                       | A   | 会议  | 网络与信息安全              |
+| 4   | CRYPTO          | [International Cryptology Conference](http://dblp.uni-trier.de/db/conf/crypto/)                                                                                                                      | A   | 会议  | 网络与信息安全              |
+| 5   | USENIX Security | [USENIX Security Symposium](http://dblp.uni-trier.de/db/conf/uss/)                                                                                                                                   | A   | 会议  | 网络与信息安全              |
+| 6   | NDSS            | [Network and Distributed System Security Symposium](http://dblp.uni-trier.de/db/conf/ndss/)                                                                                                          | A   | 会议  | 网络与信息安全              |
+| 1   | ACSAC           | [Annual Computer Security Applications Conference](http://dblp.uni-trier.de/db/conf/acsac/)                                                                                                          | B   | 会议  | 网络与信息安全              |
+| 2   | ASIACRYPT       | [Annual International Conference on the Theory and Application of Cryptology and Information Security](http://dblp.uni-trier.de/db/conf/asiacrypt/)                                                  | B   | 会议  | 网络与信息安全              |
+| 3   | ESORICS         | [European Symposium on Research in Computer Security](http://dblp.uni-trier.de/db/conf/esorics/)                                                                                                     | B   | 会议  | 网络与信息安全              |
+| 4   | FSE             | [Fast Software Encryption](http://dblp.uni-trier.de/db/conf/fse/)                                                                                                                                    | B   | 会议  | 网络与信息安全              |
+| 5   | CSFW            | [IEEE Computer Security Foundations Workshop](http://dblp.uni-trier.de/db/conf/csfw/)                                                                                                                | B   | 会议  | 网络与信息安全              |
+| 6   | SRDS            | [IEEE International Symposium on Reliable Distributed Systems](http://dblp.uni-trier.de/db/conf/srds/)                                                                                               | B   | 会议  | 网络与信息安全              |
+| 7   | CHES            | [International Conference on Cryptographic Hardware and Embedded Systems](http://dblp.uni-trier.de/db/conf/ches/)                                                                                    | B   | 会议  | 网络与信息安全              |
+| 8   | DSN             | [International Conference on Dependable Systems and Networks](http://dblp.uni-trier.de/db/conf/dsn/)                                                                                                 | B   | 会议  | 网络与信息安全              |
+| 9   | RAID            | [International Symposium on Recent Advances in Intrusion Detection](http://dblp.uni-trier.de/db/conf/raid/)                                                                                          | B   | 会议  | 网络与信息安全              |
+| 10  | PKC             | [International Workshop on Practice and Theory in Public Key Cryptography](http://dblp.uni-trier.de/db/conf/pkc/)                                                                                    | B   | 会议  | 网络与信息安全              |
+| 11  | TCC             | [Theory of Cryptography Conference](http://dblp.uni-trier.de/db/conf/tcc/)                                                                                                                           | B   | 会议  | 网络与信息安全              |
+| 1   | WiSec           | [ACM Conference on Security and Privacy in Wireless and Mobile Networks](http://dblp.uni-trier.de/db/conf/wisec/)                                                                                    | C   | 会议  | 网络与信息安全              |
+| 2   | SACMAT          | [ACM Symposium on Access Control Models and Technologies](http://dblp.uni-trier.de/db/conf/sacmat/)                                                                                                  | C   | 会议  | 网络与信息安全              |
+| 3   | DRM             | [ACM Workshop on Digital Rights Management](http://dblp.uni-trier.de/db/conf/drm/)                                                                                                                   | C   | 会议  | 网络与信息安全              |
+| 4   | IH&MMSec        | [ACM Workshop on Information Hiding and Multimedia Security](http://dblp.uni-trier.de/db/conf/ih/)                                                                                                   | C   | 会议  | 网络与信息安全              |
+| 5   | ACNS            | [International Conference on Applied Cryptography and Network Security](http://dblp.uni-trier.de/db/conf/acns/)                                                                                      | C   | 会议  | 网络与信息安全              |
+| 6   | AsiaCCS         | [ACM Asia Conference on Computer and Communications Security](http://dblp.uni-trier.de/db/conf/ccs/)                                                                                                 | C   | 会议  | 网络与信息安全              |
+| 7   | ACISP           | [AustralasiaConferenceonInformation SecurityandPrivacy](http://dblp.uni-trier.de/db/conf/acisp/)                                                                                                     | C   | 会议  | 网络与信息安全              |
+| 8   | CT-RSA          | [The Cryptographer’s Track at RSA Conference](http://dblp.uni-trier.de/db/conf/ctrsa/)                                                                                                               | C   | 会议  | 网络与信息安全              |
+| 9   | DIMVA           | [Conference on Detection of Intrusions and Malware & VulnerabilityAssessment](http://dblp.uni-trier.de/db/conf/dimva/)                                                                               | C   | 会议  | 网络与信息安全              |
+| 10  | DFRWS           | [Digital Forensic Research Workshop](http://dblp.uni-trier.de/db/conf/dfrws/)                                                                                                                        | C   | 会议  | 网络与信息安全              |
+| 11  | FC              | [Financial Cryptography and Data Security](http://dblp.uni-trier.de/db/conf/fc/)                                                                                                                     | C   | 会议  | 网络与信息安全              |
+| 12  | TrustCom        | [IEEE International Conference on Trust,Security and Privacy in Computing and Communications](http://dblp.uni-trier.de/db/conf/trustcom/)                                                            | C   | 会议  | 网络与信息安全              |
+| 13  | SEC             | [IFIP International Information Security Conference](http://dblp.uni-trier.de/db/conf/sec/)                                                                                                          | C   | 会议  | 网络与信息安全              |
+| 14  | IFIP WG 11.9    | [IFIP Working Group 11.9 International Conference on Digital Forensics](https://dblp.org/db/conf/ifip11-9/index.html)                                                                                | C   | 会议  | 网络与信息安全              |
+| 15  | ISC             | [Information Security Conference](http://dblp.uni-trier.de/db/conf/isw/)                                                                                                                             | C   | 会议  | 网络与信息安全              |
+| 16  | ICDF2C          | [International Conference on Digital Forensics & Cyber Crime](http://dblp.uni-trier.de/db/conf/icdf2c/)                                                                                              | C   | 会议  | 网络与信息安全              |
+| 17  | ICICS           | [International Conference on Information and Communications Security](http://dblp.uni-trier.de/db/conf/icics/)                                                                                       | C   | 会议  | 网络与信息安全              |
+| 18  | SecureComm      | [International Conference on Security and Privacy in Communication Networks](http://dblp.uni-trier.de/db/conf/securecomm/)                                                                           | C   | 会议  | 网络与信息安全              |
+| 19  | NSPW            | [New Security Paradigms Workshop](http://dblp.uni-trier.de/db/conf/nspw/)                                                                                                                            | C   | 会议  | 网络与信息安全              |
+| 20  | PAM             | [Passive and Active Measurement Conference](http://dblp.uni-trier.de/db/conf/pam/)                                                                                                                   | C   | 会议  | 网络与信息安全              |
+| 21  | PETS            | [Privacy Enhancing Technologies Symposium](http://dblp.uni-trier.de/db/conf/pet/)                                                                                                                    | C   | 会议  | 网络与信息安全              |
+| 22  | SAC             | [Selected Areas in Cryptography](http://dblp.uni-trier.de/db/conf/sacrypt/)                                                                                                                          | C   | 会议  | 网络与信息安全              |
+| 23  | SOUPS           | [Symposium On Usable Privacy and Security](http://dblp.uni-trier.de/db/conf/soups/)                                                                                                                  | C   | 会议  | 网络与信息安全              |
+| 24  | HotSec          | [](http://www.usenix.org/events/)                                                                                                                                                                    | C   | 会议  | 网络与信息安全              |
+| 25  | EuroS&P         | [IEEE European Symposium on Security and Privacy](https://dblp.org/db/conf/eurosp/index.html)                                                                                                        | C   | 会议  | 网络与信息安全              |
+| 26  | Inscrypt        | [International Conference on Information Security and Cryptology](https://dblp.org/db/conf/cisc/index.html)                                                                                          | C   | 会议  | 网络与信息安全              |
+| 1   | PLDI            | [ACM SIGPLAN Conference on Programming Language Design and Implementation](http://dblp.uni-trier.de/db/conf/pldi/)                                                                                   | A   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 2   | POPL            | [ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages](http://dblp.uni-trier.de/db/conf/popl/)                                                                                        | A   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 3   | FSE             | [ACM International Conference on the Foundations of Software Engineering](http://dblp.uni-trier.de/db/conf/sigsoft/)                                                                                 | A   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 4   | SOSP            | [ACM Symposium on Operating Systems Principles](http://dblp.uni-trier.de/db/conf/sosp/)                                                                                                              | A   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 5   | OOPSLA          | [Conference on Object-Oriented Programming Systems, Languages,and Applications](http://dblp.uni-trier.de/db/conf/oopsla/)                                                                            | A   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 6   | ASE             | [International Conference on Automated Software Engineering](http://dblp.uni-trier.de/db/conf/kbse/)                                                                                                 | A   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 7   | ICSE            | [International Conference on Software Engineering](http://dblp.uni-trier.de/db/conf/icse/)                                                                                                           | A   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 8   | ISSTA           | [International Symposium on Software Testing and Analysis](http://dblp.uni-trier.de/db/conf/issta/)                                                                                                  | A   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 9   | OSDI            | [USENIX Symposium on Operating Systems Design and Implementations](http://dblp.uni-trier.de/db/conf/osdi/)                                                                                           | A   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 10  | FM              | [International Symposium on Formal Methods](http://dblp.uni-trier.de/db/conf/fm/)                                                                                                                    | A   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 1   | ECOOP           | [European Conference on Object-Oriented Programming](http://dblp.uni-trier.de/db/conf/ecoop/)                                                                                                        | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 2   | ETAPS           | [European Joint Conferences on Theory and Practice of Software](http://dblp.uni-trier.de/db/conf/etaps/)                                                                                             | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 3   | ICPC            | [IEEE International Conference on Program Comprehension](http://dblp.uni-trier.de/db/conf/iwpc/)                                                                                                     | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 4   | RE              | [IEEE International Requirements Engineering Conference](http://dblp.uni-trier.de/db/conf/re/)                                                                                                       | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 5   | CAiSE           | [International Conference on Advanced Information Systems Engineering](http://dblp.uni-trier.de/db/conf/caise/)                                                                                      | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 6   | ICFP            | [ACM SIGPLAN International Conference on Function Programming](http://dblp.uni-trier.de/db/conf/icfp/)                                                                                               | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 7   | LCTES           | [ACM SIGPLAN/SIGBED International Conference on Languages, Compilers andTools for Embedded Systems](http://dblp.uni-trier.de/db/conf/lctrts/)                                                        | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 8   | MoDELS          | [ACM/IEEE International Conference on Model Driven Engineering Languages and Systems](http://dblp.uni-trier.de/db/conf/models/)                                                                      | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 9   | CP              | [International Conference on Principles and Practice of Constraint Programming](http://dblp.uni-trier.de/db/conf/cp/)                                                                                | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 10  | ICSOC           | [International Conference on Service Oriented Computing](http://dblp.uni-trier.de/db/conf/icsoc/)                                                                                                    | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 11  | SANER           | [IEEE International Conference on Software Analysis, Evolution,and Reengineering](http://dblp.uni-trier.de/db/conf/wcre/)                                                                            | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 12  | ICSME           | [International Conference on Software Maintenance and Evolution](http://dblp.uni-trier.de/db/conf/icsm/)                                                                                             | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 13  | VMCAI           | [International Conference on Verification,Model Checking, and Abstract Interpretation](http://dblp.uni-trier.de/db/conf/vmcai/)                                                                      | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 14  | ICWS            | [IEEE International Conference on Web Services](http://dblp.uni-trier.de/db/conf/icws/)                                                                                                              | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 15  | Middleware      | [International Middleware Conference](http://dblp.uni-trier.de/db/conf/middleware/)                                                                                                                  | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 16  | SAS             | [International Static Analysis Symposium](http://dblp.uni-trier.de/db/conf/sas/)                                                                                                                     | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 17  | ESEM            | [International Symposium on Empirical Software Engineering and Measurement](http://dblp.uni-trier.de/db/conf/esem/)                                                                                  | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 18  | ISSRE           | [IEEE International Symposium on Software Reliability Engineering](http://dblp.uni-trier.de/db/conf/issre/)                                                                                          | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 19  | HotOS           | [USENIX Workshop on Hot Topics in Operating Systems](http://dblp.uni-trier.de/db/conf/hotos/)                                                                                                        | B   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 1   | PEPM            | [ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation](http://dblp.uni-trier.de/db/conf/pepm/)                                                                                        | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 2   | PASTE           | [ACMSIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering](http://dblp.uni-trier.de/db/conf/paste/)                                                                        | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 3   | APLAS           | [Asian Symposium on Programming Languages and Systems](http://dblp.uni-trier.de/db/conf/aplas/)                                                                                                      | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 4   | APSEC           | [Asia-Pacific Software Engineering Conference](http://dblp.uni-trier.de/db/conf/apsec/)                                                                                                              | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 5   | EASE            | [International Conference on Evaluation and Assessment in Software Engineering](http://dblp.uni-trier.de/db/conf/ease/)                                                                              | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 6   | ICECCS          | [International Conference on Engineering of Complex Computer Systems](http://dblp.uni-trier.de/db/conf/iceccs/)                                                                                      | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 7   | ICST            | [IEEE International Conference on Software Testing, Verification and Validation](http://dblp.uni-trier.de/db/conf/icst/)                                                                             | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 8   | ISPASS          | [IEEE International Symposium on Performance Analysis of Systems and Software](http://dblp.uni-trier.de/db/conf/ispass/)                                                                             | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 9   | SCAM            | [IEEE International Working Conference on Source Code Analysis and Manipulation](http://dblp.uni-trier.de/db/conf/scam/)                                                                             | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 10  | COMPSAC         | [International Computer Software and Applications Conference](http://dblp.uni-trier.de/db/conf/compsac/)                                                                                             | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 11  | ICFEM           | [International Conference on Formal Engineering Methods](http://dblp.uni-trier.de/db/conf/icfem/)                                                                                                    | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 12  | SSE             | [IEEE International Conference on Software Services Engineering](http://dblp.uni-trier.de/db/conf/IEEEscc/)                                                                                          | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 13  | ICSSP           | [International Conference on Software and System Process](http://dblp.uni-trier.de/db/conf/ispw/)                                                                                                    | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 14  | SEKE            | [International Conference on Software Engineering and Knowledge Engineering](http://dblp.uni-trier.de/db/conf/seke/)                                                                                 | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 15  | QRS             | [International Conference on Software Quality, Reliability and Security](http://paris.utdallas.edu/qrs/)                                                                                             | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 16  | ICSR            | [International Conference on Software Reuse](http://dblp.uni-trier.de/db/conf/icsr/)                                                                                                                 | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 17  | ICWE            | [International Conference on Web Engineering](http://dblp.uni-trier.de/db/conf/icwe/)                                                                                                                | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 18  | SPIN            | [International Symposium on Model Checking of Software](http://dblp.uni-trier.de/db/conf/spin/index.html)                                                                                            | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 19  | ATVA            | [International Symposium on Automated Technology for Verification and Analysis](http://dblp.uni-trier.de/db/conf/atva/)                                                                              | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 20  | LOPSTR          | [International Symposium on Logic-based Program Synthesis and Transformation](http://dblp.uni-trier.de/db/conf/lopstr/)                                                                              | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 21  | TASE            | [Theoretical Aspects of Software Engineering Conference](http://dblp.uni-trier.de/db/conf/tase/)                                                                                                     | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 22  | MSR             | [Mining Software Repositories](http://dblp.uni-trier.de/db/conf/msr/)                                                                                                                                | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 23  | REFSQ           | [Requirements Engineering: Foundation for Software Quality](http://dblp.uni-trier.de/db/conf/refsq/)                                                                                                 | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 24  | WICSA           | [Working IEEE/IFIP Conference on Software Architecture](http://dblp.uni-trier.de/db/conf/wicsa/)                                                                                                     | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 25  | Internetware    | [Asia-Pacific Symposium on Internetware](https://dblp.org/db/conf/internetware/index.html)                                                                                                           | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 26  | RV              | [International Conference on Runtime Verification](https://dblp.org/db/conf/rv/index.html)                                                                                                           | C   | 会议  | 软件工程/系统软件/程序设计语言     |
+| 1   | SIGMOD          | [ACM SIGMOD Conference](http://dblp.uni-trier.de/db/conf/sigmod/)                                                                                                                                    | A   | 会议  | 数据库/数据挖掘/内容检索        |
+| 2   | SIGKDD          | [ACM SIGKDD Conference on Knowledge Discovery and Data Mining](http://dblp.uni-trier.de/db/conf/kdd/)                                                                                                | A   | 会议  | 数据库/数据挖掘/内容检索        |
+| 3   | ICDE            | [IEEE International Conference on Data Engineering](http://dblp.uni-trier.de/db/conf/icde/)                                                                                                          | A   | 会议  | 数据库/数据挖掘/内容检索        |
+| 4   | SIGIR           | [International ACM SIGIR Conference on Research and Development in Information Retrieval](http://dblp.uni-trier.de/db/conf/sigir/)                                                                   | A   | 会议  | 数据库/数据挖掘/内容检索        |
+| 5   | VLDB            | [International Conference on Very Large Data Bases](http://dblp.uni-trier.de/db/conf/vldb/)                                                                                                          | A   | 会议  | 数据库/数据挖掘/内容检索        |
+| 1   | CIKM            | [ACM International Conference on Information and Knowledge Management](http://dblp.uni-trier.de/db/conf/cikm/)                                                                                       | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 2   | WSDM            | [ACM International Conference on Web Search and Data Mining](http://dblp.uni-trier.de/db/conf/wsdm/)                                                                                                 | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 3   | PODS            | [ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems](http://dblp.uni-trier.de/db/conf/pods/)                                                                                        | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 4   | DASFAA          | [International Conference on Database Systems for Advanced Applications](http://dblp.uni-trier.de/db/conf/dasfaa/)                                                                                   | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 5   | ECML-PKDD       | [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases](http://dblp.uni-trier.de/db/conf/ecml/)                                                    | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 6   | ISWC            | [IEEE International Semantic Web Conference](http://dblp.uni-trier.de/db/conf/semweb/)                                                                                                               | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 7   | ICDM            | [IEEE International Conference on Data Mining](http://dblp.uni-trier.de/db/conf/icdm/)                                                                                                               | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 8   | ICDT            | [International Conference on Database Theory](http://dblp.uni-trier.de/db/conf/icdt/)                                                                                                                | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 9   | EDBT            | [International Conference on Extending DatabaseTechnology](http://dblp.uni-trier.de/db/conf/edbt/)                                                                                                   | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 10  | CIDR            | [Conference on Innovative DataSystems Research](http://dblp.uni-trier.de/db/conf/cidr/)                                                                                                              | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 11  | SDM             | [SIAM International Conference on Data Mining](http://dblp.uni-trier.de/db/conf/sdm/)                                                                                                                | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 12  | RecSys          | [ACM Conference on Recommender Systems](https://dblp.org/db/conf/recsys/index.html)                                                                                                                  | B   | 会议  | 数据库/数据挖掘/内容检索        |
+| 1   | APWeb           | [Asia Pacific Web Conference](http://dblp.uni-trier.de/db/conf/apweb/)                                                                                                                               | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 2   | DEXA            | [International Conference on Database and Expert System Applications](http://dblp.uni-trier.de/db/conf/dexa/)                                                                                        | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 3   | ECIR            | [European Conference on Information Retrieval](http://dblp.uni-trier.de/db/conf/ecir/)                                                                                                               | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 4   | ESWC            | [Extended Semantic Web Conference](http://dblp.uni-trier.de/db/conf/esws/)                                                                                                                           | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 5   | WebDB           | [International Workshop on Web andDatabases](http://dblp.uni-trier.de/db/conf/webdb/)                                                                                                                | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 6   | ER              | [International Conference on Conceptual Modeling](http://dblp.uni-trier.de/db/conf/er/)                                                                                                              | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 7   | MDM             | [International Conference on Mobile Data Management](http://dblp.uni-trier.de/db/conf/mdm/)                                                                                                          | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 8   | SSDBM           | [International Conference on Scientific andStatistical Database Management](http://dblp.uni-trier.de/db/conf/ssdbm/)                                                                                 | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 9   | WAIM            | [International Conference on Web Age Information Management](http://dblp.uni-trier.de/db/conf/waim/)                                                                                                 | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 10  | SSTD            | [International Symposium on Spatial and Temporal Databases](http://dblp.uni-trier.de/db/conf/ssd/)                                                                                                   | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 11  | PAKDD           | [Pacific-Asia Conference on Knowledge Discovery and Data Mining](http://dblp.uni-trier.de/db/conf/pakdd/)                                                                                            | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 12  | WISE            | [Web Information Systems Engineering](http://dblp.uni-trier.de/db/conf/wise/)                                                                                                                        | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 13  | ADMA            | [International Conference on Advanced Data Mining and Applications](https://dblp.org/db/conf/adma/index.html)                                                                                        | C   | 会议  | 数据库/数据挖掘/内容检索        |
+| 1   | STOC            | [ACM Symposium on Theory of Computing](http://dblp.uni-trier.de/db/conf/stoc/)                                                                                                                       | A   | 会议  | 计算机科学理论              |
+| 2   | SODA            | [ACM-SIAM Symposium on Discrete Algorithms](http://dblp.uni-trier.de/db/conf/soda/)                                                                                                                  | A   | 会议  | 计算机科学理论              |
+| 3   | CAV             | [International Conference on Computer Aided Verification](http://dblp.uni-trier.de/db/conf/cav/)                                                                                                     | A   | 会议  | 计算机科学理论              |
+| 4   | FOCS            | [IEEE Annual Symposium on Foundations of Computer Science](http://dblp.uni-trier.de/db/conf/focs/)                                                                                                   | A   | 会议  | 计算机科学理论              |
+| 5   | LICS            | [ACM/IEEE Symposium on Logic in Computer Science](http://dblp.uni-trier.de/db/conf/lics/)                                                                                                            | A   | 会议  | 计算机科学理论              |
+| 1   | SoCG            | [International Symposium on Computational Geometry](http://dblp.uni-trier.de/db/conf/compgeom/)                                                                                                      | B   | 会议  | 计算机科学理论              |
+| 2   | ESA             | [European Symposium on Algorithms](http://dblp.uni-trier.de/db/conf/esa/)                                                                                                                            | B   | 会议  | 计算机科学理论              |
+| 3   | CCC             | [Conference on Computational Complexity](http://dblp.uni-trier.de/db/conf/coco/)                                                                                                                     | B   | 会议  | 计算机科学理论              |
+| 4   | ICALP           | [International Colloquium on Automata, Languages and Programming](http://dblp.uni-trier.de/db/conf/icalp/)                                                                                           | B   | 会议  | 计算机科学理论              |
+| 5   |                 | [International Conference on Automated Deduction/International Joint Conference on Automated Reasoning](http://dblp.uni-trier.de/db/conf/cade/)                                                      | B   | 会议  | 计算机科学理论              |
+| 6   | CONCUR          | [International Conference on Concurrency Theory](http://dblp.uni-trier.de/db/conf/concur/)                                                                                                           | B   | 会议  | 计算机科学理论              |
+| 7   | HSCC            | [International Conference on Hybrid Systems: Computation and Control](http://dblp.uni-trier.de/db/conf/hybrid/)                                                                                      | B   | 会议  | 计算机科学理论              |
+| 8   | SAT             | [International Conference on Theory and Applications of Satisfiability Testing](http://dblp.uni-trier.de/db/conf/sat/)                                                                               | B   | 会议  | 计算机科学理论              |
+| 9   | COCOON          | [International Computing and Combinatorics Conference](https://dblp.org/db/conf/cocoon/index.html)                                                                                                   | B   | 会议  | 计算机科学理论              |
+| 1   | CSL             | [Computer Science Logic](http://dblp.uni-trier.de/db/conf/csl/)                                                                                                                                      | C   | 会议  | 计算机科学理论              |
+| 2   | FMCAD           | [Formal Method in Computer-Aided Design](http://dblp.uni-trier.de/db/conf/fmcad/)                                                                                                                    | C   | 会议  | 计算机科学理论              |
+| 3   | FSTTCS          | [Foundations of Software Technology and Theoretical Computer Science](http://dblp.uni-trier.de/db/conf/fsttcs/)                                                                                      | C   | 会议  | 计算机科学理论              |
+| 4   | DSAA            | [IEEE International Conference on Data Science and Advanced Analytics](https://dblp.uni-trier.de/db/conf/dsaa/)                                                                                      | C   | 会议  | 计算机科学理论              |
+| 5   | ICTAC           | [International Colloquium on Theoretical Aspects of Computing](http://dblp.uni-trier.de/db/conf/ictac/)                                                                                              | C   | 会议  | 计算机科学理论              |
+| 6   | IPCO            | [International Conference on Integer Programming and Combinatorial Optimization](http://dblp.uni-trier.de/db/conf/ipco/)                                                                             | C   | 会议  | 计算机科学理论              |
+| 7   | RTA             | [International Conference on Rewriting Techniques and Applications](http://dblp.uni-trier.de/db/conf/rta/)                                                                                           | C   | 会议  | 计算机科学理论              |
+| 8   | ISAAC           | [International Symposium on Algorithms and Computation](http://dblp.uni-trier.de/db/conf/isaac/)                                                                                                     | C   | 会议  | 计算机科学理论              |
+| 9   | MFCS            | [International Conference on Mathematical Foundations of Computer Science](http://dblp.uni-trier.de/db/conf/mfcs/)                                                                                   | C   | 会议  | 计算机科学理论              |
+| 10  | STACS           | [Symposium on Theoretical Aspects of Computer Science](http://dblp.uni-trier.de/db/conf/stacs/)                                                                                                      | C   | 会议  | 计算机科学理论              |
+| 11  | SETTA           | [International Symposium on Dependable Software Engineering: Theories, Tools, and Applications](https://dblp.org/db/conf/setta/index.html)                                                           | C   | 会议  | 计算机科学理论              |
+| 1   | ACM MM          | [ACM International Conference on Multimedia](http://dblp.uni-trier.de/db/conf/mm/)                                                                                                                   | A   | 会议  | 计算机图形学与多媒体           |
+| 2   | SIGGRAPH        | [ACM Special Interest Group on Computer Graphics](http://dblp.uni-trier.de/db/conf/siggraph/index.html)                                                                                              | A   | 会议  | 计算机图形学与多媒体           |
+| 3   | VR              | [IEEE Virtual Reality](http://dblp.uni-trier.de/db/conf/vr/)                                                                                                                                         | A   | 会议  | 计算机图形学与多媒体           |
+| 4   | IEEE VIS        | [IEEE Visualization Conference](http://dblp.uni-trier.de/db/conf/visualization/index.html)                                                                                                           | A   | 会议  | 计算机图形学与多媒体           |
+| 1   | ICMR            | [ACM SIGMM International Conference on Multimedia Retrieval](http://dblp.uni-trier.de/db/conf/mir/)                                                                                                  | B   | 会议  | 计算机图形学与多媒体           |
+| 2   | I3D             | [ACM SIGGRAPH Symposium onInteractive 3D Graphics and Games](http://dblp.uni-trier.de/db/conf/si3d/)                                                                                                 | B   | 会议  | 计算机图形学与多媒体           |
+| 3   | SCA             | [ACM SIGGRAPH/Eurographics Symposium on Computer Animation](http://dblp.uni-trier.de/db/conf/sca/index.html)                                                                                         | B   | 会议  | 计算机图形学与多媒体           |
+| 4   | DCC             | [Data Compression Conference](http://dblp.uni-trier.de/db/conf/dcc/)                                                                                                                                 | B   | 会议  | 计算机图形学与多媒体           |
+| 5   | Eurographics    | [Annual Conference of the European Association for Computer Graphics](http://dblp.uni-trier.de/db/conf/eurographics/)                                                                                | B   | 会议  | 计算机图形学与多媒体           |
+| 6   | EuroVis         | [Eurographics Conference on Visualization](http://dblp.uni-trier.de/db/conf/vissym/)                                                                                                                 | B   | 会议  | 计算机图形学与多媒体           |
+| 7   | SGP             | [Eurographics Symposium on Geometry Processing](http://dblp.uni-trier.de/db/conf/sgp/)                                                                                                               | B   | 会议  | 计算机图形学与多媒体           |
+| 8   | EGSR            | [Eurographics Symposium on Rendering](http://dblp.uni-trier.de/db/conf/rt/)                                                                                                                          | B   | 会议  | 计算机图形学与多媒体           |
+| 9   | ICASSP          | [IEEE International Conference on Acoustics,Speech and Signal Processing](http://dblp.uni-trier.de/db/conf/icassp/)                                                                                  | B   | 会议  | 计算机图形学与多媒体           |
+| 10  | ICME            | [IEEE International Conference on Multimedia& Expo](http://dblp.uni-trier.de/db/conf/icmcs/)                                                                                                         | B   | 会议  | 计算机图形学与多媒体           |
+| 11  | ISMAR           | [International Symposium on Mixed and Augmented Reality](http://dblp.uni-trier.de/db/conf/ismar/)                                                                                                    | B   | 会议  | 计算机图形学与多媒体           |
+| 12  | PG              | [Pacific Conference on Computer Graphics and Applications](http://dblp.uni-trier.de/db/conf/pg/index.html)                                                                                           | B   | 会议  | 计算机图形学与多媒体           |
+| 13  | SPM             | [Symposium on Solid and Physical Modeling](http://dblp.uni-trier.de/db/conf/sma/)                                                                                                                    | B   | 会议  | 计算机图形学与多媒体           |
+| 1   | VRST            | [ACM Symposium on Virtual Reality Software and Technology](http://dblp2.uni-trier.de/db/conf/vrst/)                                                                                                  | C   | 会议  | 计算机图形学与多媒体           |
+| 2   | CASA            | [International Conference on Computer Animation and Social Agents](http://dblp.uni-trier.de/db/conf/ca/)                                                                                             | C   | 会议  | 计算机图形学与多媒体           |
+| 3   | CGI             | [Computer Graphics International](http://dblp.uni-trier.de/db/conf/cgi/)                                                                                                                             | C   | 会议  | 计算机图形学与多媒体           |
+| 4   | INTERSPEECH     | [Conference of the International Speech Communication Association](http://dblp.uni-trier.de/db/conf/interspeech/index.html)                                                                          | C   | 会议  | 计算机图形学与多媒体           |
+| 5   | GMP             | [Geometric Modeling and Processing](http://dblp.uni-trier.de/db/conf/gmp/)                                                                                                                           | C   | 会议  | 计算机图形学与多媒体           |
+| 6   | PacificVis      | [IEEE Pacific Visualization Symposium](http://dblp.uni-trier.de/db/conf/apvis/)                                                                                                                      | C   | 会议  | 计算机图形学与多媒体           |
+| 7   | 3DV             | [International Conference on 3D Vision](https://dblp.uni-trier.de/db/conf/3dim/)                                                                                                                     | C   | 会议  | 计算机图形学与多媒体           |
+| 8   | CAD/Graphics    | [International Conference on Computer-Aided Design and Computer Graphics](https://dblp.uni-trier.de/db/conf/cadgraphics/)                                                                            | C   | 会议  | 计算机图形学与多媒体           |
+| 9   | ICIP            | [IEEE International Conference on Image Processing](http://dblp.uni-trier.de/db/conf/icip/)                                                                                                          | C   | 会议  | 计算机图形学与多媒体           |
+| 10  | MMM             | [International Conference on Multimedia Modeling](http://dblp.uni-trier.de/db/conf/mmm/index.html)                                                                                                   | C   | 会议  | 计算机图形学与多媒体           |
+| 11  | MMAsia          | [ACM Multimedia Asia](https://dblp.uni-trier.de/db/conf/mmasia/index.html)                                                                                                                           | C   | 会议  | 计算机图形学与多媒体           |
+| 12  | SMI             | [Shape Modeling International](http://dblp.uni-trier.de/db/conf/smi/)                                                                                                                                | C   | 会议  | 计算机图形学与多媒体           |
+| 13  | ICVRV           | [International Conference on Virtual Reality and Visualization](https://www.computer.org/csdl/proceedings/1800579)                                                                                   | C   | 会议  | 计算机图形学与多媒体           |
+| 14  | CVM             | [Computational Visual Media](https://dblp.org/db/conf/cvm/index.html)                                                                                                                                | C   | 会议  | 计算机图形学与多媒体           |
+| 15  | PRCV            | [Chinese Conference on Pattern Recognition and Computer Vision](https://dblp.org/db/conf/prcv/index.html)                                                                                            | C   | 会议  | 计算机图形学与多媒体           |
+| 1   | AAAI            | [AAAI Conference on Artificial Intelligence](http://dblp.uni-trier.de/db/conf/aaai/)                                                                                                                 | A   | 会议  | 人工智能                 |
+| 2   | NeurIPS         | [Conference on Neural Information Processing Systems](http://dblp.uni-trier.de/db/conf/nips/)                                                                                                        | A   | 会议  | 人工智能                 |
+| 3   | ACL             | [Annual Meeting of the Association for Computational Linguistics](http://dblp.uni-trier.de/db/conf/acl/)                                                                                             | A   | 会议  | 人工智能                 |
+| 4   | CVPR            | [IEEE/CVF Computer Vision and Pattern Recognition Conference](http://dblp.uni-trier.de/db/conf/cvpr/)                                                                                                | A   | 会议  | 人工智能                 |
+| 5   | ICCV            | [International Conference on Computer Vision](http://dblp.uni-trier.de/db/conf/iccv/)                                                                                                                | A   | 会议  | 人工智能                 |
+| 6   | ICML            | [International Conference on Machine Learning](http://dblp.uni-trier.de/db/conf/icml/)                                                                                                               | A   | 会议  | 人工智能                 |
+| 7   | IJCAI           | [International Joint Conference on Artificial Intelligence](http://dblp.uni-trier.de/db/conf/ijcai/)                                                                                                 | A   | 会议  | 人工智能                 |
+| 1   | COLT            | [Annual Conference on Computational Learning Theory](http://dblp.uni-trier.de/db/conf/colt/)                                                                                                         | B   | 会议  | 人工智能                 |
+| 2   | EMNLP           | [Conference on Empirical Methods in Natural Language Processing](http://dblp.uni-trier.de/db/conf/emnlp/)                                                                                            | B   | 会议  | 人工智能                 |
+| 3   | ECAI            | [European Conference on Artificial Intelligence](http://dblp.uni-trier.de/db/conf/ecai/)                                                                                                             | B   | 会议  | 人工智能                 |
+| 4   | ECCV            | [European Conference on Computer Vision](http://dblp.uni-trier.de/db/conf/eccv/)                                                                                                                     | B   | 会议  | 人工智能                 |
+| 5   | ICRA            | [IEEE International Conference on Robotics and Automation](http://dblp.uni-trier.de/db/conf/icra/)                                                                                                   | B   | 会议  | 人工智能                 |
+| 6   | ICAPS           | [International Conference on Automated Planning and Scheduling](http://dblp.uni-trier.de/db/conf/aips/)                                                                                              | B   | 会议  | 人工智能                 |
+| 7   | ICCBR           | [International Conference on Case-Based Reasoning](http://dblp.uni-trier.de/db/conf/iccbr/)                                                                                                          | B   | 会议  | 人工智能                 |
+| 8   | COLING          | [International Conference on Computational Linguistics](http://dblp.uni-trier.de/db/conf/coling/)                                                                                                    | B   | 会议  | 人工智能                 |
+| 9   | KR              | [International Conference on Principles of Knowledge Representation and Reasoning](http://dblp.uni-trier.de/db/conf/kr/)                                                                             | B   | 会议  | 人工智能                 |
+| 10  | UAI             | [Conference on Uncertainty in ArtificialIntelligence](http://dblp.uni-trier.de/db/conf/uai/)                                                                                                         | B   | 会议  | 人工智能                 |
+| 11  | AAMAS           | [International Joint Conference on Autonomous Agents and Multi-agent Systems](http://dblp.uni-trier.de/db/conf/atal/index.html)                                                                      | B   | 会议  | 人工智能                 |
+| 12  | PPSN            | [Parallel Problem Solving from Nature](http://dblp.uni-trier.de/db/conf/ppsn/)                                                                                                                       | B   | 会议  | 人工智能                 |
+| 13  | NAACL           | [North American Chapter of the Associationfor Computational Linguistics](http://dblp.uni-trier.de/db/conf/naacl/)                                                                                    | B   | 会议  | 人工智能                 |
+| 1   | AISTATS         | [International Conference on Artificial Intelligence and Statistics](http://dblp.uni-trier.de/db/conf/aistats/)                                                                                      | C   | 会议  | 人工智能                 |
+| 2   | ACCV            | [Asian Conference on Computer Vision](http://dblp.uni-trier.de/db/conf/accv/)                                                                                                                        | C   | 会议  | 人工智能                 |
+| 3   | ACML            | [Asian Conference on Machine Learning](http://dblp.uni-trier.de/db/conf/acml/)                                                                                                                       | C   | 会议  | 人工智能                 |
+| 4   | BMVC            | [British Machine Vision Conference](http://dblp.uni-trier.de/db/conf/bmvc/)                                                                                                                          | C   | 会议  | 人工智能                 |
+| 5   | NLPCC           | [CCF International Conference on Natural Language Processing and Chinese Computing](https://dblp.uni-trier.de/db/conf/nlpcc/)                                                                        | C   | 会议  | 人工智能                 |
+| 6   | CoNLL           | [Conference on Computational Natural Language Learning](http://dblp.uni-trier.de/db/conf/conll)                                                                                                      | C   | 会议  | 人工智能                 |
+| 7   | GECCO           | [Genetic and Evolutionary Computation Conference](http://dblp.uni-trier.de/db/conf/gecco/)                                                                                                           | C   | 会议  | 人工智能                 |
+| 8   | ICTAI           | [IEEE International Conference on Tools with Artificial Intelligence](http://dblp.uni-trier.de/db/conf/ictai/)                                                                                       | C   | 会议  | 人工智能                 |
+| 9   | IROS            | [IEEE/RSJ International Conference on Intelligent Robots and Systems](http://dblp.uni-trier.de/db/conf/iros/)                                                                                        | C   | 会议  | 人工智能                 |
+| 10  | ALT             | [International Conference on Algorithmic Learning Theory](http://dblp.uni-trier.de/db/conf/alt/)                                                                                                     | C   | 会议  | 人工智能                 |
+| 11  | ICANN           | [International Conference on Artificial Neural Networks](http://dblp.uni-trier.de/db/conf/icann/)                                                                                                    | C   | 会议  | 人工智能                 |
+| 12  | FG              | [IEEE International Conference on AutomaticFace and Gesture Recognition](http://dblp.uni-trier.de/db/conf/fgr/)                                                                                      | C   | 会议  | 人工智能                 |
+| 13  | ICDAR           | [International Conference on Document Analysis and Recognition](http://dblp.uni-trier.de/db/conf/icdar/)                                                                                             | C   | 会议  | 人工智能                 |
+| 14  | ILP             | [International Conference on Inductive Logic Programming](http://dblp.uni-trier.de/db/conf/ilp/)                                                                                                     | C   | 会议  | 人工智能                 |
+| 15  | KSEM            | [International conference on Knowledge Science,Engineering and Management](http://dblp.uni-trier.de/db/conf/ksem/)                                                                                   | C   | 会议  | 人工智能                 |
+| 16  | ICONIP          | [International Conference on Neural Information Processing](http://dblp.uni-trier.de/db/conf/iconip/)                                                                                                | C   | 会议  | 人工智能                 |
+| 17  | ICPR            | [International Conference on Pattern Recognition](http://dblp.uni-trier.de/db/conf/icpr/)                                                                                                            | C   | 会议  | 人工智能                 |
+| 18  | IJCB            | [International Joint Conference onBiometrics](http://dblp.uni-trier.de/db/conf/icb/)                                                                                                                 | C   | 会议  | 人工智能                 |
+| 19  | IJCNN           | [International Joint Conference on Neural Networks](http://dblp.uni-trier.de/db/conf/ijcnn/)                                                                                                         | C   | 会议  | 人工智能                 |
+| 20  | PRICAI          | [Pacific Rim International Conference on Artificial Intelligence](http://dblp.uni-trier.de/db/conf/pricai/)                                                                                          | C   | 会议  | 人工智能                 |
+| 1   | CSCW            | [ACM Conference on Computer Supported Cooperative Work and Social Computing](http://dblp.uni-trier.de/db/conf/cscw)                                                                                  | A   | 会议  | 人机交互与普适计算            |
+| 2   | CHI             | [ACM Conference on Human Factors in Computing Systems](http://dblp.uni-trier.de/db/conf/chi)                                                                                                         | A   | 会议  | 人机交互与普适计算            |
+| 3   | UbiComp/IMWUT   | [ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](https://dblp.org/db/journals/imwut/) | A   | 会议  | 人机交互与普适计算            |
+| 4   | UIST            | [ACM Symposium on User Interface Software and Technology](http://dblp.uni-trier.de/db/conf/uist/)                                                                                                    | A   | 会议  | 人机交互与普适计算            |
+| 1   | GROUP           | [ACM International Conference on Supporting Group Work](http://dblp.uni-trier.de/db/conf/group/)                                                                                                     | B   | 会议  | 人机交互与普适计算            |
+| 2   | IUI             | [ACM International Conference on Intelligent User Interfaces](http://dblp.uni-trier.de/db/conf/iui/)                                                                                                 | B   | 会议  | 人机交互与普适计算            |
+| 3   | ISS             | [ACM International Conference on Interactive Surfaces and Spaces](http://dblp.uni-trier.de/db/conf/tabletop/)                                                                                        | B   | 会议  | 人机交互与普适计算            |
+| 4   | ECSCW           | [European Conference on Computer Supported Cooperative Work](http://dblp.uni-trier.de/db/conf/ecscw/)                                                                                                | B   | 会议  | 人机交互与普适计算            |
+| 5   | PERCOM          | [IEEE International Conference on Pervasive Computing and Communications](http://dblp.uni-trier.de/db/conf/percom/)                                                                                  | B   | 会议  | 人机交互与普适计算            |
+| 6   | MobileHCI       | [ACM International Conference on Mobile Human-Computer Interaction](http://dblp.uni-trier.de/db/conf/mhci/)                                                                                          | B   | 会议  | 人机交互与普适计算            |
+| 7   | ICWSM           | [The International AAAI Conference on Web and Social Media](https://dblp.org/db/conf/icwsm/index.html)                                                                                               | B   | 会议  | 人机交互与普适计算            |
+| 1   | DIS             | [ACM SIGCHI Conference on Designing Interactive Systems](http://dblp.uni-trier.de/db/conf/ACMdis/)                                                                                                   | C   | 会议  | 人机交互与普适计算            |
+| 2   | ICMI            | [ACM International Conference on Multimodal Interaction](http://dblp.uni-trier.de/db/conf/icmi/)                                                                                                     | C   | 会议  | 人机交互与普适计算            |
+| 3   | ASSETS          | [International ACM SIGACCESS Conference on Computers and Accessibility](http://dblp.uni-trier.de/db/conf/assets)                                                                                     | C   | 会议  | 人机交互与普适计算            |
+| 4   | GI              | [Graphics Interface](http://dblp.uni-trier.de/db/conf/graphicsinterface/)                                                                                                                            | C   | 会议  | 人机交互与普适计算            |
+| 5   | UIC             | [IEEE International Conference on Ubiquitous Intelligence and Computing](http://dblp.uni-trier.de/db/conf/uic/)                                                                                      | C   | 会议  | 人机交互与普适计算            |
+| 6   |                 | [IEEE World Haptics Conference](http://dblp.uni-trier.de/db/conf/haptics/)                                                                                                                           | C   | 会议  | 人机交互与普适计算            |
+| 7   | INTERACT        | [International Conference on Human- Computer Interaction of International Federation for Information Processing](http://dblp.uni-trier.de/db/conf/interact/)                                         | C   | 会议  | 人机交互与普适计算            |
+| 8   | IDC             | [ACM Interaction Design and Children](http://dblp.uni-trier.de/db/conf/acmidc/)                                                                                                                      | C   | 会议  | 人机交互与普适计算            |
+| 9   | CollaborateCom  | [International Conference on Collaborative Computing:Networking, Applications and Worksharing](https://dblp.uni-trier.de/db/conf/colcom/)                                                            | C   | 会议  | 人机交互与普适计算            |
+| 10  | CSCWD           | [International Conference on Computer Supported Cooperative Work in Design](http://dblp.uni-trier.de/db/conf/cscwd/)                                                                                 | C   | 会议  | 人机交互与普适计算            |
+| 11  | CoopIS          | [International Conference on Cooperative Information Systems](http://dblp.uni-trier.de/db/conf/coopis/)                                                                                              | C   | 会议  | 人机交互与普适计算            |
+| 12  | MobiQuitous     | [International Conference on Mobile and Ubiquitous Systems: Computing,Networking and Services](http://dblp.uni-trier.de/db/conf/mobiquitous/)                                                        | C   | 会议  | 人机交互与普适计算            |
+| 13  | AVI             | [International Working Conference on Advanced Visual Interfaces](http://dblp.uni-trier.de/db/conf/avi/)                                                                                              | C   | 会议  | 人机交互与普适计算            |
+| 1   | WWW             | [International World Wide Web Conference](http://dblp.uni-trier.de/db/conf/www/)                                                                                                                     | A   | 会议  | 交叉/综合/新兴             |
+| 2   | RTSS            | [IEEE Real-Time Systems Symposium](http://dblp.uni-trier.de/db/conf/rtss/)                                                                                                                           | A   | 会议  | 交叉/综合/新兴             |
+| 3   | WINE            | [Conference on Web and Internet Economics](https://dblp.org/db/conf/wine/index.html)                                                                                                                 | A   | 会议  | 交叉/综合/新兴             |
+| 1   | CogSci          | [Annual Meeting of the Cognitive Science Society](http://cognitivesciencesociety.org/conference2013/index.html)                                                                                      | B   | 会议  | 交叉/综合/新兴             |
+| 2   | BIBM            | [IEEE International Conference on Bioinformatics and Biomedicine](http://dblp.uni-trier.de/db/conf/bibm/)                                                                                            | B   | 会议  | 交叉/综合/新兴             |
+| 3   | EMSOFT          | [International Conference on Embedded Software](http://dblp.uni-trier.de/db/conf/emsoft/)                                                                                                            | B   | 会议  | 交叉/综合/新兴             |
+| 4   | ISMB            | [International conference on Intelligent Systems for Molecular Biology](https://dblp.org/db/conf/ismb/index.html)                                                                                    | B   | 会议  | 交叉/综合/新兴             |
+| 5   | RECOMB          | [Annual International Conference on Research inComputational Molecular Biology](http://dblp.uni-trier.de/db/conf/recomb/)                                                                            | B   | 会议  | 交叉/综合/新兴             |
+| 6   | MICCAI          | [International Conference on Medical Image Computing and Computer-Assisted Intervention](https://dblp.org/db/conf/miccai/index.html)                                                                 | B   | 会议  | 交叉/综合/新兴             |
+| 1   | AMIA            | [American Medical Informatics Association Annual Symposium](http://dblp.uni-trier.de/db/conf/amia/)                                                                                                  | C   | 会议  | 交叉/综合/新兴             |
+| 2   | APBC            | [Asia Pacific Bioinformatics Conference](http://dblp.uni-trier.de/db/conf/apbc/)                                                                                                                     | C   | 会议  | 交叉/综合/新兴             |
+| 3   | IEEE BigData    | [IEEE International Conference on Big Data](https://dblp.uni-trier.de/db/conf/bigdataconf/)                                                                                                          | C   | 会议  | 交叉/综合/新兴             |
+| 4   | IEEE CLOUD      | [IEEE International Conference on Cloud Computing](http://dblp.uni-trier.de/db/conf/IEEEcloud/)                                                                                                      | C   | 会议  | 交叉/综合/新兴             |
+| 5   | SMC             | [IEEE International Conference on Systems, Man, and Cybernetics](https://dblp.uni-trier.de/db/conf/smc/)                                                                                             | C   | 会议  | 交叉/综合/新兴             |
+| 6   | COSIT           | [International Conference on Spatial Information Theory](http://dblp.uni-trier.de/db/conf/cosit/)                                                                                                    | C   | 会议  | 交叉/综合/新兴             |
+| 7   | ISBRA           | [International Symposium on Bioinformatics Research and Applications](https://dblp.uni-trier.de/db/conf/isbra/)                                                                                      | C   | 会议  | 交叉/综合/新兴             |
+| 8   | SAGT            | [International Symposium on Algorithmic Game Theory](https://dblp.org/db/conf/sagt/index.html)                                                                                                       | C   | 会议  | 交叉/综合/新兴             |
+| 9   | SIGSPATIAL      | [ACM Special Interest Group on Spatial Information](https://dblp.org/db/journals/sigspatial/index.html)                                                                                              | C   | 会议  | 交叉/综合/新兴             |
+| 10  | ICIC            | [International Conference on Intelligent Computing](https://dblp.org/db/conf/icic/index.html)                                                                                                        | C   | 会议  | 交叉/综合/新兴             |
+
+[[–]](https://ccf.atom.im/#)  
+
+## 中国计算机学会推荐国际学术期刊
+
+| 序号  | 刊物简称         | 刊物全称                                                                                                                              | 分类  | 类型  | 专业领域                 |
+| --- | ------------ | --------------------------------------------------------------------------------------------------------------------------------- | --- | --- | -------------------- |
+| 1   | TOCS         | [ACM Transactions on Computer Systems](http://dblp.uni-trier.de/db/journals/tocs/)                                                | A   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 2   | TOS          | [ACM Transactions on Storage](http://dblp.uni-trier.de/db/journals/tos/)                                                          | A   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 3   | TCAD         | [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](http://dblp.uni-trier.de/db/journals/tcad/)       | A   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 4   | TC           | [IEEE Transactions on Computers](http://dblp.uni-trier.de/db/journals/tc/index.html)                                              | A   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 5   | TPDS         | [IEEE Transactions on Parallel and Distributed Systems](http://dblp.uni-trier.de/db/journals/tpds/)                               | A   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 6   | TACO         | [ACM Transactions on Architecture and Code Optimization](http://dblp.uni-trier.de/db/journals/taco/)                              | A   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 1   | TAAS         | [ACM Transactions on Autonomous and Adaptive Systems](http://dblp.uni-trier.de/db/journals/taas/)                                 | B   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 2   | TODAES       | [ACM Transactions on Design Automation of Electronic Systems](http://dblp.uni-trier.de/db/journals/todaes/)                       | B   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 3   | TECS         | [ACM Transactions on Embedded Computing Systems](http://dblp.uni-trier.de/db/journals/tecs/)                                      | B   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 4   | TRETS        | [ACM Transactions on Reconfigurable Technology and Systems](http://dblp.uni-trier.de/db/journals/trets/)                          | B   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 5   | TVLSI        | [IEEE Transactions on Very Large Scale Integration (VLSI) Systems](http://dblp.uni-trier.de/db/journals/tvlsi/)                   | B   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 6   | JPDC         | [Journal of Parallel and Distributed Computing](http://dblp.uni-trier.de/db/journals/jpdc/)                                       | B   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 7   | JSA          | [Journal of Systems Architecture: Embedded Software Design](http://dblp.uni-trier.de/db/journals/jsa/)                            | B   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 8   |              | [Parallel Computing](https://dblp.org/db/journals/pc/index.html)                                                                  | B   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 9   |              | [Performance Evaluation: An International Journal](https://dblp.org/db/journals/pe/index.html)                                    | B   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 1   | JETC         | [ACM Journal on Emerging Technologies in Computing Systems](http://dblp.uni-trier.de/db/journals/jetc/)                           | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 2   |              | [Concurrency and Computation: Practice and Experience](http://dblp.uni-trier.de/db/journals/concurrency/)                         | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 3   | DC           | [Distributed Computing](http://dblp.uni-trier.de/db/journals/dc/)                                                                 | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 4   | FGCS         | [Future Generation Computer Systems](http://dblp.uni-trier.de/db/journals/fgcs/)                                                  | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 5   | TCC          | [IEEE Transactions on Cloud Computing](https://dblp.uni-trier.de/db/journals/tcc/)                                                | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 6   | Integration  | [Integration, the VLSI Journal](http://dblp.uni-trier.de/db/journals/integration/)                                                | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 7   | JETTA        | [Journal of Electronic Testing-Theory and Applications](https://dblp.org/db/journals/et/index.html)                               | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 8   | JGC          | [The Journal of Grid computing](http://link.springer.com/journal/10723)                                                           | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 9   | RTS          | [Real-Time Systems](http://dblp.uni-trier.de/db/journals/rts/)                                                                    | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 10  | TJSC         | [The Journal of Supercomputing](http://dblp.uni-trier.de/db/journals/tjs/)                                                        | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 11  | TCASI        | [IEEE Transactions on Circuits and Systems I: Regular Papers](https://dblp.org/db/journals/tcasI/index.html)                      | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 12  | CCF-THPC     | [CCF Transactions on High Performance Computing](https://dblp.org/db/journals/ccfthpc/index.html)                                 | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 13  | TSUSC        | [IEEE Transactions on Sustainable Computing](https://dblp.org/db/journals/tsusc/index.html)                                       | C   | 期刊  | 计算机体系结构/并行与分布计算/存储系统 |
+| 1   | JSAC         | [IEEE Journal on Selected Areas in Communications](http://dblp.uni-trier.de/db/journals/jsac/)                                    | A   | 期刊  | 计算机网络                |
+| 2   | TMC          | [IEEE Transactions on Mobile Computing](http://dblp.uni-trier.de/db/journals/tmc/)                                                | A   | 期刊  | 计算机网络                |
+| 3   | TON          | [IEEE/ACM Transactions on Networking](http://dblp.uni-trier.de/db/journals/ton/)                                                  | A   | 期刊  | 计算机网络                |
+| 1   | TOIT         | [ACM Transactions on Internet Technology](http://dblp.uni-trier.de/db/journals/toit/)                                             | B   | 期刊  | 计算机网络                |
+| 2   | TOMM         | [ACM Transactions on Multimedia Computing, Communications and Applications](http://dblp.uni-trier.de/db/journals/tomccap/)        | B   | 期刊  | 计算机网络                |
+| 3   | TOSN         | [ACM Transactions on Sensor Networks](http://dblp.uni-trier.de/db/journals/tosn/)                                                 | B   | 期刊  | 计算机网络                |
+| 4   | CN           | [Computer Networks](http://dblp.uni-trier.de/db/journals/cn/)                                                                     | B   | 期刊  | 计算机网络                |
+| 5   | TCOM         | [IEEE Transactions on Communications](http://dblp.uni-trier.de/db/journals/tcom/)                                                 | B   | 期刊  | 计算机网络                |
+| 6   | TWC          | [IEEE Transactions on Wireless Communications](http://dblp.uni-trier.de/db/journals/twc/)                                         | B   | 期刊  | 计算机网络                |
+| 1   |              | [Ad hoc Networks](http://dblp.uni-trier.de/db/journals/adhoc/)                                                                    | C   | 期刊  | 计算机网络                |
+| 2   | CC           | [Computer Communications](http://dblp.uni-trier.de/db/journals/comcom/)                                                           | C   | 期刊  | 计算机网络                |
+| 3   | TNSM         | [IEEE Transactions on Network and Service Management](http://dblp.uni-trier.de/db/journals/tnsm/)                                 | C   | 期刊  | 计算机网络                |
+| 4   |              | [IET Communications](http://dblp.uni-trier.de/db/journals/iet-com/)                                                               | C   | 期刊  | 计算机网络                |
+| 5   | JNCA         | [Journal of Network and Computer Applications](http://dblp.uni-trier.de/db/journals/jnca/)                                        | C   | 期刊  | 计算机网络                |
+| 6   | MONET        | [Mobile Networks and Applications](http://dblp.uni-trier.de/db/journals/monet/)                                                   | C   | 期刊  | 计算机网络                |
+| 7   |              | [Networks](http://dblp.uni-trier.de/db/journals/networks/)                                                                        | C   | 期刊  | 计算机网络                |
+| 8   | PPNA         | [Peer-to-Peer Networking and Applications](http://dblp.uni-trier.de/db/journals/ppna/)                                            | C   | 期刊  | 计算机网络                |
+| 9   | WCMC         | [Wireless Communications and Mobile Computing](http://dblp.uni-trier.de/db/journals/wicomm/)                                      | C   | 期刊  | 计算机网络                |
+| 10  |              | [Wireless Networks](http://dblp.uni-trier.de/db/journals/winet/)                                                                  | C   | 期刊  | 计算机网络                |
+| 11  | IOT          | [IEEE Internet of Things Journal](https://dblp.org/db/journals/iotj/index.html)                                                   | C   | 期刊  | 计算机网络                |
+| 1   | TDSC         | [IEEE Transactions on Dependable and Secure Computing](http://dblp.uni-trier.de/db/journals/tdsc/)                                | A   | 期刊  | 网络与信息安全              |
+| 2   | TIFS         | [IEEE Transactions on Information Forensics and Security](http://dblp.uni-trier.de/db/journals/tifs/)                             | A   | 期刊  | 网络与信息安全              |
+| 3   |              | [Journal of Cryptology](http://dblp.uni-trier.de/db/journals/joc/)                                                                | A   | 期刊  | 网络与信息安全              |
+| 1   | TOPS         | [ACM Transactions on Privacy and Security](https://dblp.org/db/journals/tissec/index.html)                                        | B   | 期刊  | 网络与信息安全              |
+| 2   |              | [Computers & Security](http://dblp.uni-trier.de/db/journals/compsec/)                                                             | B   | 期刊  | 网络与信息安全              |
+| 3   |              | [Designs, Codes and Cryptography](http://dblp.uni-trier.de/db/journals/dcc/)                                                      | B   | 期刊  | 网络与信息安全              |
+| 4   | JCS          | [Journal of Computer Security](http://dblp.uni-trier.de/db/journals/jcs/)                                                         | B   | 期刊  | 网络与信息安全              |
+| 1   | CLSR         | [Computer Law & Security Review](https://dblp.org/db/journals/clsr/index.html)                                                    | C   | 期刊  | 网络与信息安全              |
+| 2   |              | [EURASIP Journal on Information Security](http://dblp.uni-trier.de/db/journals/ejisec/)                                           | C   | 期刊  | 网络与信息安全              |
+| 3   |              | [IET Information Security](http://dblp.uni-trier.de/db/journals/iet-ifs/)                                                         | C   | 期刊  | 网络与信息安全              |
+| 4   | IMCS         | [Information and Computer Security](http://dblp.uni-trier.de/db/journals/imcs/)                                                   | C   | 期刊  | 网络与信息安全              |
+| 5   | IJICS        | [International Journal of Information and Computer Security](http://dblp.uni-trier.de/db/journals/ijics/)                         | C   | 期刊  | 网络与信息安全              |
+| 6   | IJISP        | [International Journal of Information Security and Privacy](http://dblp.uni-trier.de/db/journals/ijisp/)                          | C   | 期刊  | 网络与信息安全              |
+| 7   | JISA         | [Journal of Information Security and Applications](http://dblp.uni-trier.de/db/journals/istr/)                                    | C   | 期刊  | 网络与信息安全              |
+| 8   | SCN          | [Security and Communication Networks](http://dblp.uni-trier.de/db/journals/scn/)                                                  | C   | 期刊  | 网络与信息安全              |
+| 9   |              | [Cybersecurity](https://dblp.uni-trier.de/db/journals/cybersec/index.html)                                                        | C   | 期刊  | 网络与信息安全              |
+| 1   | TOPLAS       | [ACM Transactions on Programming Languages and Systems](http://dblp.uni-trier.de/db/journals/toplas/)                             | A   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 2   | TOSEM        | [ACM Transactions on Software Engineering and Methodology](http://dblp.uni-trier.de/db/journals/tosem/)                           | A   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 3   | TSE          | [IEEE Transactions on Software Engineering](http://dblp.uni-trier.de/db/journals/tse/)                                            | A   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 4   | TSC          | [IEEE Transactions on Services Computing](http://dblp.uni-trier.de/db/journals/tsc/)                                              | A   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 1   | ASE          | [Automated Software Engineering](http://dblp.uni-trier.de/db/journals/ase/)                                                       | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 2   | ESE          | [Empirical Software Engineering](http://dblp.uni-trier.de/db/journals/ese/)                                                       | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 3   | IETS         | [IET Software](http://dblp.uni-trier.de/db/journals/iee/index.html)                                                               | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 4   | IST          | [Information and Software Technology](http://dblp.uni-trier.de/db/journals/infsof/index.html)                                     | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 5   | JFP          | [Journal of Functional Programming](http://dblp.uni-trier.de/db/journals/jfp/)                                                    | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 6   |              | [Journal of Software: Evolution and Process](http://dblp.uni-trier.de/db/journals/smr/)                                           | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 7   | JSS          | [Journal of Systems and Software](http://dblp.uni-trier.de/db/journals/jss/)                                                      | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 8   | RE           | [Requirements Engineering](http://dblp.uni-trier.de/db/journals/re/)                                                              | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 9   | SCP          | [Science of Computer Programming](http://dblp.uni-trier.de/db/journals/scp/)                                                      | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 10  | SoSyM        | [Software and Systems Modeling](http://dblp.uni-trier.de/db/journals/sosym/)                                                      | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 11  | STVR         | [Software Testing, Verification and Reliability](http://dblp.uni-trier.de/db/journals/stvr/index.html)                            | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 12  | SPE          | [Software: Practice and Experience](http://dblp.uni-trier.de/db/journals/spe/)                                                    | B   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 1   | CL           | [Computer Languages, Systems and Structures](http://dblp.uni-trier.de/db/journals/cl/index.html)                                  | C   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 2   | IJSEKE       | [International Journal of Software Engineering and Knowledge Engineering](http://dblp.uni-trier.de/db/journals/ijseke/index.html) | C   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 3   | STTT         | [International Journal of Software Tools for Technology Transfer](http://dblp.uni-trier.de/db/journals/sttt/)                     | C   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 4   | JLAMP        | [Journal of Logical and Algebraic Methods in Programming](https://dblp.uni-trier.de/db/journals/jlap/index.html)                  | C   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 5   | JWE          | [Journal of Web Engineering](http://dblp.uni-trier.de/db/journals/jwe/)                                                           | C   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 6   | SOCA         | [Service Oriented Computing and Applications](http://dblp.uni-trier.de/db/journals/soca/)                                         | C   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 7   | SQJ          | [Software Quality Journal](http://dblp.uni-trier.de/db/journals/sqj/)                                                             | C   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 8   | TPLP         | [Theory and Practice of Logic Programming](http://dblp.uni-trier.de/db/journals/tplp/)                                            | C   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 9   | PACM PL      | [Proceedings of the ACM on Programming Languages](https://dblp.org/db/journals/pacmpl/index.html)                                 | C   | 期刊  | 软件工程/系统软件/程序设计语言     |
+| 1   | TODS         | [ACM Transactions on Database Systems](http://dblp.uni-trier.de/db/journals/tods/)                                                | A   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 2   | TOIS         | [ACM Transactions on Information Systems](http://dblp.uni-trier.de/db/journals/tois/)                                             | A   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 3   | TKDE         | [IEEE Transactions on Knowledge and Data Engineering](http://dblp.uni-trier.de/db/journals/tkde/)                                 | A   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 4   | VLDBJ        | [The VLDB Journal](http://dblp.uni-trier.de/db/journals/vldb/)                                                                    | A   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 1   | TKDD         | [ACM Transactions on Knowledge Discovery from Data](http://dblp.uni-trier.de/db/journals/tkdd/)                                   | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 2   | TWEB         | [ACM Transactions on the Web](http://dblp.uni-trier.de/db/journals/tweb/)                                                         | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 3   | AEI          | [Advanced Engineering Informatics](http://dblp.uni-trier.de/db/journals/aei/)                                                     | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 4   | DKE          | [Data & Knowledge Engineering](http://dblp.uni-trier.de/db/journals/dke/)                                                         | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 5   | DMKD         | [Data Mining and Knowledge Discovery](http://dblp.uni-trier.de/db/journals/datamine/)                                             | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 6   | EJIS         | [European Journal of Information Systems](http://dblp.uni-trier.de/db/journals/ejis/)                                             | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 7   |              | [GeoInformatica](http://dblp.uni-trier.de/db/journals/geoinformatica/)                                                            | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 8   | IPM          | [Information Processing and Management](http://dblp.uni-trier.de/db/journals/ipm/)                                                | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 9   |              | [Information Sciences](http://dblp.uni-trier.de/db/journals/isci/)                                                                | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 10  | IS           | [Information Systems](http://dblp.uni-trier.de/db/journals/is/)                                                                   | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 11  | JASIST       | [Journal of the Association for Information Science and Technology](http://dblp.uni-trier.de/db/journals/jasis/)                  | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 12  | JWS          | [Journal of Web Semantics](http://dblp.uni-trier.de/db/journals/ws/)                                                              | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 13  | KAIS         | [Knowledge and Information Systems](http://dblp.uni-trier.de/db/journals/kais/)                                                   | B   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 1   | DPD          | [Distributed and Parallel Databases](http://dblp.uni-trier.de/db/journals/dpd/)                                                   | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 2   | I&M          | [Information & Management](http://dblp.uni-trier.de/db/journals/iam/)                                                             | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 3   | IPL          | [Information Processing Letters](http://dblp.uni-trier.de/db/journals/ipl/)                                                       | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 4   | IR           | [Information Retrieval Journal](http://dblp.uni-trier.de/db/journals/ir/)                                                         | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 5   | IJCIS        | [International Journal of Cooperative Information Systems](http://dblp.uni-trier.de/db/journals/ijcis/)                           | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 6   | IJGIS        | [International Journal of Geographical Information Science](http://dblp.uni-trier.de/db/journals/gis/)                            | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 7   | IJIS         | [International Journal of Intelligent Systems](http://dblp.uni-trier.de/db/journals/ijis/)                                        | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 8   | IJKM         | [International Journal of Knowledge Management](http://dblp.uni-trier.de/db/journals/ijkm/)                                       | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 9   | IJSWIS       | [International Journal on Semantic Web and Information Systems](http://dblp.uni-trier.de/db/journals/ijswis/)                     | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 10  | JCIS         | [Journal of Computer Information Systems](http://dblp.uni-trier.de/db/journals/jcis/)                                             | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 11  | JDM          | [Journal of Database Management](http://dblp.uni-trier.de/db/journals/jdm/)                                                       | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 12  | JGITM        | [Journal of Global Information Technology Management](https://dblp.org/db/journals/jgim/index.html)                               | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 13  | JIIS         | [Journal of Intelligent Information Systems](http://dblp.uni-trier.de/db/journals/jiis/)                                          | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 14  | JSIS         | [The Journal of Strategic Information Systems](http://dblp.uni-trier.de/db/journals/jsis/)                                        | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 15  | DSE          | [Data Science and Engineering](https://dblp.org/db/journals/dase/index.html)                                                      | C   | 期刊  | 数据库/数据挖掘/内容检索        |
+| 1   | TIT          | [IEEE Transactions on Information Theory](http://dblp.uni-trier.de/db/journals/tit/)                                              | A   | 期刊  | 计算机科学理论              |
+| 2   | IANDC        | [Information and Computation](http://dblp.uni-trier.de/db/journals/iandc/)                                                        | A   | 期刊  | 计算机科学理论              |
+| 3   | SICOMP       | [SIAM Journal on Computing](http://dblp.uni-trier.de/db/journals/siamcomp/)                                                       | A   | 期刊  | 计算机科学理论              |
+| 1   | TALG         | [ACM Transactions on Algorithms](http://dblp.uni-trier.de/db/journals/talg/)                                                      | B   | 期刊  | 计算机科学理论              |
+| 2   | TOCL         | [ACM Transactions on Computational Logic](http://dblp.uni-trier.de/db/journals/tocl/)                                             | B   | 期刊  | 计算机科学理论              |
+| 3   | TOMS         | [ACM Transactions on Mathematical Software](http://dblp.uni-trier.de/db/journals/toms/)                                           | B   | 期刊  | 计算机科学理论              |
+| 4   | Algorithmica | [Algorithmica](http://dblp.uni-trier.de/db/journals/algorithmica/)                                                                | B   | 期刊  | 计算机科学理论              |
+| 5   | CC           | [Computational complexity](http://dblp.uni-trier.de/db/journals/cc/)                                                              | B   | 期刊  | 计算机科学理论              |
+| 6   | FAC          | [Formal Aspects of Computing](http://dblp.uni-trier.de/db/journals/fac/)                                                          | B   | 期刊  | 计算机科学理论              |
+| 7   | FMSD         | [Formal Methods in System Design](http://dblp.uni-trier.de/db/journals/fmsd/)                                                     | B   | 期刊  | 计算机科学理论              |
+| 8   | INFORMS      | [INFORMS Journal on Computing](http://dblp.uni-trier.de/db/journals/informs/)                                                     | B   | 期刊  | 计算机科学理论              |
+| 9   | JCSS         | [Journal of Computer and System Sciences](http://dblp.uni-trier.de/db/journals/jcss/)                                             | B   | 期刊  | 计算机科学理论              |
+| 10  | JGO          | [Journal of Global Optimization](http://dblp.uni-trier.de/db/journals/jgo/)                                                       | B   | 期刊  | 计算机科学理论              |
+| 11  | JSC          | [Journal of Symbolic Computation](http://dblp.uni-trier.de/db/journals/jsc/)                                                      | B   | 期刊  | 计算机科学理论              |
+| 12  | MSCS         | [Mathematical Structures in Computer Science](http://dblp.uni-trier.de/db/journals/mscs/)                                         | B   | 期刊  | 计算机科学理论              |
+| 13  | TCS          | [Theoretical Computer Science](http://dblp.uni-trier.de/db/journals/tcs/)                                                         | B   | 期刊  | 计算机科学理论              |
+| 1   | ACTA         | [Acta Informatica](http://dblp.uni-trier.de/db/journals/acta/)                                                                    | C   | 期刊  | 计算机科学理论              |
+| 2   | APAL         | [Annals of Pure and Applied Logic](http://dblp.uni-trier.de/db/journals/apal/)                                                    | C   | 期刊  | 计算机科学理论              |
+| 3   | DAM          | [Discrete Applied Mathematics](http://dblp.uni-trier.de/db/journals/dam/)                                                         | C   | 期刊  | 计算机科学理论              |
+| 4   | FUIN         | [Fundamenta Informaticae](http://dblp.uni-trier.de/db/journals/fuin/)                                                             | C   | 期刊  | 计算机科学理论              |
+| 5   | IPL          | [Information Processing Letters](http://dblp.uni-trier.de/db/journals/ipl/)                                                       | C   | 期刊  | 计算机科学理论              |
+| 6   | JCOMPLEXITY  | [Journal of Complexity](http://dblp.uni-trier.de/db/journals/jc/)                                                                 | C   | 期刊  | 计算机科学理论              |
+| 7   | LOGCOM       | [Journal of Logic and Computation](http://dblp.uni-trier.de/db/journals/logcom/)                                                  | C   | 期刊  | 计算机科学理论              |
+| 8   | JSL          | [The Journal of Symbolic Logic](http://dblp.uni-trier.de/db/journals/jsyml/)                                                      | C   | 期刊  | 计算机科学理论              |
+| 9   | LMCS         | [Logical Methods in Computer Science](http://dblp.uni-trier.de/db/journals/lmcs/)                                                 | C   | 期刊  | 计算机科学理论              |
+| 10  | SIDMA        | [SIAM Journal on Discrete Mathematics](http://dblp.uni-trier.de/db/journals/siamdm/)                                              | C   | 期刊  | 计算机科学理论              |
+| 11  |              | [Theory of Computing Systems](http://dblp.uni-trier.de/db/journals/mst/)                                                          | C   | 期刊  | 计算机科学理论              |
+| 1   | TOG          | [ACM Transactions on Graphics](http://dblp.uni-trier.de/db/journals/tog/)                                                         | A   | 期刊  | 计算机图形学与多媒体           |
+| 2   | TIP          | [IEEE Transactions on Image Processing](http://dblp.uni-trier.de/db/journals/tip/)                                                | A   | 期刊  | 计算机图形学与多媒体           |
+| 3   | TVCG         | [IEEE Transactions on Visualization and Computer Graphics](http://dblp.uni-trier.de/db/journals/tvcg/)                            | A   | 期刊  | 计算机图形学与多媒体           |
+| 1   | TOMM         | [ACM Transactions on Multimedia Computing,Communications and Applications](http://dblp.uni-trier.de/db/journals/tomccap/)         | B   | 期刊  | 计算机图形学与多媒体           |
+| 2   | CAGD         | [Computer Aided Geometric Design](http://dblp.uni-trier.de/db/journals/cagd/)                                                     | B   | 期刊  | 计算机图形学与多媒体           |
+| 3   | CGF          | [Computer Graphics Forum](http://dblp.uni-trier.de/db/journals/cgf/)                                                              | B   | 期刊  | 计算机图形学与多媒体           |
+| 4   | CAD          | [Computer-Aided Design](http://dblp.uni-trier.de/db/journals/cad/)                                                                | B   | 期刊  | 计算机图形学与多媒体           |
+| 5   | GM           | [Graphical Models](http://dblp.uni-trier.de/db/journals/cvgip/)                                                                   | B   | 期刊  | 计算机图形学与多媒体           |
+| 6   | TCSVT        | [IEEE Transactions on Circuits and Systems for Video Technology](http://dblp.uni-trier.de/db/journals/tcsv/)                      | B   | 期刊  | 计算机图形学与多媒体           |
+| 7   | TMM          | [IEEE Transactions on Multimedia](http://dblp.uni-trier.de/db/journals/tmm/)                                                      | B   | 期刊  | 计算机图形学与多媒体           |
+| 8   | JASA         | [The Journal of the Acoustical Society of America](http://scitation.aip.org/content/asa/journal/jasa)                             | B   | 期刊  | 计算机图形学与多媒体           |
+| 9   | SIIMS        | [SIAM Journal on Imaging Sciences](http://dblp.uni-trier.de/db/journals/siamis/)                                                  | B   | 期刊  | 计算机图形学与多媒体           |
+| 10  | SPECOM       | [Speech Communication](http://dblp.uni-trier.de/db/journals/speech/)                                                              | B   | 期刊  | 计算机图形学与多媒体           |
+| 1   | CGTA         | [Computational Geometry: Theory and Applications](http://dblp.uni-trier.de/db/journals/comgeo/)                                   | C   | 期刊  | 计算机图形学与多媒体           |
+| 2   | CAVW         | [computer animation & virtual worlds](https://dblp.org/db/journals/jvca/index.html)                                               | C   | 期刊  | 计算机图形学与多媒体           |
+| 3   | C&G          | [Computers & Graphics](http://dblp.uni-trier.de/db/journals/cg/)                                                                  | C   | 期刊  | 计算机图形学与多媒体           |
+| 4   | DCG          | [Discrete & Computational Geometry](http://dblp.uni-trier.de/db/journals/dcg/)                                                    | C   | 期刊  | 计算机图形学与多媒体           |
+| 5   | SPL          | [IEEE Signal Processing Letters](http://dblp.uni-trier.de/db/journals/spl/)                                                       | C   | 期刊  | 计算机图形学与多媒体           |
+| 6   | IET-IPR      | [IET Image Processing](http://dblp.uni-trier.de/db/journals/iet-ipr/)                                                             | C   | 期刊  | 计算机图形学与多媒体           |
+| 7   | JVCIR        | [Journal of Visual Communication and Image Representation](http://dblp.uni-trier.de/db/journals/jvcir/)                           | C   | 期刊  | 计算机图形学与多媒体           |
+| 8   | MS           | [Multimedia Systems](http://dblp.uni-trier.de/db/journals/mms/)                                                                   | C   | 期刊  | 计算机图形学与多媒体           |
+| 9   | MTA          | [Multimedia Tools and Applications](http://dblp.uni-trier.de/db/journals/mta/)                                                    | C   | 期刊  | 计算机图形学与多媒体           |
+| 10  | SIGPRO       | [Signal Processing](http://dblp.uni-trier.de/db/journals/sigpro/)                                                                 | C   | 期刊  | 计算机图形学与多媒体           |
+| 11  | IMAGE        | [Signal Processing: Image Communication](http://dblp.uni-trier.de/db/journals/spic/)                                              | C   | 期刊  | 计算机图形学与多媒体           |
+| 12  | TVC          | [The Visual Computer](http://dblp.uni-trier.de/db/journals/vc/)                                                                   | C   | 期刊  | 计算机图形学与多媒体           |
+| 13  | CVMJ         | [Computational Visual Media](https://dblp.org/db/journals/cvm/index.html)                                                         | C   | 期刊  | 计算机图形学与多媒体           |
+| 1   | AI           | [Artificial Intelligence](http://dblp.uni-trier.de/db/journals/ai/)                                                               | A   | 期刊  | 人工智能                 |
+| 2   | TPAMI        | [IEEE Transactions on Pattern Analysis and Machine Intelligence](http://dblp.uni-trier.de/db/journals/pami/)                      | A   | 期刊  | 人工智能                 |
+| 3   | IJCV         | [International Journal of Computer Vision](http://dblp.uni-trier.de/db/journals/ijcv/)                                            | A   | 期刊  | 人工智能                 |
+| 4   | JMLR         | [Journal of Machine Learning Research](http://dblp.uni-trier.de/db/journals/jmlr/)                                                | A   | 期刊  | 人工智能                 |
+| 1   | TAP          | [ACM Transactions on Applied Perception](http://dblp.uni-trier.de/db/journals/tap/)                                               | B   | 期刊  | 人工智能                 |
+| 2   | AAMAS        | [Autonomous Agents and Multi-Agent Systems](http://dblp.uni-trier.de/db/journals/aamas/)                                          | B   | 期刊  | 人工智能                 |
+| 3   |              | [Computational Linguistics](http://dblp.uni-trier.de/db/journals/coling/)                                                         | B   | 期刊  | 人工智能                 |
+| 4   | CVIU         | [Computer Vision and Image Understanding](http://dblp.uni-trier.de/db/journals/cviu/)                                             | B   | 期刊  | 人工智能                 |
+| 5   | DKE          | [Data & Knowledge Engineering](http://dblp.uni-trier.de/db/journals/dke/index.html)                                               | B   | 期刊  | 人工智能                 |
+| 6   |              | [Evolutionary Computation](http://dblp.uni-trier.de/db/journals/ec/)                                                              | B   | 期刊  | 人工智能                 |
+| 7   | TAC          | [IEEE Transactions on Affective Computing](http://dblp.uni-trier.de/db/journals/taffco/)                                          | B   | 期刊  | 人工智能                 |
+| 8   | TASLP        | [IEEE/ACM Transactions on Audio, Speech and Language Processing](http://dblp.uni-trier.de/db/journals/taslp/)                     | B   | 期刊  | 人工智能                 |
+| 9   |              | [IEEE Transactions on Cybernetics](http://dblp.uni-trier.de/db/journals/tcyb/)                                                    | B   | 期刊  | 人工智能                 |
+| 10  | TEC          | [IEEE Transactions on Evolutionary Computation](http://dblp.uni-trier.de/db/journals/tec/)                                        | B   | 期刊  | 人工智能                 |
+| 11  | TFS          | [IEEE Transactions on Fuzzy Systems](http://dblp.uni-trier.de/db/journals/tfs/)                                                   | B   | 期刊  | 人工智能                 |
+| 12  | TNNLS        | [IEEE Transactions on Neural Networks and learning systems](http://dblp.uni-trier.de/db/journals/tnn/)                            | B   | 期刊  | 人工智能                 |
+| 13  | IJAR         | [International Journal of Approximate Reasoning](http://dblp.uni-trier.de/db/journals/ijar/)                                      | B   | 期刊  | 人工智能                 |
+| 14  | JAIR         | [Journal of Artificial Intelligence Research](http://dblp.uni-trier.de/db/journals/jair/index.html)                               | B   | 期刊  | 人工智能                 |
+| 15  |              | [Journal of Automated Reasoning](http://dblp.uni-trier.de/db/journals/jar/)                                                       | B   | 期刊  | 人工智能                 |
+| 16  | JSLHR        | [Journal of Speech, Language, and Hearing Research](http://jslhr.pubs.asha.org/)                                                  | B   | 期刊  | 人工智能                 |
+| 17  |              | [Machine Learning](http://dblp.uni-trier.de/db/journals/ml/)                                                                      | B   | 期刊  | 人工智能                 |
+| 18  |              | [Neural Computation](http://dblp.uni-trier.de/db/journals/neco/)                                                                  | B   | 期刊  | 人工智能                 |
+| 19  |              | [Neural Networks](http://dblp.uni-trier.de/db/journals/nn/)                                                                       | B   | 期刊  | 人工智能                 |
+| 20  | PR           | [Pattern Recognition](http://dblp.uni-trier.de/db/conf/par/)                                                                      | B   | 期刊  | 人工智能                 |
+| 21  | TACL         | [Transactions of the Association for Computational Linguistics](https://dblp.org/db/journals/tacl/index.html)                     | B   | 期刊  | 人工智能                 |
+| 1   | TALLIP       | [ACM Transactions on Asian and Low-Resource Language Information Processing](http://dblp.uni-trier.de/db/journals/talip/)         | C   | 期刊  | 人工智能                 |
+| 2   |              | [Applied Intelligence](http://dblp.uni-trier.de/db/journals/apin/)                                                                | C   | 期刊  | 人工智能                 |
+| 3   | AIM          | [Artificial Intelligence in Medicine](http://dblp.uni-trier.de/db/journals/artmed/)                                               | C   | 期刊  | 人工智能                 |
+| 4   |              | [Artificial Life](http://dblp.uni-trier.de/db/journals/alife/)                                                                    | C   | 期刊  | 人工智能                 |
+| 5   |              | [Computational Intelligence](http://dblp.uni-trier.de/db/journals/ci/)                                                            | C   | 期刊  | 人工智能                 |
+| 6   |              | [Computer Speech & Language](http://dblp.uni-trier.de/db/journals/csl/)                                                           | C   | 期刊  | 人工智能                 |
+| 7   |              | [Connection Science](http://dblp.uni-trier.de/db/journals/connection/)                                                            | C   | 期刊  | 人工智能                 |
+| 8   | DSS          | [Decision Support Systems](http://dblp.uni-trier.de/db/journals/dss/)                                                             | C   | 期刊  | 人工智能                 |
+| 9   | EAAI         | [Engineering Applications of Artificial Intelligence](http://dblp.uni-trier.de/db/journals/eaai/)                                 | C   | 期刊  | 人工智能                 |
+| 10  |              | [Expert Systems](http://dblp.uni-trier.de/db/journals/es/)                                                                        | C   | 期刊  | 人工智能                 |
+| 11  | ESWA         | [Expert Systems with Applications](http://dblp.uni-trier.de/db/journals/eswa/)                                                    | C   | 期刊  | 人工智能                 |
+| 12  |              | [Fuzzy Sets and Systems](http://dblp.uni-trier.de/db/journals/fss/)                                                               | C   | 期刊  | 人工智能                 |
+| 13  | TG           | [IEEE Transactions on Games](http://dblp.uni-trier.de/db/journals/tciaig/)                                                        | C   | 期刊  | 人工智能                 |
+| 14  | IET-CVI      | [IET Computer Vision](https://dblp.org/db/journals/iet-cvi/index.html)                                                            | C   | 期刊  | 人工智能                 |
+| 15  |              | [IET Signal Processing](https://dblp.org/db/journals/iet-spr/index.html)                                                          | C   | 期刊  | 人工智能                 |
+| 16  | IVC          | [Image and Vision Computing](http://dblp.uni-trier.de/db/journals/ivc/)                                                           | C   | 期刊  | 人工智能                 |
+| 17  | IDA          | [Intelligent Data Analysis](http://dblp.uni-trier.de/db/journals/ida/)                                                            | C   | 期刊  | 人工智能                 |
+| 18  | IJCIA        | [International Journal of Computational Intelligence and Applications](http://dblp.uni-trier.de/db/journals/ijcia/)               | C   | 期刊  | 人工智能                 |
+| 19  | IJIS         | [International Journal of Intelligent Systems](http://dblp.uni-trier.de/db/journals/ijis/)                                        | C   | 期刊  | 人工智能                 |
+| 20  | IJNS         | [International Journal of Neural Systems](http://dblp.uni-trier.de/db/journals/ijns/)                                             | C   | 期刊  | 人工智能                 |
+| 21  | IJPRAI       | [International Journal of Pattern Recognition and Artificial Intelligence](http://dblp.uni-trier.de/db/journals/ijprai/)          | C   | 期刊  | 人工智能                 |
+| 22  | IJUFKS       | [International Journal of Uncertainty,Fuzziness and Knowledge-Based Systems](https://dblp.uni-trier.de/db/journals/ijufks/)       | C   | 期刊  | 人工智能                 |
+| 23  | IJDAR        | [International Journal on Document Analysis and Recognition](http://dblp.uni-trier.de/db/journals/ijdar/)                         | C   | 期刊  | 人工智能                 |
+| 24  | JETAI        | [Journal of Experimental and Theoretical Artificial Intelligence](http://dblp.uni-trier.de/db/journals/jetai/)                    | C   | 期刊  | 人工智能                 |
+| 25  | KBS          | [Knowledge-Based Systems](http://dblp.uni-trier.de/db/journals/kbs/)                                                              | C   | 期刊  | 人工智能                 |
+| 26  |              | [Machine Translation](http://dblp.uni-trier.de/db/journals/mt/)                                                                   | C   | 期刊  | 人工智能                 |
+| 27  |              | [Machine Vision and Applications](http://dblp.uni-trier.de/db/journals/mva/)                                                      | C   | 期刊  | 人工智能                 |
+| 28  |              | [Natural Computing](http://dblp.uni-trier.de/db/journals/nc/)                                                                     | C   | 期刊  | 人工智能                 |
+| 29  | NLE          | [Natural Language Engineering](http://dblp.uni-trier.de/db/journals/nle/)                                                         | C   | 期刊  | 人工智能                 |
+| 30  | NCA          | [Neural Computing and Applications](http://dblp.uni-trier.de/db/journals/nca/)                                                    | C   | 期刊  | 人工智能                 |
+| 31  | NPL          | [Neural Processing Letters](http://dblp.uni-trier.de/db/journals/npl/)                                                            | C   | 期刊  | 人工智能                 |
+| 32  |              | [Neurocomputing](http://dblp.uni-trier.de/db/journals/ijon/)                                                                      | C   | 期刊  | 人工智能                 |
+| 33  | PAA          | [Pattern Analysis and Applications](http://dblp.uni-trier.de/db/journals/paa/)                                                    | C   | 期刊  | 人工智能                 |
+| 34  | PRL          | [Pattern Recognition Letters](http://dblp.uni-trier.de/db/journals/prl/)                                                          | C   | 期刊  | 人工智能                 |
+| 35  |              | [Soft Computing](http://dblp.uni-trier.de/db/journals/soco/)                                                                      | C   | 期刊  | 人工智能                 |
+| 36  | WI           | [Web Intelligence](http://dblp.uni-trier.de/db/journals/wias/)                                                                    | C   | 期刊  | 人工智能                 |
+| 37  | TIIS         | [ACM Transactions on Interactive Intelligent Systems](https://dblp.org/db/journals/tiis/index.html)                               | C   | 期刊  | 人工智能                 |
+| 1   | TOCHI        | [ACM Transactions on Computer-Human Interaction](http://dblp.uni-trier.de/db/journals/tochi/)                                     | A   | 期刊  | 人机交互与普适计算            |
+| 2   | IJHCS        | [International Journal of Human-Computer Studies](http://dblp.uni-trier.de/db/journals/ijmms/)                                    | A   | 期刊  | 人机交互与普适计算            |
+| 1   | CSCW         | [Computer Supported Cooperative Work](http://dblp.uni-trier.de/db/journals/cscw/)                                                 | B   | 期刊  | 人机交互与普适计算            |
+| 2   | HCI          | [Human-Computer Interaction](http://dblp.uni-trier.de/db/journals/hhci/)                                                          | B   | 期刊  | 人机交互与普适计算            |
+| 3   |              | [IEEE Transactions on Human-Machine Systems](http://dblp.uni-trier.de/db/journals/thms/)                                          | B   | 期刊  | 人机交互与普适计算            |
+| 4   | IWC          | [Interacting with Computers](http://dblp.uni-trier.de/db/journals/iwc/)                                                           | B   | 期刊  | 人机交互与普适计算            |
+| 5   | IJHCI        | [International Journal of Human-Computer Interaction](http://dblp.uni-trier.de/db/journals/ijhci/)                                | B   | 期刊  | 人机交互与普适计算            |
+| 6   | UMUAI        | [User Modeling and User-Adapted Interaction](http://dblp.uni-trier.de/db/journals/umuai/)                                         | B   | 期刊  | 人机交互与普适计算            |
+| 7   | TSMC         | [IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://dblp.org/db/journals/tsmc/tsmc12.html)                      | B   | 期刊  | 人机交互与普适计算            |
+| 1   | BIT          | [Behaviour & Information Technology](http://dblp.uni-trier.de/db/journals/behaviourIT/)                                           | C   | 期刊  | 人机交互与普适计算            |
+| 2   | PUC          | [Personal and Ubiquitous Computing](http://dblp.uni-trier.de/db/journals/puc/)                                                    | C   | 期刊  | 人机交互与普适计算            |
+| 3   | PMC          | [Pervasive and Mobile Computing](http://dblp.uni-trier.de/db/journals/percom/)                                                    | C   | 期刊  | 人机交互与普适计算            |
+| 4   | PACMHCI      | [Proceedings of the ACM on Human-Computer Interaction](https://ccf.atom.im/#ZgotmplZ)                                             | C   | 期刊  | 人机交互与普适计算            |
+| 1   | JACM         | [Journal of the ACM](http://dblp.uni-trier.de/db/journals/jacm/)                                                                  | A   | 期刊  | 交叉/综合/新兴             |
+| 2   | Proc. IEEE   | [Proceedings of the IEEE](http://dblp.uni-trier.de/db/journals/pieee/)                                                            | A   | 期刊  | 交叉/综合/新兴             |
+| 3   | SCIS         | [Science China Information Sciences](http://dblp.uni-trier.de/db/journals/chinaf/)                                                | A   | 期刊  | 交叉/综合/新兴             |
+| 1   |              | [Bioinformatics](http://dblp.uni-trier.de/db/journals/bioinformatics/)                                                            | B   | 期刊  | 交叉/综合/新兴             |
+| 2   |              | [Briefings in Bioinformatics](http://dblp.uni-trier.de/db/journals/bib/)                                                          | B   | 期刊  | 交叉/综合/新兴             |
+| 3   | Cognition    | [Cognition](http://www.journals.elsevier.com/cognition/)                                                                          | B   | 期刊  | 交叉/综合/新兴             |
+| 4   | TASAE        | [IEEE Transactions on Automation Science and Engineering](http://dblp.uni-trier.de/db/journals/tase/)                             | B   | 期刊  | 交叉/综合/新兴             |
+| 5   | TGARS        | [IEEE Transactions on Geoscience and Remote Sensing](http://dblp.uni-trier.de/db/journals/tgrs/)                                  | B   | 期刊  | 交叉/综合/新兴             |
+| 6   | TITS         | [IEEE Transactions on Intelligent Transportation Systems](http://dblp.uni-trier.de/db/journals/tits/)                             | B   | 期刊  | 交叉/综合/新兴             |
+| 7   | TMI          | [IEEE Transactions on Medical Imaging](http://dblp.uni-trier.de/db/journals/tmi/)                                                 | B   | 期刊  | 交叉/综合/新兴             |
+| 8   | TR           | [IEEE Transactions on Robotics](http://dblp.uni-trier.de/db/journals/trob/)                                                       | B   | 期刊  | 交叉/综合/新兴             |
+| 9   | TCBB         | [IEEE-ACM Transactions on Computational Biology and Bioinformatics](http://dblp.uni-trier.de/db/journals/tcbb/)                   | B   | 期刊  | 交叉/综合/新兴             |
+| 10  | JCST         | [Journal of Computer Science and Technology](http://dblp.uni-trier.de/db/journals/jcst/)                                          | B   | 期刊  | 交叉/综合/新兴             |
+| 11  | JAMIA        | [Journal of the American Medical Informatics Association](http://dblp.uni-trier.de/db/journals/jamia/)                            | B   | 期刊  | 交叉/综合/新兴             |
+| 12  |              | [PLOS Computational Biology](http://dblp.uni-trier.de/db/journals/ploscb/)                                                        | B   | 期刊  | 交叉/综合/新兴             |
+| 13  |              | [The Computer Journal](http://dblp.uni-trier.de/db/journals/cj/)                                                                  | B   | 期刊  | 交叉/综合/新兴             |
+| 14  | WWW          | [World Wide Web](https://dblp.org/db/journals/www/index.html)                                                                     | B   | 期刊  | 交叉/综合/新兴             |
+| 15  | FCS          | [Frontiers of Computer Science](http://dblp.uni-trier.de/db/journals/fcsc/)                                                       | B   | 期刊  | 交叉/综合/新兴             |
+| 1   |              | [BMC Bioinformatics](http://dblp.uni-trier.de/db/journals/bmcbi/)                                                                 | C   | 期刊  | 交叉/综合/新兴             |
+| 2   |              | [Cybernetics and Systems](http://dblp.uni-trier.de/db/journals/cas/)                                                              | C   | 期刊  | 交叉/综合/新兴             |
+| 3   |              | [IEEE Geoscience and Remote Sensing Letters](http://dblp.uni-trier.de/db/journals/lgrs/)                                          | C   | 期刊  | 交叉/综合/新兴             |
+| 4   | JBHI         | [IEEE Journal of Biomedical and Health Informatics](http://dblp.uni-trier.de/db/journals/titb/)                                   | C   | 期刊  | 交叉/综合/新兴             |
+| 5   | TBD          | [IEEE Transactions on Big Data](https://dblp.uni-trier.de/db/journals/tbd/)                                                       | C   | 期刊  | 交叉/综合/新兴             |
+| 6   |              | [IET Intelligent Transport Systems](http://digital-library.theiet.org/content/journals/iet-its)                                   | C   | 期刊  | 交叉/综合/新兴             |
+| 7   | JBI          | [Journal of Biomedical Informatics](https://dblp.uni-trier.de/db/journals/jbi/)                                                   | C   | 期刊  | 交叉/综合/新兴             |
+| 8   |              | [Medical Image Analysis](http://dblp.uni-trier.de/db/journals/mia/)                                                               | C   | 期刊  | 交叉/综合/新兴             |
+| 9   | TII          | [IEEE Transactions on Industrial Informatics](https://dblp.org/db/journals/tii/index.html)                                        | C   | 期刊  | 交叉/综合/新兴             |
+| 10  | TCPS         | [ACM Transactions on Cyber-Physical Systems](https://dblp.org/db/journals/tcps/index.html)                                        | C   | 期刊  | 交叉/综合/新兴             |
+| 11  | TOCE         | [ACM Transactions on Computing Education](https://dblp.org/db/journals/jeric/index.html)                                          | C   | 期刊  | 交叉/综合/新兴             |
+| 12  | FITEE        | [Frontiers of Information Technology & Electronic Engineering](https://dblp.org/db/journals/jzusc/index.html)                     | C   | 期刊  | 交叉/综合/新兴             |
+| 13  | TCSS         | [IEEE Transactions on Computational Social Systems](https://dblp.org/db/journals/tcss/index.html)                                 | C   | 期刊  | 交叉/综合/新兴             |
+| 14  |              | [IEEE Transactions on Reliability](https://dblp.org/db/journals/tr/index.html)                                                    | C   | 期刊  | 交叉/综合/新兴             |
