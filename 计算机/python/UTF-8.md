@@ -19,6 +19,6 @@ python用法：
 ord('牛') -> 29275
 chr(29275) -> '牛'
 test_string = "hello! こんにちは!"
-utf8_encoded = test_string.encode("utf-8")
+utf8_encoded = test_string.encode("utf-8") #返回bytes，表现为b'...'（如 b'hello'在ASCII 范围保持可读，b'\xe5\xa5\xbd'其他不可读）
 print(utf8_encoded.decode("utf-8"))
 ```
