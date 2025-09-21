@@ -14,4 +14,11 @@ aliases:
 - 比如中（20013），转换为0100 111000 101101 填入三字节的编码方式中的xxx
 - 位数不足的补零
 
-python用法
+python用法：
+```python
+ord('牛') -> 29275
+chr(29275) -> '牛'
+test_string = "hello! こんにちは!"
+utf8_encoded = test_string.encode("utf-8")
+print(utf8_encoded.decode("utf-8"))
+```
