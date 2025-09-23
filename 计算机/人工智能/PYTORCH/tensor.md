@@ -5,11 +5,14 @@ aliases:
 tensor(张量)本质是指向一篇内存地址的一个指针
 所以很多改变view的操作并不会进行copy
 
-维度变换
+### 维度变换
 `torch.view()`更改其中的一个，另外一个也会跟着改变
+```python
+# 首先需要保证tensor是contiguous的，才能使用view
+```
 `torch.reshape()`创建新张量并改变张量的形状，官方不推荐使用。推荐的方法是我们先用 `clone()` 创造一个张量副本然后再使用 `torch.view()`进行函数维度变换
 
-## 广播机制
+### 广播机制
 
 当对两个形状不同的 Tensor 按元素运算时，可能会触发广播(broadcasting)机制：先适当复制元素使这两个 Tensor 形状相同后再按元素运算。
 ```python
