@@ -8,7 +8,13 @@ tensor(张量)本质是指向一篇内存地址的一个指针
 ### 维度变换
 `torch.view()`更改其中的一个，另外一个也会跟着改变
 ```python
-# 首先需要保证tensor是contiguous的，才能使用view
+# 首先需要保证tensor是contiguous的，才能使用view，view后的顺序也是按照内存中的顺序
+a=torch.Tensor([[[1,2,3],[4,5,6]]])
+print(a.view(3,2))
+ tensor([[1., 2.],
+        [3., 4.],
+        [5., 6.]])
+
 ```
 `torch.reshape()`创建新张量并改变张量的形状，官方不推荐使用。推荐的方法是我们先用 `clone()` 创造一个张量副本然后再使用 `torch.view()`进行函数维度变换
 
