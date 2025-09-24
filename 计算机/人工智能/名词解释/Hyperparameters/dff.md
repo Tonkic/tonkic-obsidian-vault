@@ -1,0 +1,1 @@
+always $d_{ff} = 4 · d_{model}$
