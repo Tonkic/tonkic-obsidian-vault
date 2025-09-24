@@ -1,0 +1,3 @@
+- Rotary Position Embedding
+- 目前用的最多的方法
+- 相对位置编码
