@@ -1,5 +1,5 @@
 ### 概念
-Experts：专家网络，是[FFN](../深度学习模型/前馈神经网络.md)
+Experts：专家网络，是[FFN](../模型架构/前馈神经网络.md)
 Router：路由/门控网络，控制选择哪个专家的“开关”，由FFNN+Softmax组成
 ![../../../pic/Pasted image 20250808184305.png](../../../pic/Pasted%20image%2020250808184305.png)
 
