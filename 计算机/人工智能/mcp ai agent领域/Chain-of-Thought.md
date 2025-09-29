@@ -1,0 +1,3 @@
+- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+- ![](../../../pic/Pasted%20image%2020250929223832.png)
+- 
