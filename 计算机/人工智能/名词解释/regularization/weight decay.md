@@ -3,6 +3,9 @@ aliases:
   - L2 正则
   - L2 regularization
 ---
+
+
+
 ![](../../../../pic/Pasted%20image%2020250927005828.png)
 一、左图：验证损失 vs 训练损失（不同 weight decay）
 - 每个点是一段训练的结果，不同颜色代表不同的 AdamW weight decay（例如 0.0 / 0.1 / 0.3）。
