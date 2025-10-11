@@ -15,6 +15,6 @@ $$
 ```python
 # 先给出绝对位置编码(0,max_seq_len-1)
 positions = torch.arange(self.max_seq_len)
-#计算频率
+#计算频率θi​
 freqs = 1.0 / (self.theta **(torch.arange(0, self.d_k, 2).float() / self.d_k))
 ```
