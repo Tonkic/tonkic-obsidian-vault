@@ -10,9 +10,11 @@
 - $$
 f_{\{q,k\}}(\mathbf{x}_m, m) = \mathbf{R}_{\Theta,m}^d \mathbf{W}_{\{q,k\}} \mathbf{x}_m
 $$
-
+	 - $x_m$:第m个位置上的词
+	 - $\mathbf{W}_{\{q,k\}}$:对应q和k的两个权重矩阵
 ```python
 # 先给出绝对位置编码(0,max_seq_len-1)
 positions = torch.arange(self.max_seq_len)
-
+#计算频率
+freqs = 1.0 / (self.theta **(torch.arange(0, self.d_k, 2).float() / self.d_k))
 ```
