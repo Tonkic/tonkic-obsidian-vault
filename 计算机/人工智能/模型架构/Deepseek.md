@@ -3,5 +3,6 @@
 ## MLA
 Multi-head Latent Attention
 
-## MoE
+## [MoE](MoE.md)
+
 ## MTP
