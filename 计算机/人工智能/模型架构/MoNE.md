@@ -4,8 +4,12 @@
 实验Figure1得出只激活一个专家内top0.6的参数，模型的性能几乎没有下降
 
 实验Figure2得出这种稀疏性在模型不同深度的layer中普遍存在
-
+![](../../../pic/Pasted%20image%2020251012202950.png)
 Figure3表示传统MoE专家可以分解为神经元粒度FFN的加权求和
+$$
+E_k(\mathbf{x}) = W_{down}(W_{up}\mathbf{x} \odot \text{SiLU}(W_{gate}\mathbf{x})) = \underbrace{E_i^1 \cdot \text{SiLU}(g_1)}_{\text{score}} + \underbrace{E_i^2 \cdot \text{SiLU}(g_2)}_{\text{score}} + \dots + \underbrace{E_i^n \cdot \text{SiLU}(g_n)}_{\text{score}}
+$$
+输入向量input兵分两路，左边up右边gate，zu'yuan'su
 ### METHOD
 ![](../../../pic/Pasted%20image%2020251012200351.png)
 - x: 当前层的输入向量
