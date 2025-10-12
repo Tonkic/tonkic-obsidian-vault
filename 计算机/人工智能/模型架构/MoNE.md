@@ -19,9 +19,55 @@ $$
 - $K_E$: 需要从 n 个专家中选出的专家数量
 - $K_N$: 在每个被选中的专家内部，需要选出的神经元数量
 - Act: 用于处理专家分数的激活函数（如 Softmax）
-- 7.后才与MoE不同，$G_i$ 表示神经元激活值，第9步根据topK $G_i$ 去abs绝对值得出要选哪些神经元
+- 7.后才与MoE不同，$G_i$ 表示神经元激活值，第9步根据topK $G_i$ 取abs绝对值得出要选哪些神经元
 - 如何修改专家的参数？这里使用 $W_{up}$ 升维后修改再使用 $W_{down}$ 降维为原来的维度
 
 #### TODO：为什么Wup保留第k行，而Wdown保留第k列，然后两个相乘得到的就是要保留的神经元k
 
 #### TODO：公式 12推导过程
+
+$$
+E_i(\mathbf{x}) = \mathbf{W}_{\text{down}}^i(\text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \odot \mathbf{W}_{\text{up}}^i\mathbf{x})
+$$
+
+$$
+\mathbf{P}(\mathbf{x}) = \text{Act}(\text{topK}(\text{Router}(\mathbf{x})))
+$$
+
+$$
+\text{MoE}(\mathbf{x}) = \sum_{i=1}^{N_E} \mathbf{P}(\mathbf{x})_i E_i(\mathbf{x})
+$$
+
+$$
+\mathcal{L}_{\text{aux}} = \alpha_{\text{aux}} \cdot N_E \cdot \sum_{i=1}^{N_E} f_i \cdot P_i, \quad \text{where}
+$$
+
+
+$$
+f_i = \frac{1}{T} \sum_{\mathbf{x} \in \mathcal{B}} \mathbb{I}\{i \in \text{argtopK}(\text{Router}(\mathbf{x}))\}, \quad P_i = \frac{1}{T} \sum_{\mathbf{x} \in \mathcal{B}} \text{Act}(\text{topK}(\text{Router}(\mathbf{x})))[i]
+$$
+
+
+$$
+E_i(\mathbf{x}) = \mathbf{W}_{\text{down}}^i(\text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \odot \mathbf{W}_{\text{up}}^i\mathbf{x})
+$$
+
+$$
+\mathbf{G} = \text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \in \mathbb{R}^{d_{\text{expert}}}, \quad \mathbf{H} = \mathbf{W}_{\text{up}}^i\mathbf{x} \in \mathbb{R}^{d_{\text{expert}}}
+$$
+
+$$
+E_i(\mathbf{x}) = \mathbf{W}_{\text{down}}^i(\mathbf{G} \odot \mathbf{H})
+$$
+
+$$
+E_i(\mathbf{x}) = \sum_{k=1}^{d_{\text{expert}}} \mathbf{W}_{\text{down}}^i[:, k](G[k] \cdot H[k])
+$$
+
+$$
+= \sum_{k=1}^{d_{\text{expert}}} G[k] \cdot (\mathbf{W}_{\text{down}}^i[:, k](\mathbf{W}_{\text{up}}^i[k, :]\mathbf{x}))
+$$
+
+$$
+E_i(\mathbf{x}) = \sum_{k=1}^{d_{\text{expert}}} G[k] \cdot A_k \mathbf{x}, \quad \text{where } A_k = \mathbf{W}_{\text{down}}^i[:, k]\mathbf{W}_{\text{up}}^i[k, :] \in \mathbb{R}^{d_{\text{model}} \times d_{\text{model}}}
+$$
