@@ -44,3 +44,4 @@ t = (s, r, o)，其中 (s = Megan Rapinoe, r = plays sport professionally, o 
     - ROME技术不会重写整个 $W_{proj}$ 矩阵，而是计算出一个非常小的“补丁”,即 $Λ(C⁻¹k_*)ᵀ$
     - 然后，它把这个“补丁”加到原始的 $W_{proj}$ 矩阵上。
     - 这个操作被是“秩一更新”（rank-one update），修改后的新矩阵 Ŵ_proj 能够满足：当输入是“太空针塔”的钥匙 k* 时，输出就是“位于巴黎”的新信息 v*。
+#### TODO：看懂$Λ(C⁻¹k_*)ᵀ$的计算公式(3.1)
