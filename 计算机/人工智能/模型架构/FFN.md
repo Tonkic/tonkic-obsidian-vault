@@ -1,7 +1,8 @@
 ---
-tags: 
+tags:
 aliases:
   - FFN
+  - 前馈神经网络
 ---
 原始[transformer](Transformer.md)中的FFN:
 ![](../../../pic/Pasted%20image%2020250924213755.png)
