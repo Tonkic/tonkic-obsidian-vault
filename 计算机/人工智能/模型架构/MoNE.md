@@ -53,7 +53,9 @@ $$
 f_i = \frac{1}{T} \sum_{\mathbf{x} \in \mathcal{B}} \mathbb{I}\{i \in \text{argtopK}(\text{Router}(\mathbf{x}))\}, \quad P_i = \frac{1}{T} \sum_{\mathbf{x} \in \mathcal{B}} \text{Act}(\text{topK}(\text{Router}(\mathbf{x})))[i]
 $$
 
-- banlance loss，
+- auxiliary loadbalance loss,本质是惩罚没被选中的，抬高地板
+-  $f_i$ ：一个批次中，路由器的 argtopK 函数选择了专家 i 的次数，然后除以批次的总大小 T 得出。
+- 
 
 $$
 \mathbf{G} = \text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \in \mathbb{R}^{d_{\text{expert}}}, \quad \mathbf{H} = \mathbf{W}_{\text{up}}^i\mathbf{x} \in \mathbb{R}^{d_{\text{expert}}}
@@ -74,6 +76,7 @@ $$
 $$
 
 - 后面 $(\mathbf{W}_{\text{down}}^i[:, k](\mathbf{W}_{\text{up}}^i[k, :]\mathbf{x})$ 就是 $A_K$ 
+
 
 $$
 E_i(\mathbf{x}) = \sum_{k=1}^{d_{\text{expert}}} G[k] \cdot A_k \mathbf{x}, \quad \text{where } A_k = \mathbf{W}_{\text{down}}^i[:, k]\mathbf{W}_{\text{up}}^i[k, :] \in \mathbb{R}^{d_{\text{model}} \times d_{\text{model}}}
