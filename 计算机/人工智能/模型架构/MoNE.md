@@ -55,7 +55,7 @@ $$
 
 - auxiliary loadbalance loss,本质是惩罚没被选中的，抬高地板
 -  $f_i$ ：一个批次中，路由器的 argtopK 函数选择了专家 i 的次数，然后除以批次的总大小 T 得出。
-- 
+-  $P_i$ : 一个批次的数据中，第 i 个专家被xuan'zhong的平均重要性权重
 
 $$
 \mathbf{G} = \text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \in \mathbb{R}^{d_{\text{expert}}}, \quad \mathbf{H} = \mathbf{W}_{\text{up}}^i\mathbf{x} \in \mathbb{R}^{d_{\text{expert}}}
