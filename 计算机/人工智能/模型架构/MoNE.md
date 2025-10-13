@@ -73,6 +73,8 @@ $$
 = \sum_{k=1}^{d_{\text{expert}}} G[k] \cdot (\mathbf{W}_{\text{down}}^i[:, k](\mathbf{W}_{\text{up}}^i[k, :]\mathbf{x}))
 $$
 
+- 后面 $(\mathbf{W}_{\text{down}}^i[:, k](\mathbf{W}_{\text{up}}^i[k, :]\mathbf{x})$ 就是 $A_K$
+
 $$
 E_i(\mathbf{x}) = \sum_{k=1}^{d_{\text{expert}}} G[k] \cdot A_k \mathbf{x}, \quad \text{where } A_k = \mathbf{W}_{\text{down}}^i[:, k]\mathbf{W}_{\text{up}}^i[k, :] \in \mathbb{R}^{d_{\text{model}} \times d_{\text{model}}}
 $$
