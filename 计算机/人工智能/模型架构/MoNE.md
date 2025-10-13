@@ -24,19 +24,25 @@ $$
 
 
 
-#### TODO：公式 12推导过程
+#### 公式
 
 $$
 E_i(\mathbf{x}) = \mathbf{W}_{\text{down}}^i(\text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \odot \mathbf{W}_{\text{up}}^i\mathbf{x})
 $$
 
+- 专家E_i的表达式
+
 $$
 \mathbf{P}(\mathbf{x}) = \text{Act}(\text{topK}(\text{Router}(\mathbf{x})))
 $$
 
+- Act是激活函数
+
 $$
 \text{MoE}(\mathbf{x}) = \sum_{i=1}^{N_E} \mathbf{P}(\mathbf{x})_i E_i(\mathbf{x})
 $$
+
+- 通过P(x)限制激活的专家，1激活0不激活
 
 $$
 \mathcal{L}_{\text{aux}} = \alpha_{\text{aux}} \cdot N_E \cdot \sum_{i=1}^{N_E} f_i \cdot P_i, \quad \text{where}
@@ -47,14 +53,13 @@ $$
 f_i = \frac{1}{T} \sum_{\mathbf{x} \in \mathcal{B}} \mathbb{I}\{i \in \text{argtopK}(\text{Router}(\mathbf{x}))\}, \quad P_i = \frac{1}{T} \sum_{\mathbf{x} \in \mathcal{B}} \text{Act}(\text{topK}(\text{Router}(\mathbf{x})))[i]
 $$
 
-
-$$
-E_i(\mathbf{x}) = \mathbf{W}_{\text{down}}^i(\text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \odot \mathbf{W}_{\text{up}}^i\mathbf{x})
-$$
+- banlance loss，
 
 $$
 \mathbf{G} = \text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \in \mathbb{R}^{d_{\text{expert}}}, \quad \mathbf{H} = \mathbf{W}_{\text{up}}^i\mathbf{x} \in \mathbb{R}^{d_{\text{expert}}}
 $$
+
+
 
 $$
 E_i(\mathbf{x}) = \mathbf{W}_{\text{down}}^i(\mathbf{G} \odot \mathbf{H})
@@ -71,3 +76,5 @@ $$
 $$
 E_i(\mathbf{x}) = \sum_{k=1}^{d_{\text{expert}}} G[k] \cdot A_k \mathbf{x}, \quad \text{where } A_k = \mathbf{W}_{\text{down}}^i[:, k]\mathbf{W}_{\text{up}}^i[k, :] \in \mathbb{R}^{d_{\text{model}} \times d_{\text{model}}}
 $$
+
+- E_i分解为A_i
