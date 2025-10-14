@@ -16,3 +16,6 @@ vi ~/.bashrc
 #写入
 source ~/.bashrc
 ```
+
+### 订阅转换
+https://v2ray-to-sing-box.pages.dev/
