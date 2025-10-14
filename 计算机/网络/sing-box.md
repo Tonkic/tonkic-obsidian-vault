@@ -5,6 +5,11 @@ https://github.com/chika0801/sing-box-examples
 
 ```bash
 nohup ./sing-box run -c config.json &
+#短期生效
 export http_proxy="http://127.0.0.1:10000"
 export https_proxy="http://127.0.0.1:10000"
+#长期生效
+vi ~/.bashrc
+#写入
+source ~/.bashrc
 ```
