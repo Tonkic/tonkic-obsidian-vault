@@ -8,7 +8,7 @@
 Figure3表示传统MoE专家可以分解为神经元粒度FFN的加权求和
 
 $$
-E_k(\mathbf{x}) = W_{down}(W_{up}\mathbf{x} \odot \text{SiLU}(W_{gate}\mathbf{x})) = \underbrace{E_i^1 \cdot \text{SiLU}(g_1)}_{\text{score}} + \underbrace{E_i^2 \cdot \text{SiLU}(g_2)}_{\text{score}} + \dots + \underbrace{E_i^n \cdot \text{SiLU}(g_n)}_{\text{score}}
+E_i(\mathbf{x}) = W_{down}(W_{up}\mathbf{x} \odot \text{SiLU}(W_{gate}\mathbf{x})) = \underbrace{E_i^1 \cdot \text{SiLU}(g_1)}_{\text{score}} + \underbrace{E_i^2 \cdot \text{SiLU}(g_2)}_{\text{score}} + \dots + \underbrace{E_i^n \cdot \text{SiLU}(g_n)}_{\text{score}}
 $$
 
 - 输入向量input兵分两路，左边up右边gate，逐元素相乘后down，可以理解为FFN的两层MLP中间插入了一个gate
