@@ -76,8 +76,7 @@ $$
 - $\alpha_{\text{NG}}$ : 超参数，设置得较大时，loss大，更倾向于让所有神经元被均匀使用
 - 神经元内的损失和专家之间的损失原理是一样的
 #### 总的损失是两个相加
-
- $\tilde{\mathcal{L}}_{\text{aux}} = \mathcal{L}_{\text{aux}} + \sum_{i=1}^{N_E} \mathcal{L}_{\text{NG-LBL}}^{i}$
+ $$\tilde{\mathcal{L}}_{\text{aux}} = \mathcal{L}_{\text{aux}} + \sum_{i=1}^{N_E} \mathcal{L}_{\text{NG-LBL}}^{i}$$
 
 
 $$
