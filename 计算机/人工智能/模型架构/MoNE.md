@@ -30,7 +30,7 @@ $$
 E_i(\mathbf{x}) = \mathbf{W}_{\text{down}}^i(\text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \odot \mathbf{W}_{\text{up}}^i\mathbf{x})
 $$
 
-- 专家E_i的表达式
+- 专家 $E_i$ 的表达式
 
 $$
 \mathbf{P}(\mathbf{x}) = \text{Act}(\text{topK}(\text{Router}(\mathbf{x})))
