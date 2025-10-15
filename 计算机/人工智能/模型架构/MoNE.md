@@ -75,7 +75,8 @@ $$
 - $\tilde{P}_{i,k}$ : 一个批次的数据中，第 i 个专家内，第 k 个神经元被选中时的平均权重大小 
 - $\alpha_{\text{NG}}$ : 超参数，设置得较大时，loss大，更倾向于让所有神经元被均匀使用
 - 神经元内的损失和专家之间的损失原理是一样的
-
+#### 总的损失是两个相加
+ $\tilde{\mathcal{L}}_{\text{aux}} = \mathcal{L}_{\text{aux}} + \sum_{i=1}^{N_E} \mathcal{L}_{\text{NG-LBL}}^{i}$
 
 
 $$
