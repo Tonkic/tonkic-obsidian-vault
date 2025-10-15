@@ -43,6 +43,7 @@ $$
 $$
 
 - 通过P(x)限制激活的专家，1激活0不激活
+#### 专家的损失
 
 $$
 \mathcal{L}_{\text{aux}} = \alpha_{\text{aux}} \cdot N_E \cdot \sum_{i=1}^{N_E} f_i \cdot P_i, \quad \text{where}
@@ -57,6 +58,24 @@ $$
 -  $f_i$ ：一个批次中，路由器的 argtopK 函数选择了专家 i 的次数，然后除以批次的总大小 T 得出。
 -  $P_i$ : 一个批次的数据中，第 i 个专家被选中时的平均权重大小
 - $\alpha_{\text{aux}}$ : 超参数，设置得较大时，loss大，更倾向于让所有专家被均匀使用
+
+#### 专家内神经元损失
+$$
+\mathcal{L}_{\text{NG-LBL}}^{i} = \alpha_{NG} \cdot d_{\text{expert}} \cdot \sum_{k=1}^{d_{\text{expert}}} \tilde{f}_{i,k} \cdot \bar{P}_{i,k}
+$$
+
+$$
+\tilde{f}_{i,k} = \frac{1}{T}\sum_{x\in\mathcal{B}}\mathbb{I}\{k\in \text{argtopK}(\text{Abs}(G_{i}))\}
+$$
+$$
+\bar{P}_{i,k} = \frac{1}{T}\sum_{x\in\mathcal{B}}\text{Act}(\text{topK}(G_{i}))[k]
+$$
+
+- $f_{i,k}$ ：一个批次中，路由器的 argtopK 函数选择了专家 i 的次数，然后除以批次的总大小 T 得出。
+- $P_i$ : 一个批次的数据中，第 i 个专家被选中时的平均权重大小 
+- $\alpha_{\text{aux}}$ : 超参数，设置得较大时，loss大，更倾向于让所有专家被均匀使用
+
+
 
 $$
 \mathbf{G} = \text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \in \mathbb{R}^{d_{\text{expert}}}, \quad \mathbf{H} = \mathbf{W}_{\text{up}}^i\mathbf{x} \in \mathbb{R}^{d_{\text{expert}}}
