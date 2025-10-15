@@ -81,7 +81,7 @@ $$
 $$
 \mathbf{G} = \text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \in \mathbb{R}^{d_{\text{expert}}}, \quad \mathbf{H} = \mathbf{W}_{\text{up}}^i\mathbf{x} \in \mathbb{R}^{d_{\text{expert}}}
 $$
-
+- 用G和H化简公式
 
 
 $$
