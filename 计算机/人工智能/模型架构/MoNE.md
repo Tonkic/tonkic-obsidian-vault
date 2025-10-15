@@ -57,6 +57,7 @@ $$
 -  $f_i$ ：一个批次中，路由器的 argtopK 函数选择了专家 i 的次数，然后除以批次的总大小 T 得出。
 -  $P_i$ : 一个批次的数据中，第 i 个专家被选中时的平均权重大小
 - $\alpha_{\text{aux}}$ : 超参数，设置得较大时，loss大，更倾向于让所有专家被均匀使用
+
 $$
 \mathbf{G} = \text{SiLU}(\mathbf{W}_{\text{gate}}^i\mathbf{x}) \in \mathbb{R}^{d_{\text{expert}}}, \quad \mathbf{H} = \mathbf{W}_{\text{up}}^i\mathbf{x} \in \mathbb{R}^{d_{\text{expert}}}
 $$
