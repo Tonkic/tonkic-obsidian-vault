@@ -12,4 +12,8 @@ Decoder不可能从一个概率分布得到图像，需要首先从z中采样再
 - sample(z)是不可导的，无法反向传播
 于是，使用Reparameterization Trick，z不再等于  $\mathcal{N}(\mu, \sigma)$，而是等于 $\mu + \sigma \cdot \epsilon$ ，其中 $\epsilon$ 属于 $\mathcal{N}(0, 1)$ 
 ##### 生成任务
-想要生成4，只需要在latent space中4的向量fu'jing
+- 想要生成4，只需要在latent space中4的向量附近采样即可生成数据集中没有的内容
+- 同时，使用两幅图对应的向量， 取中间值， 使用中间向量输入decoder可以融合两幅图
+### 缺点
+1. 容易生成模糊的图像
+2. 无法生成特定的图像
