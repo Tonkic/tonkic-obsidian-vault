@@ -7,3 +7,9 @@ Encoder会把x映射为高斯分布的参数$\mu$ 和 $\sigma$
 ##### Loss
 ![](../../../pic/Gemini_Generated_Image_10y85k10y85k10y8.png)
 前面可以看成一个L2 loss，后面是KL散度
+##### Reparameterization Trick
+Decoder不可能从一个概率分布得到图像，需要首先从z中采样再计算，这就出现了问题：
+- sample(z)是不可导的，无法反向传播
+于是，使用Reparameterization Trick，z不再等于  $\mathcal{N}(\mu, \sigma)$，而是等于 $\mu + \sigma \cdot \epsilon$ ，其中 $\epsilon$ 属于 $\mathcal{N}(0, 1)$ 
+##### 生成任务
+想要生成4，只需要在latent space中4的向量fu'jing
