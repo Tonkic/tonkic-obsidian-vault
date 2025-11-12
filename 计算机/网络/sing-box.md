@@ -19,3 +19,7 @@ source ~/.bashrc
 
 ### 订阅转换
 https://v2ray-to-sing-box.pages.dev/
+
+##### 配置
+nohup ./sing-box run -c config1.json &
+nohup ./sing-box run -c config2.json &
