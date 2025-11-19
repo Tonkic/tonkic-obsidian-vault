@@ -25,14 +25,12 @@ URL="https://www.duckdns.org/update?domains=${DOMAINS}&token=${TOKEN}&ip=${IP_AD
 
 echo "Attempting to update DuckDNS for domain(s) ${DOMAINS} with IP ${IP_ADDRESS} from interface ${INTERFACE}..."
 
-
 curl --noproxy '*' -sk -o "${LOG_FILE}" "${URL}"
-
 
 echo "" >> "${LOG_FILE}"
 
+RESPONSE=$(cat "${LOG_FILE}" | tr -d '\n')
 
-RESPONSE=$(cat "${LOG_FILE}" | tr -d '\n') 
 if [ "${RESPONSE}" = "OK" ]; then
   echo "Update successful! IP set to ${IP_ADDRESS}. Response: OK"
 else
