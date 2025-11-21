@@ -58,4 +58,24 @@ DINO  Score : 0.3388
 
 ==============================
 
-
+### 随机选择类别中的1张：
+CUB鸟类数据集
+--- Baseline (只用T2I) (基于 200 张图像) ---
+CLIP Score :   0.2743
+SigLIP Score : 0.1270
+DINO Score :   0.5585
+--- True Final (RAG 修正后) (基于 200 张图像) ---
+CLIP Score :   0.3030
+SigLIP Score : 0.1458
+DINO Score :   0.5681
+aircraft数据集
+--- Baseline (只用T2I) (基于 100 张图像) ---
+CLIP Score :   0.2787
+SigLIP Score : 0.1220
+DINO Score :   0.6552
+--- True Final (RAG 修正后) (基于 100 张图像) ---
+CLIP Score :   0.2863
+SigLIP Score : 0.1304
+DINO Score :   0.6754
+### 选择类别中的全部：
+aircraft数据集
