@@ -40,3 +40,22 @@ CLIP Score :   0.2808
 SigLIP Score : 0.1343
 DINO Score :   0.6934
 
+
+
+==============================
+  EVALUATION RESULTS: aircraft
+  Classes Evaluated: 100
+==============================
+--- Baseline (No RAG) ---
+CLIP   Score : 0.2729
+SIGLIP Score : 0.1257
+DINO   Score : 0.3196
+
+--- RAG Assisted (Old) ---
+CLIP   Score : 0.2713
+SIGLIP Score : 0.1235
+DINO  Score : 0.3388
+
+==============================
+
+
