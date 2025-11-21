@@ -16,16 +16,25 @@ KID     : 0.007179 (Lower is better)
 
 ### 选择类别中的全部：
 CUB鸟类数据集
---- Baseline (V1) (基于 200 张图像) ---
-CLIP Score :   0.2743
-SigLIP Score : 0.1270
-DINO Score :   0.5500 (vs ALL real images)
-KID Score  :   0.013732 (Lower is better)
---- True Final (RAG 修正后) (基于 200 张图像) ---
-CLIP Score :   0.3030
-SigLIP Score : 0.1458
-DINO Score :   0.5677 (vs ALL real images)
-KID Score  :   0.007866 (Lower is better)
+
+
+  FINAL REPORT: cub (All ViT-Base)
+--- Baseline (V1) ---
+CLIP        : 0.2743
+SIGLIP      : 0.1270
+DINOV1_BASE : 0.5596
+DINOV2_BASE : 0.4188
+DINOV3_BASE : 0.3494
+KID         : 0.014076
+--- True Final ---
+CLIP        : 0.3030
+SIGLIP      : 0.1458
+DINOV1_BASE : 0.5717
+DINOV2_BASE : 0.5062
+DINOV3_BASE : 0.4252
+KID         : 0.008243
+
+
 aircraft数据集
 --- Baseline (V1) ---
 CLIP        : 0.2787
