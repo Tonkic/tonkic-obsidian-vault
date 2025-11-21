@@ -1,22 +1,21 @@
-==============================
-  EVALUATION RESULTS: aircraft
 --- Baseline (No RAG) ---
-CLIP    : 0.2729
-SigLIP  : 0.1257
-DINO    : 0.3196 (vs ALL GT images)
-KID     : 0.013743 (Lower is better)
+CLIP        : 0.2729
+SigLIP      : 0.1257
+DINOv1_B    : 0.6791
+DINOv2_B    : 0.3196
+DINOv3_B    : 0.2773
+KID         : 0.014051 (Lower is better)
 
 --- RAG Assisted (Old) ---
-CLIP    : 0.2713
-SigLIP  : 0.1235
-DINO    : 0.3388 (vs ALL GT images)
-KID     : 0.007179 (Lower is better)
-
-==============================
+CLIP        : 0.2713
+SigLIP      : 0.1235
+DINOv1_B    : 0.6952
+DINOv2_B    : 0.3388
+DINOv3_B    : 0.3121
+KID         : 0.006893 (Lower is better)
 
 ### 选择类别中的全部：
 CUB鸟类数据集
-
 
   FINAL REPORT: cub (All ViT-Base)
 --- Baseline (V1) ---
@@ -43,7 +42,6 @@ DINOV1_BASE : 0.6715
 DINOV2_BASE : 0.3295
 DINOV3_BASE : 0.2792
 KID         : 0.009855
-  
 --- True Final ---
 CLIP        : 0.2863
 SIGLIP      : 0.1304
