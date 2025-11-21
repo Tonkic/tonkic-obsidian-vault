@@ -27,17 +27,21 @@ SigLIP Score : 0.1458
 DINO Score :   0.5677 (vs ALL real images)
 KID Score  :   0.007866 (Lower is better)
 aircraft数据集
---- 报告 B: 评估结果 (公平比较, 100% 任务) ---
---- Baseline (V1) (基于 100 张图像) ---
-CLIP Score :   0.2787
-SigLIP Score : 0.1220
-DINO Score :   0.6583 (vs ALL real images)
-KID Score  :   0.009244 (Lower is better)
---- True Final (RAG 修正后) (基于 100 张图像) ---
-CLIP Score :   0.2863
-SigLIP Score : 0.1304
-DINO Score :   0.6784 (vs ALL real images)
-KID Score  :   0.004025 (Lower is better)
+--- Baseline (V1) ---
+CLIP        : 0.2787
+SIGLIP      : 0.1220
+DINOV1_BASE : 0.6715
+DINOV2_BASE : 0.3295
+DINOV3_BASE : 0.2792
+KID         : 0.009855
+  
+--- True Final ---
+CLIP        : 0.2863
+SIGLIP      : 0.1304
+DINOV1_BASE : 0.6953
+DINOV2_BASE : 0.3844
+DINOV3_BASE : 0.3421
+KID         : 0.004090
 
 
 
