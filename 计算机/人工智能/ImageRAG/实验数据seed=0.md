@@ -1,5 +1,4 @@
-
-
+### OLD
 aircraft数据集
 --- Baseline (No RAG) ---
 CLIP        : 0.2729
@@ -15,6 +14,7 @@ DINOv1_B    : 0.6952
 DINOv2_B    : 0.3388
 DINOv3_B    : 0.3121
 KID         : 0.006893 (Lower is better)
+
 
 ### 选择类别中的全部：
 CUB鸟类数据集
@@ -33,8 +33,6 @@ DINOV1_BASE : 0.5717
 DINOV2_BASE : 0.5062
 DINOV3_BASE : 0.4252
 KID         : 0.008243
-
-
 aircraft数据集
 --- Baseline (V1) ---
 CLIP        : 0.2787
