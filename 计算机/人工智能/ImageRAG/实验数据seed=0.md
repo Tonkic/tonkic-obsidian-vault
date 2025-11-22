@@ -16,6 +16,23 @@ DINOv3_B    : 0.3121
 KID         : 0.006893 (Lower is better)
 
 
+CUB鸟类数据集
+--- Baseline (No RAG) ---
+CLIP        : 0.2990
+SigLIP      : 0.1293
+DINOv1_B    : 0.5681
+DINOv2_B    : 0.4266
+DINOv3_B    : 0.3593
+KID         : 0.014465 (Lower is better)
+
+--- RAG Assisted (Old - Final) ---
+CLIP        : 0.2937
+SigLIP      : 0.1286
+DINOv1_B    : 0.5678
+DINOv2_B    : 0.4426
+DINOv3_B    : 0.3811
+KID         : 0.017476 (Lower is better)
+
 ### 选择类别中的全部：
 CUB鸟类数据集
   FINAL REPORT: cub (All ViT-Base)
