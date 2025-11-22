@@ -1,3 +1,6 @@
+
+
+aircraft数据集
 --- Baseline (No RAG) ---
 CLIP        : 0.2729
 SigLIP      : 0.1257
@@ -5,7 +8,6 @@ DINOv1_B    : 0.6791
 DINOv2_B    : 0.3196
 DINOv3_B    : 0.2773
 KID         : 0.014051 (Lower is better)
-
 --- RAG Assisted (Old) ---
 CLIP        : 0.2713
 SigLIP      : 0.1235
@@ -16,7 +18,6 @@ KID         : 0.006893 (Lower is better)
 
 ### 选择类别中的全部：
 CUB鸟类数据集
-
   FINAL REPORT: cub (All ViT-Base)
 --- Baseline (V1) ---
 CLIP        : 0.2743
