@@ -1,0 +1,17 @@
+EVAL REPORT: OmniGenV2 + BC + SR (Aircraft)
+
+--- Baseline (V1) ---
+CLIP        : 0.2885
+SIGLIP      : 0.1273
+DINOV1_BASE : 0.7331
+DINOV2_BASE : 0.3225
+DINOV3_BASE : 0.2381
+KID         : 0.020135
+
+--- BC+SR (Final) ---
+CLIP        : 0.2879
+SIGLIP      : 0.1334
+DINOV1_BASE : 0.7496
+DINOV2_BASE : 0.4387
+DINOV3_BASE : 0.3827
+KID         : 0.006154
