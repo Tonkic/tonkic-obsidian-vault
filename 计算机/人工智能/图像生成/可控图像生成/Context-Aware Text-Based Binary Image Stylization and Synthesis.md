@@ -1,5 +1,0 @@
----
-tags:
-  - ACMMM
-  - CCF-A
----
