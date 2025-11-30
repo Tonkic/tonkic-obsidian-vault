@@ -1,5 +1,5 @@
 ### 概念
-Experts：专家网络，是[FFN](经典骨干/FFN.md)
+Experts：专家网络，是[FFN](../经典架构/FFN.md)
 Router：路由/门控网络，控制选择哪个专家的“开关”，由FFNN+Softmax组成
 ![../../../../pic/Pasted image 20250808184305.png](../../../../pic/Pasted%20image%2020250808184305.png)
 
