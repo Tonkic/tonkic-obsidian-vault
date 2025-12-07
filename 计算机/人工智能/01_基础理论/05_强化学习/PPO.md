@@ -1,0 +1,4 @@
+---
+aliases:
+  - Proximal Policy Optimization
+---
