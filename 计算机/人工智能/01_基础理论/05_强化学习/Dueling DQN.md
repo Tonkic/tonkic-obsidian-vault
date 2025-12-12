@@ -16,3 +16,4 @@ def forward(self, x):
         Q = V + A - A.mean(1).view(-1, 1)  
         return Q
 ```
+A - A.mean(1)使得处理后的优势值之和（以及均值）恒为 0。使得V(s)被迫去拟合Q的均值
