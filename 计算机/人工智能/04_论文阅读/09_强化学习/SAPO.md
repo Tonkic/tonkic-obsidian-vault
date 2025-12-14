@@ -9,7 +9,7 @@
 The probability of generating a response $y$ given a query $q$ is factorized as the product of conditional probabilities at each step:
 
 $$
-\pi_{\theta}(y \mid q) = \prod_{t=1}^{|y|} \pi_{\theta}(y_t \mid q, y_{<t}) \tag{1}
+\pi_{\theta}(y \mid q) = \prod_{t=1}^{|y|} \pi_{\theta}(y_t \mid q, y_{<t})
 $$
 - **$y_t$**: The token generated at the current time step $t$ 
 - **$y_{<t}$**: The history of tokens generated before step $t$ 
