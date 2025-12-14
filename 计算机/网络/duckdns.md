@@ -2,9 +2,9 @@
 #!/bin/bash
 
 # --- 用户配置 ---
-DOMAINS="YOUR_DOMAIN_HERE"
+DOMAINS="tonkic"
 
-TOKEN="YOUR_TOKEN_HERE"
+TOKEN="d923ace2-3d5e-42d5-97a3-54d898a24f03"
 
 INTERFACE="ppp0"
 
