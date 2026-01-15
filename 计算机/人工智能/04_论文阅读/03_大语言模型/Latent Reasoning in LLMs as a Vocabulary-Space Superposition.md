@@ -13,7 +13,7 @@
 - **$h_i$**：在经过诱导掩码（LTIM）处理后，模型在 $L_i$ 位置输出的**最后层隐状态（Last-layer Hidden State）** 9。它是一个高维向量，承载了压缩后的语义信息 。
 - **$l_i$**：**词汇表对数几率（Logits）** 11。通过将隐状态 $h_i$ 投影到 LM Head（$W$）得到，公式为 $l_i = W^\top h_i$ 12。
 - **$\alpha_i$**：**词汇表概率分布（Probability Vector）** 1313。对 $l_i$ 进行 Softmax 处理后得到，决定了不同词汇在潜 Token 中的“混合比例” 14141414。
-- **$z_i$**：生成的**潜 Token（Latent Token / Soft Embedding）** 151515。它是词表嵌入矩阵 $E$ 的线性组合，即 $z_i = \sum \alpha_{i,v} e_v$ 16。
+- **$z_i$**：生成的**潜 Token（Latent Token / Soft Embedding）**。它是词表嵌入矩阵 $E$ 的线性组合，即 $z_i = \sum \alpha_{i,v} e_v$ 。
 ### 3.模型与参数相关符号
 - **$\theta_{enc}$**：潜 Token 编码器（Latent Token Encoder）的参数 。它负责根据显式文本生成潜 Token 的标签 
 - **$\theta_{llm}$**：大语言模型（LLM）的主体参数，在 Stage 2 中被训练为能够自主生成潜 Token 并给出答案。
