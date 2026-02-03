@@ -16,3 +16,24 @@ netstat -tuln | grep 1090
 - **jsDelivr (Fastly):** `https://fastly.jsdelivr.net/gh/hiboyhiboy/opt-file@master/Advanced_Extensions_hysteriaasp`
 放到/opt/app/hysteria/
 下载下来的文件加个点Advanced_Extensions_hysteria.asp
+
+
+/opt/app/hysteria/config.json
+```json
+{
+  "server": "104.248.221.171:62993",
+  "auth": "c38194f3",
+  "tls": {
+    "sni": "www.bing.com",
+    "insecure": true
+  },
+  "bandwidth": {
+    "up": "100 mbps",
+    "down": "100 mbps"
+  },
+  "socks5": {
+    "listen": "0.0.0.0:1080",
+    "disableUDP": false
+  }
+}
+```
