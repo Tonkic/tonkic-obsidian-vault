@@ -4,7 +4,7 @@
 实验Figure1得出只激活一个专家内top0.6的参数，模型的性能几乎没有下降
 
 实验Figure2得出这种稀疏性在模型不同深度的layer中普遍存在
-![](../../../../pic/Pasted%20image%2020251012202950.png)
+![[../../../../pic/Pasted image 20251012202950.png]]
 Figure3表示传统MoE专家可以分解为神经元粒度FFN的加权求和
 
 $$
@@ -13,7 +13,7 @@ $$
 
 - 输入向量input兵分两路，左边up右边gate，逐元素相乘后down，可以理解为FFN的两层MLP中间插入了一个gate
 ### METHOD
-![](../../../../pic/Pasted%20image%2020251012200351.png)
+![[../../../../pic/Pasted image 20251012200351.png]]
 - x: 当前层的输入向量
 - n: 可供选择的专家总数
 - $K_E$: 需要从 n 个专家中选出的专家数量
@@ -90,14 +90,14 @@ E_i(\mathbf{x}) = \mathbf{W}_{\text{down}}^i(\mathbf{G} \odot \mathbf{H})
 $$
 
 $$
-E_i(\mathbf{x}) = \sum_{k=1}^{d_{\text{expert}}} \mathbf{W}_{\text{down}}^i[:, k](G[k] \cdot H[k])
+E_i(\mathbf{x}) = \sum_{k=1}^{d_{\text{expert}}} \mathbf{W}_{\text{down}}^i[[G[k] \cdot H[k]|:, k]]
 $$
 
 $$
-= \sum_{k=1}^{d_{\text{expert}}} G[k] \cdot (\mathbf{W}_{\text{down}}^i[:, k](\mathbf{W}_{\text{up}}^i[k, :]\mathbf{x}))
+= \sum_{k=1}^{d_{\text{expert}}} G[[\mathbf{W}_{\text{down}}^i[:, k](\mathbf{W}_{\text{up}}^i[k, :]\mathbf{x}|k]])
 $$
 
-- 后面 $(W_{\text{down}}^{i}[:, k](W_{\text{up}}^{i}[k, :]\mathbf{x}))$ 就是 $A_K$ 
+- 后面 $(W_{\text{down}}^{i}[[W_{\text{up}}^{i}[k, :]\mathbf{x}|:, k]])$ 就是 $A_K$ 
 
 
 $$

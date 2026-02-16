@@ -16,7 +16,7 @@ network:
 ```
 应用配置 sudo netplan apply
 
-如果配置文件如下，见[NetworkManager](#^0e6bac)
+如果配置文件如下，见[[#^0e6bac|NetworkManager]]
 ```yaml
 # Let NetworkManager manage all devices on this system
 network:

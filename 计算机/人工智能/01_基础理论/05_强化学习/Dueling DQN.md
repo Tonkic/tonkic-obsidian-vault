@@ -1,4 +1,4 @@
-[DQN](DQN.md) 改进算法
+[[DQN.md]] 改进算法
 
 根据定义，状态价值 $V(s)$ 是动作价值 $Q(s, a)$ 在当前策略 $\pi$ 下的期望（Expectation）：
 

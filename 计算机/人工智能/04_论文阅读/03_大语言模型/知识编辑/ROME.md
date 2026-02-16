@@ -1,9 +1,9 @@
 ### 总结
 - 目标是定位FFN的参数并使用ROME修改
-- 使用[因果追踪](#^795708)定位要修改的位置
+- 使用[[#^795708|因果追踪]]定位要修改的位置
 ### 因果追踪
 ^795708
-![](../../../../pic/Pasted%20image%2020251012185859.png)
+![[../../../../pic/Pasted image 20251012185859.png]]
 ##### 分为a，b，c三次运行
 - (a) 正常运行 (Clean Run):
     - 模型接收正常的输入：“The Space Need le is in downtown”。
@@ -24,7 +24,7 @@ t = (s, r, o)，其中 (s = Megan Rapinoe, r = plays sport professionally, o 
 ##### 具体实现
 输入一个prompt，组成为p=(s,r)，观察破坏并修复后的输出与o是否相同
 ### ROME编辑MLP
-![](../../../../pic/Pasted%20image%2020251012191905.png)
+![[../../../../pic/Pasted image 20251012191905.png]]
 - 目标：将事实“太空针塔（Space Needle）在西雅图”修改为“太空针塔在巴黎（Paris）”。
 ##### 确定Key
 - (a) 按主语确定key k* :
