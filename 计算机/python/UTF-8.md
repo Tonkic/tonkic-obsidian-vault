@@ -2,7 +2,7 @@
 aliases:
   - unicode
 ---
-![](../../pic/Pasted%20image%2020250921173701.png)
+![[../../pic/Pasted image 20250921173701.png]]
 - UTF-8是变长编码
 
 | Unicode编码范围（十六进制） | UTF-8编码方式（二进制） |

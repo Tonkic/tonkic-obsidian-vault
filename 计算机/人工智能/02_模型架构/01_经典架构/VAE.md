@@ -5,7 +5,7 @@ Encoder压缩到latent space 然后Decoder解码
 ### 具体实现
 Encoder会把x映射为高斯分布的参数$\mu$ 和 $\sigma$
 ##### Loss
-![](../../../../pic/Gemini_Generated_Image_10y85k10y85k10y8.png)
+![[../../../../pic/Gemini_Generated_Image_10y85k10y85k10y8.png]]
 前面可以看成一个L2 loss，后面是KL散度
 ##### Reparameterization Trick
 Decoder不可能从一个概率分布得到图像，需要首先从z中采样再计算，这就出现了问题：
