@@ -1,4 +1,12 @@
 ---
+tags:
+  - 计算机
+  - 人工智能
+  - 基础理论
+  - 训练与优化
+  - regularization
+---
+---
 aliases:
   - L2 正则
   - L2 regularization

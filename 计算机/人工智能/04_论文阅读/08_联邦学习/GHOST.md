@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 论文阅读
+  - 联邦学习
+---
 这篇论文提出了 **GHOST**（Generalizable One-SHOt Federated Graph Learning with Proxy-Based Topology Knowledge Retention），目标是解决 **联邦图学习（FGL）** 中的两个难题：
 1. **通信受限**：传统的FGL需要多轮通信，而在实际环境（边缘计算、低带宽）中很难做到。
 2. **灾难性遗忘**：不同客户端的图结构差异很大，模型在学习新数据时容易遗忘之前学到的拓扑知识。

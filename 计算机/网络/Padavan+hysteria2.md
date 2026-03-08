@@ -1,3 +1,8 @@
+---
+tags:
+  - 计算机
+  - 网络
+---
 https://github.com/apernet/hysteria/releases
 下载hysteria-linux-mipsle
 ```shell

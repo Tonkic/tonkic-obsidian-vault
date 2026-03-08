@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 基础理论
+  - 强化学习
+---
 ##### REINFORCE 算法
 ![[../../../../pic/Pasted image 20251213035221.png]]
 属于Policy-based方法，需要完整走完一整个轨迹（trajectory）

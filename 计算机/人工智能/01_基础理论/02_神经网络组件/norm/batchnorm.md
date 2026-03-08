@@ -1,4 +1,13 @@
 ---
+tags:
+  - 计算机
+  - 人工智能
+  - 基础理论
+  - 神经网络
+  - 归一化
+  - 批归一化
+---
+---
 aliases:
   - batch normalization
 ---

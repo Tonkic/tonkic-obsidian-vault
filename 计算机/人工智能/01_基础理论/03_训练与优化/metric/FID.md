@@ -1,4 +1,13 @@
 ---
+tags:
+  - 计算机
+  - 人工智能
+  - 基础理论
+  - 训练与优化
+  - 指标
+  - FID
+---
+---
 aliases:
   - Fréchet Inception Distance
 ---

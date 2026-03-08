@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 论文阅读
+  - 强化学习
+---
 - $\theta$ (Theta): The parameters of the autoregressive language model. 
 - $\pi_\theta$ (Pi): The stochastic policy representing the model over token sequences. 
 - $\mathcal{D}$ & $q$: $\mathcal{D}$ is the query set (dataset); $q$ denotes a specific query. 

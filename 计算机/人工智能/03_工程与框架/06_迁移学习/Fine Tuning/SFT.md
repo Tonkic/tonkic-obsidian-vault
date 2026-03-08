@@ -1,4 +1,12 @@
 ---
+tags:
+  - 计算机
+  - 人工智能
+  - 工程与框架
+  - 迁移学习
+  - Fine Tuning
+---
+---
 aliases:
   - 监督微调
   - Supervised Fine-Tuning

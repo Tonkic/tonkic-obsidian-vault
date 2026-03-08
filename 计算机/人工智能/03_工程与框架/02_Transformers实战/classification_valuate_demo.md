@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 工程与框架
+  - Transformers实战
+---
 ```python
 def evaluate():
     model.eval() #评估模式，关闭dropout等

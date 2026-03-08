@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 模型架构
+  - Transformers
+---
 ![[../../../../pic/Pasted image 20251127010635.png]]重建分支（reconstruction branch）和条件分支（condition branch）
 $x$ (Input Image)，$\mathcal{E}$ (Encoder 编码器/VAE)，$\mathcal{D}$ (Decoder 解码器)
 Diffusion Process：不断加噪的过程，知道变成纯噪声$z_T$

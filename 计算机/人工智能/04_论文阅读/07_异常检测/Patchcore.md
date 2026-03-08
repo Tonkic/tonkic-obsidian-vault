@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 论文阅读
+  - 异常检测
+---
 # 论文
 Towards Total Recall in Industrial Anomaly Detection
 # 定义

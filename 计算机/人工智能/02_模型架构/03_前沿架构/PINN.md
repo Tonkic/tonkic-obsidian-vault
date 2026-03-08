@@ -1,4 +1,11 @@
 ---
+tags:
+  - 计算机
+  - 人工智能
+  - 模型架构
+  - 前沿架构
+---
+---
 aliases:
   - PINN
   - Physics-Informed Neural Networks

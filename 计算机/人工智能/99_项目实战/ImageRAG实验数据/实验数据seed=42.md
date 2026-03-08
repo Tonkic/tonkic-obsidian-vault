@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 项目实战
+  - ImageRAG实验数据
+---
 EVAL REPORT: OmniGenV2 + BC + SR (Aircraft)
 
 --- Baseline (V1) ---
