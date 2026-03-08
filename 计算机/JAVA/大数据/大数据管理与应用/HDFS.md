@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - JAVA
+  - 大数据
+  - HDFS
+---
 ## NameNode
 主节点 = Master Node = NameNode
 ### NameNode用于管理NameSpace

@@ -1,4 +1,10 @@
 ---
+tags:
+  - 数学
+  - 概率论
+  - KL散度
+---
+---
 aliases:
   - Kullback-Leibler Divergence
 ---

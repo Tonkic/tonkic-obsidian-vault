@@ -1,4 +1,10 @@
 ---
+tags:
+  - 计算机
+  - python
+  - tuple
+---
+---
 aliases:
   - python元组
 ---
