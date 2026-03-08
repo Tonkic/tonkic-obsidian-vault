@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 工程与框架
+  - Transformers实战
+---
 Transformers：核心库，模型加载、模型训练、流水线等
 Tokenizer：分词器，对数据进行预处理，文本到token序列的互相转换
 Datasets：数据集库，提供了数据集的加载、处理等方法

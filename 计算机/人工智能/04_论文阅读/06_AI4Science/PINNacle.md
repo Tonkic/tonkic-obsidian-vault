@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 论文阅读
+  - AI4Science
+---
 ### 默认benchmark运行结果
 ![[../../../../pic/Pasted image 20250908232436.png]]
 Best model at step 9600:

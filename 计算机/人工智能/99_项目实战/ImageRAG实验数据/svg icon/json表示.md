@@ -1,3 +1,11 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 项目实战
+  - ImageRAG实验数据
+  - svg icon
+---
 <svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace">
     <defs>
         <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">

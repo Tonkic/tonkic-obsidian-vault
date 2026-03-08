@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 模型架构
+  - 经典架构
+---
 ### AE结构
 Encoder压缩到latent space 然后Decoder解码
 ### VAE相对AE的改进

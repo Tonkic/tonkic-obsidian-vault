@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 模型架构
+  - Transformers
+---
 Google AI 在2018年提出的一种基于[[../经典架构/Transformer.md|Transformer]] 架构的双向预训练语言处理模型
 
 BERT 的输入是文本序列的向量模式，包括词向量、文本向量和位置向量

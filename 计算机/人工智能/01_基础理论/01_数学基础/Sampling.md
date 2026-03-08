@@ -1,4 +1,12 @@
 ---
+tags:
+  - 计算机
+  - 人工智能
+  - 基础理论
+  - 数学
+  - 采样
+---
+---
 aliases:
   - UnSampling
   - DownSampling

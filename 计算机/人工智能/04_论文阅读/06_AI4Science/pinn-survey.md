@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 论文阅读
+  - AI4Science
+---
 ### From PINNs to PIKANs: Recent Advances in Physics-Informed Machine Learning
 ![[../../../../pic/Pasted image 20250909230917.png]]
 ### When physics meets machine learning: a survey of physics-informed machine learning

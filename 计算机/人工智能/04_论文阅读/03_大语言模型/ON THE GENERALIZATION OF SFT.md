@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 论文阅读
+  - 大语言模型
+---
 ON THE GENERALIZATION OF SFT: A REINFORCEMENT LEARNING PERSPECTIVE WITH REWARD RECTIFICATION
 ## 论文简介
 这篇论文提出了一个改进大语言模型监督微调（SFT）的简单方法，叫做**动态微调（DFT）**。

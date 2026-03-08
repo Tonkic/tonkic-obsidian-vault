@@ -1,3 +1,12 @@
+---
+tags:
+  - 计算机
+  - 人工智能
+  - 基础理论
+  - 神经网络
+  - 嵌入
+  - RoPE
+---
 - Rotary Position Embedding
 - 目前用的最多的方法
 - 相对位置编码

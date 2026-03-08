@@ -1,3 +1,8 @@
+---
+tags:
+  - 计算机
+  - 算法
+---
 ```C++
 //std::sort
 bool cmp(auto &a,auto &b){...}，如果返回true，就代表a应该排在b前面，否则是b在a前

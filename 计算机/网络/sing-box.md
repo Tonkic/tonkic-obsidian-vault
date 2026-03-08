@@ -1,3 +1,8 @@
+---
+tags:
+  - 计算机
+  - 网络
+---
 ### 官方
 ##### 文档
 https://sing-box.sagernet.org/
