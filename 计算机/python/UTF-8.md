@@ -1,4 +1,10 @@
 ---
+tags:
+  - 计算机
+  - python
+  - UTF-8
+---
+---
 aliases:
   - unicode
 ---

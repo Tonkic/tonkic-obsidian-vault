@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - JAVA
+  - 大数据
+  - MapReduce
+---
 MapReduce框架采用了Master/Slave架构，包括一个Master和若干个Slave。
 Master上运行JobTracker，Slave上运行TaskTracker
 #### 组成

@@ -1,3 +1,9 @@
+---
+tags:
+  - 计算机
+  - python
+  - labelStudio
+---
 ```cmd
 npm install http-server -g
 http-server -p 8081 --cors

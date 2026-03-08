@@ -1,3 +1,10 @@
+---
+tags:
+  - 计算机
+  - JAVA
+  - 大数据
+  - YARN
+---
 代替JobTracker实现资源分配
 Master端：
 - ResourceManager 资源管理
