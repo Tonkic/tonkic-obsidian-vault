@@ -1,4 +1,13 @@
 ---
+<<<<<<< HEAD
+=======
+tags:
+  - 计算机
+  - python
+  - tuple
+---
+---
+>>>>>>> tonkic-obsidian-vault/main
 aliases:
   - python元组
 ---
