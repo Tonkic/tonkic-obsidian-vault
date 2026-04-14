@@ -1,1 +1,0 @@
-EfficientAD 使用仅由四个卷积层组成的T-S网络
