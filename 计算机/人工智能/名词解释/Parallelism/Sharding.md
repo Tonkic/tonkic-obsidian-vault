@@ -1,1 +1,0 @@
-- 对不同训练状态进行切分（Sharding）：模型参数（`parameters`）、中间激活值（`activations`）、梯度（`gradients`）、优化器状态（`optimizer states`）
