@@ -1,15 +1,5 @@
 ---
-<<<<<<< HEAD
-=======
-tags:
-  - 计算机
-  - python
-  - tuple
----
----
->>>>>>> tonkic-obsidian-vault/main
-aliases:
-  - python元组
+
 ---
 - 有序（ordered）：元素有固定位置，可以通过索引访问。
 - 不可变（immutable）：创建后不能修改（不能增删改元素），这与 list 不同。
