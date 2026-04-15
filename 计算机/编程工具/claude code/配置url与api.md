@@ -1,5 +1,5 @@
 ### windows
-打开`C:/Users/你的用户名/.claude/settings.json`
+打开"C:/Users/你的用户名/.claude/settings.json"
 ```bash
 {
   "env": {
