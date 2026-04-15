@@ -12,3 +12,10 @@
 }
 ```
 
+### Linux
+编辑 ~/.bashrc或 ~/.zshrc,加入
+```
+export ANTHROPIC_AUTH_TOKEN="sk开头的 api key 注意不要多空格"
+export ANTHROPIC_BASE_URL="https://api.meai.cloud"
+export ANTHROPIC_MODEL="claude-sonnet-4-6"
+```
