@@ -101,7 +101,7 @@ E_i(\mathbf{x}) = \sum_{k=1}^{d_{\text{expert}}} \mathbf{W}_{\text{down}}^i[[G[k
 $$
 
 $$
-= \sum_{k=1}^{d_{\text{expert}}} G[[\mathbf{W}_{\text{down}}^i[:, k](\mathbf{W}_{\text{up}}^i[k, :]\mathbf{x}|k]])
+= \sum_{k=1}^{d_{\text{expert}}} G[[\mathbf{W}_{\text{up}}^i[k, :]\mathbf{x}|k]]|[\mathbf{W}_{\text{down}}^i[:, k]]
 $$
 
 - 后面 $(W_{\text{down}}^{i}[[W_{\text{up}}^{i}[k, :]\mathbf{x}|:, k]])$ 就是 $A_K$ 
