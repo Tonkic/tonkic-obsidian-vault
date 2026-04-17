@@ -7,7 +7,7 @@ tags:
 ---
 将对比学习（使用正负样本）用在文生图上
 
-![[../../../../pic/Pasted image 20260307222428.png]]
+![Pasted image 20260307222428](../../../../pic/Pasted%20image%2020260307222428.png)
 图中有三类主体：**Real Image**（真实的参考图）、**Caption**（文本描述），以及由 Generator（生成器）生成的**假图**
 
 ### Generator 和 Critic都是CNN

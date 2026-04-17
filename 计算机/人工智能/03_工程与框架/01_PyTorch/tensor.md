@@ -17,7 +17,7 @@ tensor(张量)本质是指向一片连续内存地址的一个指针
 `torch.view()`更改其中的一个，另外一个也会跟着改变
 ```python
 # 首先需要保证tensor是contiguous的，才能使用view，view后的顺序也是按照内存中的顺序
-a=torch.Tensor([[[1,2,3],[4,5,6]]])
+a=torch.Tensor([[1,2,3]([1,2,3)])
 print(a.view(3,2))
 """ >>> tensor([[1., 2.],
         [3., 4.],
@@ -37,7 +37,7 @@ y = torch.arange(1, 4).view(3, 1)
 print(y)
 print(x + y)
 
-tensor([[1, 2]])
+tensor([1, 2](1,%202))
 tensor([[1],
         [2],
         [3]])

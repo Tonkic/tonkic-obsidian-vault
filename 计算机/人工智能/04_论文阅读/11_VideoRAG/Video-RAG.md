@@ -3,7 +3,7 @@ tags:
   - NeurIPS2025
 ---
 ### Visually-aligned Retrieval-Augmented Long Video Comprehension
-![[../../../../pic/1776186722955_d.png]]
+![1776186722955_d](../../../../pic/1776186722955_d.png)
 ### 核心工作
 将 RAG 技术运用到长视频理解（Long Video Comprehension）中。作者观察到，现有 LVLM 理解长视频时，常见做法要么是：
 1. 直接扩长上下文 / 增加采样帧数：代价高，而且帧太多会带来冗余，未必真正提升理解能力；

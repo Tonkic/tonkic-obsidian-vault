@@ -8,4 +8,4 @@ tags:
   - sine
 ---
 - 偶数位置用sin，奇数位置用cos
-![[../../../../../pic/Pasted image 20250924231728.png]]
+![Pasted image 20250924231728](../../../../../pic/Pasted%20image%2020250924231728.png)

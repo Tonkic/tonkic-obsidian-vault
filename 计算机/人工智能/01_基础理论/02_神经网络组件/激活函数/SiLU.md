@@ -7,5 +7,5 @@ tags:
   - 激活函数
   - SiLU
 ---
-![[../../../../../pic/Pasted image 20251011230621.png]]![[../../../../../pic/Pasted image 20251011230635.png]]
+![Pasted image 20251011230621](../../../../../pic/Pasted%20image%2020251011230621.png)![Pasted image 20251011230635](../../../../../pic/Pasted%20image%2020251011230635.png)
 其中β是可学习参数（β=1 时退化为 SiLU）

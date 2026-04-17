@@ -6,7 +6,7 @@ tags:
   - 强化学习
 ---
 ##### REINFORCE 算法
-![[../../../../pic/Pasted image 20251213035221.png]]
+![Pasted image 20251213035221](../../../../pic/Pasted%20image%2020251213035221.png)
 属于Policy-based方法，需要完整走完一整个轨迹（trajectory）
 
 - **优点**：直接优化策略，能处理连续动作空间，理论推导简单。

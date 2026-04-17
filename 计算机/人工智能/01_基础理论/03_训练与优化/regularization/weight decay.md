@@ -14,7 +14,7 @@ aliases:
 
 
 
-![[../../../../../pic/Pasted image 20250927005828.png]]
+![Pasted image 20250927005828](../../../../../pic/Pasted%20image%2020250927005828.png)
 一、左图：验证损失 vs 训练损失（不同 weight decay）
 - 每个点是一段训练的结果，不同颜色代表不同的 AdamW weight decay（例如 0.0 / 0.1 / 0.3）。
 - 所有点基本落在一条直线上：训练损失越低，验证损失也等比例降低，各个 weight decay 几乎没有分叉。
