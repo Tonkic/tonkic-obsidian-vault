@@ -7,4 +7,4 @@ tags:
   - 损失函数
   - z-loss
 ---
-![[../../../../../pic/Pasted image 20250927215902.png]]
+![Pasted image 20250927215902](../../../../../pic/Pasted%20image%2020250927215902.png)

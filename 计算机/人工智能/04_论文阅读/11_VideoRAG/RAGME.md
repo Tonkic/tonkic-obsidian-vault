@@ -5,7 +5,7 @@ tags:
 ---
 ### 核心工作
 将RAG技术运用到T2V任务中[https://github.com/helia95/ragme]
-![[../../../../pic/Pasted image 20260414233850.png]]
+![Pasted image 20260414233850](../../../../pic/Pasted%20image%2020260414233850.png)
 
 ### 方法
 ##### 1. 跨模态视频检索 (Retrieval Mechanism)

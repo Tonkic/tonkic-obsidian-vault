@@ -3,7 +3,7 @@ tags:
   - NeurIPS2025
 ---
 ### Motion Retrieval-Augmented Image-to-Video Generation
-![[../../../../pic/Pasted image 20260415011248.png]]
+![Pasted image 20260415011248](../../../../pic/Pasted%20image%2020260415011248.png)
 
 ### 核心工作
 将RAG思想用于 Image-to-Video 任务。论文提出 MotionRAG：先根据文本从视频库中检索出具有相似运动模式的参考视频，再把这些视频中的高层运动信息迁移到目标图像上，最后注入到现有 I2V 扩散模型中，提升生成视频的运动真实性与物理合理性。

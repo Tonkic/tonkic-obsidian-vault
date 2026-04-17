@@ -7,5 +7,5 @@ tags:
   - 归一化
   - QK
 ---
-![[../../../../../pic/Pasted image 20250927223307.png]]
-- 加入了LN操作([[LayerNorm.md]])
+![Pasted image 20250927223307](../../../../../pic/Pasted%20image%2020250927223307.png)
+- 加入了LN操作([LayerNorm](LayerNorm.md.md))

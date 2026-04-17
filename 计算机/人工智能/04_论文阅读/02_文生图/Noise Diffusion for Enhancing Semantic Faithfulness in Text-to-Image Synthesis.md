@@ -5,7 +5,7 @@ tags:
   - 论文阅读
   - 文生图
 ---
-![[../../../../pic/Pasted image 20260225220351.png]]
+![Pasted image 20260225220351](../../../../pic/Pasted%20image%2020260225220351.png)
 
 LVLM：Large VLM
 1.随机的初始噪声Initial Noisy Latent开始（左下角），经过一个完整的去噪模型，得到没有车的初稿
