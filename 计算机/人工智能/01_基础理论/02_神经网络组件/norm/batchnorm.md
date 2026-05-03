@@ -7,10 +7,7 @@ tags:
   - 归一化
   - 批归一化
 ---
----
-aliases:
-  - batch normalization
----
+
 - 大批量数据分成一小批一小批数据分别做归一化
 
 ![Pasted image 20250924233348](../../../../../pic/Pasted%20image%2020250924233348.png)
