@@ -66,20 +66,10 @@ $$
 
 $$  
 \text{生成符合条件的图像}
-
+=
 \text{生成自然图像}  
 +  
 \gamma \times \text{让图像更像类别 } y  
-$$
-
-例如想生成一张狗的图像：
-
-$$  
-\text{生成狗图}
-
-\text{生成自然图像}  
-+  
-\gamma \times \text{让分类器更确信这是狗}  
 $$
 
 当 $\gamma$ 越大时，生成结果越倾向于符合类别 $y$，但如果 $\gamma$ 太大，也可能导致图像失真或不自然。
@@ -89,34 +79,23 @@ $$
 ### 2. Classifier-Free Guidance
 
 **Classifier-Free Guidance，CFG** 不需要额外训练一个 classifier。
-
 它的做法是：训练一个 conditional diffusion model，让同一个 diffusion model 同时学会两种模式：
-
 1. 有条件生成：输入条件 $y$，学习 $p(x\mid y)$；
-    
 2. 无条件生成：不输入条件，学习 $p(x)$。
-    
-
 训练时，模型大多数时候会看到正常条件 $y$，例如类别标签或文本 prompt；但在一部分训练步骤中，比如 10% 到 20%，条件 $y$ 会被随机移除，替换成空条件 $\emptyset$。
-
 因此，同一个模型既能在有条件时运行：
-
 $$  
 s_\text{cond}(x_t,t,y) \approx \nabla_{x_t}\log p(x_t\mid y)  
 $$
-
 也能在无条件时运行：
-
 $$  
 s_\text{uncond}(x_t,t) \approx \nabla_{x_t}\log p(x_t)  
 $$
-
 其中 $s$ 表示 score，也就是对数概率对 $x_t$ 的梯度方向。
-
 CFG 的核心公式是：
 $$  
 s_\text{guided}
-
+=
 s_\text{uncond}  
 +  
 \gamma\left(s_\text{cond}-s_\text{uncond}\right)  
@@ -125,7 +104,7 @@ $$
 展开后得到：
 $$  
 s_\text{guided}
-
+=
 (1-\gamma)s_\text{uncond}  
 +  
 \gamma s_\text{cond}  
@@ -134,29 +113,23 @@ $$
 如果写成概率梯度形式，就是：
 $$  
 \nabla_x \log p_\gamma(x\mid y)
-
+=
 (1-\gamma)\nabla_x \log p(x)  
 +  
 \gamma \nabla_x \log p(x\mid y)  
 $$
 
 其中：
-
 - 当 $\gamma=0$ 时，只使用无条件模型，相当于从 $p(x)$ 采样；
-    
 - 当 $\gamma=1$ 时，只使用标准条件模型，相当于从 $p(x\mid y)$ 采样；
-    
 - 当 $\gamma>1$ 时，模型会把条件方向进一步放大，这就是 CFG 的主要效果来源。
-    
 
 CFG 中最关键的部分是：
-
 $$  
 s_\text{cond}-s_\text{uncond}  
 $$
 
 这个差值可以理解为“条件 $y$ 带来的额外方向”。
-
 也就是说：
 
 $$  
@@ -171,7 +144,7 @@ $$
 
 $$  
 s_\text{guided}
-
+=
 \text{自然图像方向}  
 +  
 \gamma \times \text{条件引导方向}  
