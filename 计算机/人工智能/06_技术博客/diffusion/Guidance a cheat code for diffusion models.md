@@ -1,5 +1,6 @@
 ## Classifier Guidance 和 Classifier-Free Guidance 的区别
-
+### 最简理解：
+Classifier Guidance 是用外部分类器告诉 diffusion 往哪个类别走；Classifier-Free Guidance 是让 diffusion 自己同时学会有条件和无条件预测，然后用二者差值当作条件引导方向。
 ### 1. 传统 Classifier Guidance
 传统的 **Classifier Guidance** 需要两个模型：
 1. 一个无条件 diffusion model；
@@ -27,7 +28,7 @@ $$
 因此得到：
 $$  
 \nabla_x \log p(x\mid y)
-
+=
 \nabla_x \log p(x)  
 +  
 \nabla_x \log p(y\mid x)  
@@ -37,7 +38,7 @@ $$
 
 $$  
 \nabla_x \log p_\gamma(x\mid y)
-
+=
 \nabla_x \log p(x)  
 +  
 \gamma \nabla_x \log p(y\mid x)  
@@ -48,12 +49,9 @@ $$
 其中：
 
 - $\nabla_x \log p(x)$：无条件 diffusion model 提供的方向，让样本变得更像真实图像；
-    
 - $\nabla_x \log p(y\mid x)$：classifier 提供的方向，让样本更像目标类别 $y$；
-    
 - $\gamma$：guidance scale，用来放大条件引导强度。
     
-
 更准确地说，在 diffusion 采样过程中，$x$ 通常是某个时间步的带噪样本 $x_t$，所以公式也可以写成：
 
 $$  
@@ -181,10 +179,7 @@ $$
 
 这就是为什么它叫 **Classifier-Free Guidance**：它不需要额外的 classifier，而是用同一个 diffusion model 的有条件预测和无条件预测之间的差值，来构造类似 classifier guidance 的条件引导方向。
 
----
-
 ### 3. 和实际 diffusion 模型输出的关系
-
 上面的公式用的是 score 形式：
 
 $$  
@@ -192,49 +187,22 @@ s(x_t,t)=\nabla_{x_t}\log p(x_t)
 $$
 
 但实际 diffusion 模型不一定直接预测 score。
-
 有些模型预测噪声 $\epsilon$，有些模型预测 velocity $v$，有些模型预测 denoised sample $x_0$。
-
 因此在实际代码或论文中，CFG 也常写成：
 
 # $$  
-\epsilon_\text{guided}
-
-\epsilon_\text{uncond}  
-+  
-\gamma\left(\epsilon_\text{cond}-\epsilon_\text{uncond}\right)  
-$$
-
-或者：
-
-# $$  
 v_\text{guided}
-
+=
 v_\text{uncond}  
 +  
 \gamma\left(v_\text{cond}-v_\text{uncond}\right)  
 $$
 
-它们的直觉是一样的：
-
-# $$  
-\text{guided prediction}
-
-## \text{unconditional prediction}  
-+  
-\gamma \times  
-\left(  
-\text{conditional prediction}
-
-\text{unconditional prediction}  
-\right)  
-$$
-
 也就是：
 
-# $$  
+$$  
 \text{最终采样方向}
-
+=
 \text{自然生成方向}  
 +  
 \gamma \times \text{条件增强方向}  
@@ -273,7 +241,5 @@ $$
 |Classifier Guidance|需要|$\nabla_x\log p(y\mid x)$|
 |Classifier-Free Guidance|不需要|$s_\text{cond}-s_\text{uncond}$|
 
-最简理解：
 
-**Classifier Guidance 是用外部分类器告诉 diffusion 往哪个类别走；Classifier-Free Guidance 是让 diffusion 自己同时学会有条件和无条件预测，然后用二者差值当作条件引导方向。**。
 ![](../../../../pic/Pasted%20image%2020260613040346.png)
