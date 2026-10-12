@@ -1,0 +1,1 @@
+https://github.com/study8677/architecture-copilot
