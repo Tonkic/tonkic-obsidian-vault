@@ -1,0 +1,2 @@
+使用ThreadLocalMap实现,本质哈希
+ThreadLocal对象当key,想要获取的资源当value
