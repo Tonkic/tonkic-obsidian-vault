@@ -1,2 +1,3 @@
 使用ThreadLocalMap实现,本质哈希
 ThreadLocal对象当key,想要获取的资源当value
+为什么key使用弱引用?防止内存泄露
