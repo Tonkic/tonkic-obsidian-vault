@@ -1,3 +1,6 @@
+解决并发安全问题,将资源复制多份使用(和锁的区别:锁是资源只有一份)
+
 使用ThreadLocalMap实现,本质哈希
 ThreadLocal对象当key,想要获取的资源当value
 为什么key使用弱引用?防止内存泄露
+value是强引用
