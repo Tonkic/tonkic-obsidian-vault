@@ -10,3 +10,9 @@
 .Vs/
 
 
+# 本地配置、凭据与部署信息，不提交到 GitHub
+/计算机/网络/ddns/
+/计算机/人工智能/99_项目实战/本地部署qwen3.6/
+/计算机/ai编程工具/claude code/linux开荒.md
+/计算机/ai编程工具/claude code/配置url与api.md
+/计算机/网络/路由器/Padavan+hysteria2.md
